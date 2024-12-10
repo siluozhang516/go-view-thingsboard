@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.77 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #dbdbdb;
+            }
+
+            .cls-2 {
+                fill: #c16264;
+            }
+
+            .cls-3 {
+                fill: #b60717;
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_27" data-name="图层 27">
+        <rect class="cls-1" width="119.39" height="150" />
+        <rect class="cls-2" x="16.33" y="13.78" width="86.73" height="44.9" />
+        <rect class="cls-3" x="16.33" y="58.67" width="86.73" height="78.06" />
+    </g>
+    
+</svg>

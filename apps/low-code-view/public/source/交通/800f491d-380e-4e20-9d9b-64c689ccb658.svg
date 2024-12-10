@@ -1,0 +1,19 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="0.8974in" height="1.0750in" viewBox="0 0 834 999">
+
+<circle style="fill:#ffab00;stroke:#000;stroke-width:2" cx="158" cy="95" r="67" />
+<circle style="fill:#ffff56;stroke:#ffff56;stroke-width:2" cx="133" cy="77" r="19" />
+<path style="fill:#ababab;stroke:#000;stroke-width:2" d="M80,526 l86,0 0,444 -86,0 0,-444z" />
+<path style="fill:#ababab;stroke:#000;stroke-width:2" d="M668,526 l87,0 0,442 -87,0 0,-442z" />
+<path style="fill:#ababab;stroke:#000;stroke-width:2" d="M167,835 l501,0 0,47 -501,0 0,-47z" />
+<path style="fill:#00f;stroke:#000;stroke-width:2" d="M78,163 l168,0 0,88 -168,0 0,-88z" />
+<path style="fill:#f00;stroke:#ababab;stroke-width:2" d="M28,252 l778,0 0,275 -778,0 0,-275z" />
+<path style="fill:#fff;stroke:#ababab;stroke-width:2" d="M30,291 l32,-36 53,0 -85,98 0,-62z" />
+<path style="fill:#fff;stroke:#ababab;stroke-width:2" d="M30,448 l168,-193 72,0 -235,270 -5,0 0,-77z" />
+<path style="fill:#fff;stroke:#ababab;stroke-width:2" d="M99,525 l235,-270 78,0 -235,270 -78,0z" />
+<path style="fill:#fff;stroke:#ababab;stroke-width:2" d="M256,525 l234,-270 69,0 -234,270 -69,0z" />
+<path style="fill:#fff;stroke:#ababab;stroke-width:2" d="M417,525 l234,-270 83,0 -234,270 -83,0z" />
+<path style="fill:#fff;stroke:#ababab;stroke-width:2" d="M586,525 l217,-252 0,101 -131,151 -86,0z" />
+
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 149.78 133.02">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-2 {
+                opacity: 0.93;
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_105-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-5 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_105" x1="22.52" y1="114.69" x2="22.52" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="76.43" y1="114.69" x2="76.43" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-3" x1="132.99" y1="67.36" x2="132.99" y2="47.33" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_74" x1="68.87" y1="133.02" x2="68.87" y2="114.69" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+    </defs>
+    <title>Refiner（磨浆机）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_55" data-name="图层 55">
+            <g id="Refiner_磨浆机_" data-name="Refiner（磨浆机）">
+                <rect class="cls-1" x="8.38" width="28.28" height="114.69" />
+                <path class="cls-2"
+                    d="M116.2,87.72s-25.56,15.2-35.55,18.59-44,8.38-44,8.38V0S72.25,5.78,82.19,9.15,116.2,27,116.2,27Z" />
+                <rect class="cls-3" x="116.2" y="47.33" width="33.58" height="20.03" />
+                <rect class="cls-4" y="114.69" width="137.73" height="18.33" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

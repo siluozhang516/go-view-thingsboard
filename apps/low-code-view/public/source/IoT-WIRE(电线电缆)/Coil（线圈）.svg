@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 89.73 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-4 {
+                fill: none;
+                stroke: #b0b0b1;
+                stroke-miterlimit: 10;
+                stroke-width: 0.5px;
+            }
+
+            .cls-5 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" y1="5.54" x2="89.73" y2="5.54" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" y1="144.46" x2="89.73" y2="144.46" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-3" x1="6.89" y1="75.16" x2="84.4" y2="75.16" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>Coil（线圈）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_14" data-name="图层 14">
+            <g id="Coil_线圈_" data-name="Coil（线圈）">
+                <rect class="cls-1" width="89.73" height="11.07" />
+                <rect class="cls-2" y="138.93" width="89.73" height="11.07" />
+                <rect class="cls-3" x="6.89" y="11.07" width="77.52" height="128.17" />
+                <line class="cls-4" x1="6.64" y1="24.1" x2="84.15" y2="24.1" />
+                <line class="cls-4" x1="6.64" y1="36.77" x2="84.15" y2="36.77" />
+                <line class="cls-4" x1="6.64" y1="49.44" x2="84.15" y2="49.44" />
+                <line class="cls-4" x1="6.64" y1="62.11" x2="84.15" y2="62.11" />
+                <line class="cls-4" x1="6.64" y1="74.78" x2="84.15" y2="74.78" />
+                <line class="cls-4" x1="6.64" y1="87.45" x2="84.15" y2="87.45" />
+                <line class="cls-4" x1="6.64" y1="100.12" x2="84.15" y2="100.12" />
+                <line class="cls-4" x1="6.64" y1="112.79" x2="84.15" y2="112.79" />
+                <line class="cls-4" x1="6.64" y1="125.46" x2="84.15" y2="125.46" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

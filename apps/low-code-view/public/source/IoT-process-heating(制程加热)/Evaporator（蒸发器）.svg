@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 126.17">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-10 {
+                fill: none;
+            }
+
+            .cls-2 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-3 {
+                clip-path: url(#clip-path-2);
+            }
+
+            .cls-4 {
+                clip-path: url(#clip-path-3);
+            }
+
+            .cls-5 {
+                clip-path: url(#clip-path-4);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_67-3);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_67-4);
+            }
+
+            .cls-10 {
+                stroke-miterlimit: 10;
+                stroke-width: 8px;
+                stroke: url(#未命名的渐变_105);
+            }
+
+            .cls-11 {
+                opacity: 0.2;
+            }
+
+            .cls-12 {
+                fill: url(#未命名的渐变_67-5);
+            }
+
+            .cls-13 {
+                fill: url(#未命名的渐变_67-6);
+            }
+
+            .cls-14 {
+                fill: url(#未命名的渐变_67-7);
+            }
+
+            .cls-15 {
+                fill: url(#未命名的渐变_67-8);
+            }
+
+            .cls-16 {
+                fill: url(#未命名的渐变_67-9);
+            }
+
+            .cls-17 {
+                fill: url(#未命名的渐变_67-10);
+            }
+
+            .cls-18 {
+                fill: url(#未命名的渐变_67-11);
+            }
+
+            .cls-19 {
+                fill: url(#未命名的渐变_67-12);
+            }
+
+            .cls-20 {
+                fill: url(#未命名的渐变_67-13);
+            }
+
+            .cls-21 {
+                fill: url(#未命名的渐变_67-14);
+            }
+
+            .cls-22 {
+                fill: url(#未命名的渐变_67-15);
+            }
+
+            .cls-23 {
+                fill: url(#未命名的渐变_67-16);
+            }
+        </style>
+        <clipPath id="clip-path">
+            <path class="cls-1" d="M19.63,121.72V122a4,4,0,1,1-8,0v-.32Z" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path class="cls-1" d="M39.45,13.46l0,.46a4,4,0,0,1-7.95.54l-.05-.54,0-.2Z" />
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path class="cls-1" d="M130.68,4.33V4a4,4,0,0,1,8,0v.33Z" />
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path class="cls-1" d="M110.84,31.74v-.33a4,4,0,1,1,8,0v.33Z" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_67" x1="-3.6" y1="76.57" x2="-3.6" y2="-58.88"
+            gradientTransform="translate(79.25 17.18)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-2" x1="1.61" y1="76.57" x2="1.61" y2="-58.88"
+            gradientTransform="translate(74.04 22.4)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-3" x1="6.83" y1="76.57" x2="6.83" y2="-58.88"
+            gradientTransform="translate(68.83 27.61)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-4" x1="-8.81" y1="76.57" x2="-8.81" y2="-58.88"
+            gradientTransform="translate(84.47 11.97)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_105" x1="0.45" y1="59.51" x2="150.03" y2="59.51" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-5" x1="12.04" y1="76.57" x2="12.04" y2="-58.88"
+            gradientTransform="translate(63.61 32.82)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-6" x1="17.25" y1="76.57" x2="17.25" y2="-58.88"
+            gradientTransform="translate(58.4 38.04)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-7" x1="22.47" y1="76.57" x2="22.47" y2="-58.88"
+            gradientTransform="translate(53.19 43.25)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-8" x1="27.68" y1="76.57" x2="27.68" y2="-58.88"
+            gradientTransform="translate(47.98 48.46)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-9" x1="32.89" y1="76.57" x2="32.89" y2="-58.88"
+            gradientTransform="translate(42.76 53.67)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-10" x1="38.1" y1="76.57" x2="38.1" y2="-58.88"
+            gradientTransform="translate(37.55 58.89)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-11" x1="43.32" y1="76.57" x2="43.32" y2="-58.88"
+            gradientTransform="translate(32.34 64.1)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-12" x1="48.53" y1="76.57" x2="48.53" y2="-58.88"
+            gradientTransform="translate(27.13 69.31)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-13" x1="53.74" y1="76.57" x2="53.74" y2="-58.88"
+            gradientTransform="translate(21.91 74.52)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-14" x1="58.95" y1="76.57" x2="58.95" y2="-58.88"
+            gradientTransform="translate(16.7 79.74)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-15" x1="64.17" y1="76.57" x2="64.17" y2="-58.88"
+            gradientTransform="translate(11.49 84.95)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-16" x1="69.38" y1="76.57" x2="69.38" y2="-58.88"
+            gradientTransform="translate(6.28 90.16)" xlink:href="#未命名的渐变_67" />
+    </defs>
+    <title>IoT-process heating(制程加热)</title>
+    <g id="图层_5" data-name="图层 5">
+        <g class="cls-2">
+            <image width="9" height="18" transform="translate(11 120.15)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAASCAYAAACJgPRIAAAACXBIWXMAAAsSAAALEgHS3X78AAAAg0lEQVQoU53QMQoFIQwE0BkL6/Te/yh7BjsvIQiCkq0UV7N89g+kyiPK8LouLaUghAARgYig946cM1JKiDHCqSr2qOocAHAkD0RyDgC4Qxj5H/Xe35H3HlactSSJ1toTjVh1TDSWKyKJWuuJ9pg97fiBrOVr458/Dvx4boCJVvD50pobE+FN6CleicIAAAAASUVORK5CYII=" />
+        </g>
+        <image width="29" height="123" transform="translate(11 -0.85)"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAB7CAYAAACIPotIAAAACXBIWXMAAAsSAAALEgHS3X78AAAEL0lEQVRoQ+2aTU/bShSGn7EnYxInqSPU0g0olbpi211/j38Wv6YLFkhd0Y9FpYrWKggBopAPx9ieuYtej+ASPm7F2JHws0qcUZ68c86cSE6EMYb/S5IkBqAsS8bjsXho/X8Rj5EmSWIODg5I05SiKPB9H9/3yfMcIQRCCIIgYDAY8O7duwc/xL3S/f19kyQJSik8z6Pb7d54vZJfXV2htSZNU/I859WrV/fK75R++PDBpGnKcDgkCAK63S5KKSuSUjKdTpFSslgsAJhOpxRFwWw2w/M83r59y9bW1i35LenPnz/N58+fWVtbI4oi1tbWGAwG+L5Pv99HCIHv+3Z9nufMZjMA5vM5V1dXZFnGdDrl8vKS7e3tW3WX158kSWI+ffrEaDSi0+nQ7/cZjUaEYQiAMQZjDFpr+1xKSRRFlGWJ7/t4nsfZ2RlBECCl5OvXr/i+bzY3N634hvTbt28Mh0MAwjBkY2ODTqdDtRtaa8qyJMsyK63eXAjBYDAA/qSfTCZIKen1enz58oXNzU3rsdK9vT2jtabf7xMEAVEUIaVEa43WmqIoyLKMLMtYLBbM53MAXrx4Qa/Xs/WWUtprUkqklOR5zu7urnn//r2w0iRJzNnZGVEUEQQBL1++JAxDtNZWslgsuLi44Pj4mKOjI8qyxPM81tfXef36NVEUMRwOUUoRBAFKKdbX18myjDAMOT8/5+DgwIzHY1FJ6XQ6AERRZIVVuu/fv3NxccHR0ZHdojiOxc7Ojjk5OeHk5IRer8fW1hZv3rxBSmmbLYoiANI05fDwkPF4/CfpYrEgDEOiKKLX69kalmXJ5eUlk8nECuM4tg1RPd7Z2THz+ZwfP34wGo1snZVSCCGYzWZ0u10mkwkAXiWtkPJPmY0xZFnG79+/+fXr1y3hdeI4FnEcizRNOT4+tpMLwPM8+572WpIkxvM8lFJ28lQL0jRdmvA+kiRhPp+TZRlaa3zftyNSKcXHjx+NVxQFSimKorDnsWqg8/NzTk9PHy2M41jkec7p6SnGmBtpq87Osgzv8PAQrTXD4dDW0hhDWZakaXqf416qAVJxffJJIW6HqL45lr32EMt2pdvtsrGxwfb2NvBvI9VNK3VKK3VKK3VKK3VKK3VKK3VKK3XKUmlZlssuPxmrk9Q1rdQpz1SqlLpr3ZPSfNK6WB2pEMLepHCBBxAEwUPrnpTV2V7XNCd9zC8WT0lzSSvqStx80rpopcDN2+xPyeol/ZubzI/hmU6kurhzDLqqJ6xC0rpYPamruq5eUle0E8kpzUvrqm17Tp3yzKR1dW3F0qR/+3eDx9Lc9t6Fq7SrN5Fc0Uqd0py0rq6taC7pXdQyHOqieWldDdV80rpYLamr4wJNntO6urZitWrqkmcqrauhrNTV8ViGd186Vx+k2ZrWVU9oJ5JjWqlTGpH+A8vL5uXfpEsHAAAAAElFTkSuQmCC" />
+        <g class="cls-3">
+            <image width="10" height="18" transform="translate(31 12.15)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAASCAYAAABit09LAAAACXBIWXMAAAsSAAALEgHS3X78AAAA70lEQVQoU32Ry5GEMAxEn8B8CkIgAlIgngmL7DjBASgOQAFGc9iyB2bZ7ZMtv+qWZFFVANq21TRNieOYaZro+562bYnjmKqqxNR1rUVRUJYlSZKgqpznCcBxHERRBEAA4FydsixDRMjz3Nc8+A2LCADLstzBbdt8pIh40CkAGMcRay3neXpnEcEY4+8BwL7vj9Eiwr7vH9BFfkPX+McejTG/wdfrJYAHrz2KCGEYfhyf9BgNP79wHShJkhv8pyPw7DjPs1/FFQyCgKZp1IPWWlQVa+0NdPo32k0MF3AYhkfYyYOqyrqu/iHLMn/uuo43P9ODxYK194MAAAAASUVORK5CYII=" />
+        </g>
+        <image width="29" height="114" transform="translate(31 12.15)"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAByCAYAAACvMdqAAAAACXBIWXMAAAsSAAALEgHS3X78AAAEkklEQVRoQ+2bS0/qWhTH/7vdbYVSaBujIuKDOGHgyJlDP4sfi8/h0Jl+AQcOjImJGl9BC6VA33fg6b7AaSknl01Prv4SJnTBn7X2Wms/Wsjl5WVMCIGu69je3oYsy/A8D5Zl4ebmBo+Pjzg7OyNYIkKeAQ+KER2Px3k2S6cYT/MMePAjypViRAlZarNZiGI8zTPgwY8oV35EufJ9mgPNM/hTOp1O3G630Wq1oGkaRFGEZVmwLAtPT08wDIOPp3Ecs1caXETnEcfxakWTpF2paAIX0ayxTOAiOstsL/j/N4fvlUhc63SeMDfRSX7L3gw7rnARzQptsdk7G++8FrYMVuJp4YnErU7zhoiLqCRJqcuVYrM3z4AHKxFdKHujKEp7e2msxNMElkirXq5wq1MAEEUx8xo30Xmkii475AtlL08opasV9X0fwISnlC59q5pJpqdhGGZdWhhB+Pr6xEP2fpoxb1hzyJqGeFCMp3kGPChWNG9ds0yK9TSNZdRqGn+fp7z4+5oDL+FiwptnwINiRdM60s+Y/leKEZ0dN0LI1IsH3+g5B14hnEcxnuYZ8GBl4U06HrdNcdptr8kS5CY6SaG3SAgh/MObsJKd+B+fbPNY6SdiLLw8xpRSWvxN20lPgQzRZZwNZh1ecQvvLAtlL68f4vv+9DnS7JHOMnZsmacrhe5leNRnFsVsiueFl1eIf7YVXOGywk9brkwiKIoCx3EAAMPhEMBXoyiVStjc3Ez9UBadTicWRRGmaUJRFNYcAMC2bQRB8PU80sbGBgDAdd2pL6CUQtM0mKaJTqezcBHv7+9DVVVQSlmkRqMR63itVosIzWaTBEGAIAiYxwAgyzJUVWXe5gkn13VdR6lUYrOM53lwXReu605PbVEUIQxDBEEAz/MgCAIIIZAkCYZhoFwuT31xluDOzg5M02RezuaELMsAfj1jVqvVYNs2VFXFcDiELMtMVNd1tNttvL6+4vn5OVVYURTs7e1B0zTIssw+7/s+Xl5e0Ov14DgODMP4V3R3dxfX19ewbRuiKIJSikqlAlEUoaoqGo0GTNNEo9FAt9vFYDDA+/s76vU6NE3D+vo6KpUKJEligoQQOI6DKIrYouD4+Jgw0WazSd7e3uLPz0/IsgzLsqZ+MaUUiqJAVVWYponBYIDDw0OUSiXIsgxFUb7myV/DIggCe4LOsizYto2DgwMWGTJZSxcXFzEAqKqKarXK/msxWXNRFMHzvK8wUQpRFFlpJGPY6/Xw8fHBwloul3FycsIGmMwW8Pn5eWwYBgRBQLVaha7rUFUVkiQBmF5Izy64PM9Dt9uF67ro9/uwbRuCIOD09HQqo367A3R0dITb29upsbBtG5qmAQDK5TIEQQClFEEQIAxDuK6LKIpgWRY8z8NwOGRDNCsIpHiacHV1Fff7fdRqNQiCAFVVIYoiJElCGIYIw3CqJFzXxWg0guM4cF0XW1tbLHFmyRQFgLu7u/j+/h6u67IaS8QnJ/jxeMzqPMu7SeaKJjw8PMS9Xg/9fh+O48D3fcRxDEII1tbWoCgK6vU6Wq3WQjPEP4Xk+g6FOjQHAAAAAElFTkSuQmCC" />
+        <image width="29" height="109" transform="translate(51 -0.85)"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAABtCAYAAABdsWrOAAAACXBIWXMAAAsSAAALEgHS3X78AAAFDUlEQVRoQ+WZ226bShSGPwYKthEOzUUrWbLam7xEnyeP1WfpXXPVqFIvelDUg+SmrVMlcWwTYgwz+6KCAOHgxIC79/6kKOBZ+Odfa82Yg6aU4r5MJhMFMB6PtbrYIrQ60clkoqbTKb7v4/s+YRhimiYAYRgipaTX69Hr9RiPxxudSKXo0dGRms1mmKaJEIJ+v58ZN02TIAgA8Dwv+fzZs2ccHByUiheKnpycqK9fvyKEwLZtXNcF/ojouo5lWQAsl0sMw+Dm5gaAxWJBFEVcXV0xHA558eJFofAd0devX6v5fI7ruknaXNdlMBigaRqPHj3KxEdRRBRFeJ6H53mEYchsNsPzPIQQHBwc3Em5kd45Pj5Ws9mM/f19XNfFMAyePHmS1FAphZQyfQhCCHRdxzRNHMdhsViglEIIgZSST58+MR6Ps8ekd6bTaSLoui5Pnz7FNM1ETErJarVKXN3c3CTNJKVE13UeP37MaDRiOByi6zq6rnN0dJRJZ+L01atXyrZt+v1+IqqUIooilFKsVivW6zVBEHBxcQFAr9fDcRxM08SyLHRdR9M0LMtiNBrx+/dvoihiPp8zmUxUnGYD4M2bN0pKieM4OI7DYDAAQEqJ53lEUcTl5SWe53FxccH3798B6Pf7jEYjXNdlf38/EbcsC9M0sW2b9XoNwMnJSZJmAXB2doZt2ziOg23bmKaJlJIgCPB9ny9fvvD27VvevXuXCB4eHmq+7/P582eOj495//49v379Yr1eo5RCKcVwOIwTiZSSb9++qcRpjFKKvb09pJRJSi8vL/n48WMilI6P91++fKlOT0+RUrK3t5c4FkIk0833fX78+MHz588RHz58UKZpJrUE0DSNKIoIgoDpdFoomCYe+/nzJ1dXVxm3g8GA+Pvj+SwWiwWGYWBZFobxx3jscrlccnp6WqaVIRY+Pz9PuloplXQwcCsaBEGSivT0CMOQ8/NzlFKVLvOcnZ3h+z5RFAGg63piBv6s5WK1WgEkk14pRRAEBEGQWU834fDwULu+vub6+powDJPPY6exqczi0BRxPYvWdaUUQtOymdM0LfPXJJqmVTuNi94EeQNJTYsCH0pRWmOXrdU0T/okakXn83nVcCllTuOxO42UDtomxXkyopsE3pcip+mx1pzmhTd22iQbiz7U6b3SK8TtOWyb3jyFTuNr2aLA+1I7ZaoCmyST0fQZ5IOadBrjOE62kcravAkyTuONqjo8hCoDlel9KEVNmUbA7eVEnm2E89xJb9nlRZOiy+Uy2RbpH1e4TfM23Qvl2QO6W3vTZNKbZxunUH584dVg/H9b0SJqf2UeSlljxrQiWkenovFM6VQ0pjPRwgW/KyrT2/S9TJpWnJZNlfjzUtE2FgZocXEoItNIZbeKbdKJ03yNOxFNs7uaVsQ1elOcpjOnMZ2mN01rN8V5Nq5pG+wuvXUBbbCb2//S0YbppJGq3LYmWkVn8zTmv1fTKloR3WrKtFFTaMlpHZ2Jpp/idCaaZjc1zcyf3KPXNsikt+4p132oe2jyP6ppvFF3rdoUnU6Zndb0zpPtPK3XtEnq+qOVJ9t1tOK0iI0bqS23GdG6WjRFa4vDX3Hd23pN67LWitNer1c5/t+ep2kE7Oi1V9fsTrTqHUobVC6DTdY081axIm4r/r63ipqmFda0ydTmueM0Ld6W8G7SWxfQBrsTLVsc/pU1LTvpVkXL+HtE21j809/5D9e1yiOSPFu/AAAAAElFTkSuQmCC" />
+        <g class="cls-4">
+            <image width="9" height="18" transform="translate(130 -12.85)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAASCAYAAACJgPRIAAAACXBIWXMAAAsSAAALEgHS3X78AAAAmklEQVQoU52QQQqEMAxFf1JKVoJ7b9Arez/XXQkiTWYxWFO1g8yHLNI8XtPSPM82TRNSShjHETFG7PuOZVmQc8a6rmAAMLOmrqnQNUQEIoKZtSY/POp/k4dKKQA6Jn/VzeThA+qaPNTdSVWxbVvt+Tjs5efrfNg3T2A1DcPw3vQUETkhEemCDKB+fwjhBqjqaVLVZi9mBvN3/AE6+HhRs98FgAAAAABJRU5ErkJggg==" />
+        </g>
+        <image width="29" height="123" transform="translate(110 3.15)"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAB7CAYAAACIPotIAAAACXBIWXMAAAsSAAALEgHS3X78AAAE1UlEQVRoQ+2bS27TQByHv/H4VRc/AogSqhCWLMoF2HAZjpVzcIKKNRvYVYAqFalFkWlwYie2h0VlkxYnLm3GqaCfVKWJJ/Pz/zUztidCKcUmGY1Gqt/vc3BwQBRFWJbFYrHg5OSEOI5JkgSjrZObYBiruxVC6BEFUErVf1fRJrqOe1GtaBFtK0Mtom10JiqEQAgBdCi6zL8pWrl0Ge2iTWgRvXMlo5TSJ3rV2vuS0cbVstEieueyFzoUvc/eztAiuip7i6IANIm2YR4dHanPnz8TBAGDwYAoiiiKgiRJOD4+5sOHD7x9+/bPSfGGKKUwLMsCfpu+zLprkjaaBvwKo2lmr2qq6dgmuLkpt6BRtG3sbKPt+3fHUt3826KXSmZNu43R6cphVRZrEW3jbok2jcWbonNLL11W+L6/ru1fs3aWWdXoNrT11bl74V5UM1oSqYlrD/hpmq47fGO0uLfNa1pE21grqn0J2uaS21CWJVmW1e9XWqrLyk7vIy2jRbQtVFpE2+gkka5inJ+ft7XZOI2XihW6Mni7Md0kbflRu7et4SbRYmkb/5GorrJYxaUBvymRbnpCqx5LV2zHvW0NdNB5TGFbllb/6BiRVt5z0OHeNgO2694mdHgBtmXp/dR2G9q8tp3LCh2dB0FwvVmmzSWbZDt1qqvjdWjJ3jY6F3UcZ0uJdB9TnWy3TjtNpOU3m7TMcZyVx7YT001ad10MuHDr1mLaFZdE1z3A2STbi2nXbGeWgW4F4b+MqQ6klI2faxFdlyMrV/ib2BpU3UtqOgFjMBiI+XwOQJ7n9QHTNPE8jyAIGI1Gf5XeQRBgWRZSSoQQ9TO72Wx2eTUIF6J5niOEwLZtgiBgf3+/seMmRqORchyHMAwvOjcMhBCUZclsNqMsS3Z2di5EXdcFLrYZlGUJXLjYsizCMERKeW1r+/0+YRhi23YdnsVigZSSoih48uTJb9HZbMZisWA6ndbxtCwL3/fp9/sAK4VHo5Gqjj169AjHcerMnc/nJEnCdDqlKAoGg4EwAfb39/n48SNxHAPgeR62bSOlxHVdXrx4ge/7fP36tVFYCMGzZ8/Y29uj1+vVS5UqnlUyVR41AYbDoTg6OlJJkuB5HuPxmKdPn2IYBq7r8vDhQ8Iw5PHjx/z48YPT01POzs5wHIfhcEgQBARBgOu6mKaJlBLDMMiyjPF4zHQ6JY5jXr58eXEyyyn97t071ev1iKKIXq9HGIZ12hdFQZ7nzOdzZrMZWZYhhCAIAqSUWJaFZVkIIWrByWTCeDzm7OwMz/N4/fq1qC2t2Nvb4/T0tN4vqJTC9/06PlJKbNvGdV2KokAIgZQS0zTrpBFCkGUZ3759AyBJEvI8rwXhiqUAh4eHKk1Tdnd3iaKodq9t2/WJVK/LQtVncRyTpinfv38nz3PiOObVq1cMBoPVogDv379XP3/+xPd9HMfhwYMH9d4Wz/MwDAPTNMnznKIoyLKsrsU0TYnjuM7ag4MDhsPhpaGtURTg06dP6suXL+zs7OB5HmVZEkURQP1btWUmk0m9nWgymeA4Dm/evGkcR1eKVhweHqrz8/Pavbu7u3WhV8znc5RSpGlKWZZ/uPMqraIVx8fH6uTkhCRJ6toTQuC6Lo7j0O/3MU2T58+ft84SvwCGYSDSRcdbmwAAAABJRU5ErkJggg==" />
+        <g class="cls-5">
+            <image width="9" height="18" transform="translate(110 15.15)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAASCAYAAACJgPRIAAAACXBIWXMAAAsSAAALEgHS3X78AAAAhUlEQVQoU63SMQoEIQwF0P/TauERvP9dPICt4AkEsQnZYhEcRncHdn8l8ZGkCEsplnOGcw4xRoQQoKrovaPWipQSBA9yRKp6R977Lb4gM7t9jjE+I5Ig+UattS2aEABkPnZoRkTkiB51+opmHfjHuJkLWkcASycRAUmY2XEvOYE1v53KmhdG9UTrEtyFnQAAAABJRU5ErkJggg==" />
+        </g>
+        <image width="29" height="111" transform="translate(90 -0.85)"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAABvCAYAAAAQecvFAAAACXBIWXMAAAsSAAALEgHS3X78AAAFEUlEQVRoQ+2ay27TTBiGn/GpiRNTp4QskBBsUIXEFVRcTi+LW6EXUKl7EF0AkQopoQ1JYxuf5l9EthzHiQv1uKj8j1Q1TZx5/R3n4AopJX/CeDyWSZLw4sULUXdtGXEb0fF4LMfjMUEQEAQBuq6j6zoAcRyTpim2beM4DqPRiGfPnu28kZ2i4/FYfvz4kTRN0TSNbre79nkmHoYhAMvlkjAMefToEW/evNkqvFX09PRUTqdTHMfBMAxc1wXAsixM08Q0TWAlpOs6QRAAsFgs8DyP5XLJ8+fPef369YZ4pei7d++klJJer0en06HT6eC6LrZtI4TIBTMySz3P4+bmhpubG4IgYLFY0O/3OTo6WhPeED05OZFpmtLr9RgOh/T7fWzbxrIsAKSUZN+RUqJp2mogsRo3DENmsxme5+W/9/b21txtFAXPzs5kHMc4joPruvT7/dytmVgcxyRJQhzHSCkxTRPDMDAMAykllmUxGo2YzWYIIdB1naurKz58+CAPDw/FhuhkMmEwGOC6bv4jpSRNU6IoIkkSoihiPp/jeR5SSlzXpdvtYhgGlmVhGAZCCFzXRdM0pJQkScKnT584PDwECu49OTmRAI7jcHBwwNOnT5FSEoYhv379Yrlc4vs+s9mMz58/43keAKPRiMePHzMcDul0OnS7XSzLwrIskiThx48fzOdzLi8vsW2bo6MjYcCqNHzf5+DgAMdxePLkSe7OMAy5uLjg4uKCyWRCmqYAHB8fC4C3b9/Ky8tLdF3n5cuXDIfD/PuGYTAYDPB9n16vx/X1Nbl7Z7MZe3t7OI7D/v4+pmmSpilxHBMEAZ7n8fXr1zWxjKL4+/fvefXqVT6GEALLstA0DV3XEUJwfn4uNVjVlmVZ6LqeZ6kQgiiK8H2f8/PzSsEq8el0iud5eaIBDAYDdF3Htm1+/vyJBqsCN00zT4Qs+FEUMZ1OiaJop2DG8fGx+P79O/P5fE1U0zRs20bTNBaLxUo0iiI0TSOO47zeoigiCII8Dr/DZDLB932SJMnLCsAwjFVL/fLli8zKIk3TPJ5RFHF9fc23b99qJDa5uroiCAKSJNn4LAgCNCFEbl1G9l72/m1cWybL/qo2q1Vcf2fqpss1Ucdxtl13Z4qeU2IprFtbDJcQYl20zi23pW4cJaKwOdaGew1jbbJpjCoXgyJLy6VSLkktu6jb7TYmWkVmqZRSXfaWqXTvtu7xp1SNlS3glIjuylwoxLRpTNPcmkxKLK1CuWg2TrbfKVOZvU2JZ2yNaZOWVpEtWUGRe4uUuxHsmNrucgPlDVYZ5ZbCjt5bJZqt5ptmZ++tisefEEXR2t+tuLdMpaXlJWgTFA1SNrWV86SyDbbJ/6KNo3yFX1d6SkTrUCa6y9rWdm1FlFlaRnkilSl2o42tYlvcv2hdfd0F5TGtm5uViNZx/6JNx7S8gVIa0zo0UHfQsY37s1QFty6ZphMpo7iklVLR6UrdzSsRreN+Rds6MYPCVrFNlLn31iWjmo1jujbJResm3rvyMLeKdR5TIgrrZ0mVRzqgJqbllUOGMkt3cX+iTbu1jtYsVX6yXYdSS3/rOP2u1HlMiWgdrcX032gOW3tvERVurnxE0iZ5G1SVSL/1XEYlD0f0r3gCVWarpSpvQIl763i4oq0uQbfRiqVlHvZqsMjOmDb1pHjrQ9s22Sna5EPbIn+fpar4x5pDGxQ9aTTt0m3/Ibu/v5+/vpc2+B95MfjjJf5l3AAAAABJRU5ErkJggg==" />
+        <image width="28" height="113" transform="translate(71 13.15)"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAABxCAYAAADGZ8MQAAAACXBIWXMAAAsSAAALEgHS3X78AAAE20lEQVRoQ+WawW6bShSGv5kBGzAhjhzZaqI0Unet1Krrdt8n6WP5ObLMC1RZ9QUqVarURq1NLEwx4LkLCy6ODfSmgNPeT7JiBTM/5z9nDuPBQmtNU0ynU62U4vXr15yfnzMYDJBS8unTJ+bzObPZDFk3yEPQWuev+xhXV1f65OSE4XDI2dkZpmny8+dPbm9vubm5Yblc8v79e7Fn3AfReIR1KWpcsI6/U1AIgRCbMuhEsMjfIZjZt48tQdM0yz73W/x/ciiE6FYQ7kVY15aaoJMIH2/RrFarqsOVlM3FxxVhG3Qi+MtFU9UTH8qOYNtzsRNLMzprbXtz6DhO6QkPZV8N/Pm9tO6iGxesIxesu7LfoXbip2maf7BpDmdpV3QiuDeHbRZNkU4izOislxY5nGBxE0AIQRzHpSf9V2onfpscfonRNocTbHPi7xRNr9erPKFJDmfpfdqo0Ly1le38NYUQgjAMgcdkKbRja+Pr0roxpJTduiqrtoubopiaTqcFdFylSZJ0Kwjsn/ht2QkdWfpLRdMWh+00RdoQg5KiaZrSHLYpmiG7EClymCptO4dFOolwsVjk7w8zLcpoQ7QTS4v8nUVT5M8XVEpVHt8RzL5aNVmhxfpoPMLisrO4SZHRuOA+SncxmnokW5WOTu6HxbqotPR3nq6V0VoOi7ZW7kS1sSDeK+g4Tms5zNjKYVNi+xyqtBSa39XfK9hUhFXsWHrw/dLWLO31ep1YChVLjKaig4rW1paoEIWtLyFEoxHWpWavpQ8VKyMbr3YXoynh4jhbEbYZZcbj2vpqKsqdb09tR1ik8a/ctQvh+7YVu8JDqaoLaVnWzj+VUti2zeXl5c6xOk5PTzk5OaHf7yOlJI5jlFJ55NKyrPxWFMcxQggMw8CyrPz3GdPp9Jd9n0wm2LaNYRjAJto0TUnTFMuykKPRiNVqRRAE+Z0eNotiz/MYj8dlY28xnU614zgcHx/T6/WQUiKEYLlcApsuY1kW0nEc4jgmTVNmsxmwyaNpmriuy/n5eT5glRjA5eUlnuft3O7m8zlRFOG6LsbFxYX4+PGjXq/XaK0JwxDbtpFSYhgGg8GAFy9ecHd3Vyo6Ho8ZjUaMRiP6/f7mNiQlq9WKu7u7fAXx6tUrYcDG9yw6y7IwTROlFL1ej/F4zPHxMUEQMJlM8H2fL1++EEURT548YTKZ4HkejuNsWZmmKd+/f2exWBCGIUdHRwCILPTr62utlMJ1Xc7OzhgOhwBkkcdxnL+yzmHbNrZt5xeolMqnVPbLdd/3WSwWvHv3TmwJAlxdXenRaITneQyHw/yq1+s18G/FJUkCgGEYKKXInn0IIUiShCAI+PHjB77vM5vNePnyJRcXFwLAoMB4PGY+n7Ner0mSBNd1GQwGuR1AnttMoNgglsslvu8TRRGLxYIgCBgOh7kY3IsQ4ObmRn/9+hXXdbde2cCu66K1xjRNkiQhTVOiKCJNU3zfZ7VaMZvNCMMQz/N4+/btVsvaEcy4vr7W6/Wao6Mjsr9KKUzTzCdyMbr5fA6Qz+fnz5/z9OnTnf5YKgjw4cMHfXt7i9aafr8PwGAwQCm11SSiKCIMQ4QQeJ7HmzdvShtxpWDG58+f9bdv3wiCgCiKiOMYrTVSShzHwbZtTk9PefbsWW3H/wePkktHR8h/SAAAAABJRU5ErkJggg==" />
+        <rect class="cls-6" x="74.94" y="-41.7" width="1.42" height="135.45"
+            transform="translate(101.69 -49.62) rotate(90)" />
+        <rect class="cls-7" x="74.94" y="-36.48" width="1.42" height="135.45"
+            transform="translate(106.9 -44.41) rotate(90)" />
+        <rect class="cls-8" x="74.94" y="-31.27" width="1.42" height="135.45"
+            transform="translate(112.11 -39.2) rotate(90)" />
+        <rect class="cls-9" x="74.94" y="-46.91" width="1.42" height="135.45"
+            transform="translate(96.47 -54.84) rotate(90)" />
+        <rect class="cls-10" x="4.45" y="13.12" width="141.58" height="92.78" />
+        
+        <rect class="cls-12" x="74.94" y="-26.06" width="1.42" height="135.45"
+            transform="translate(117.32 -33.99) rotate(90)" />
+        <rect class="cls-13" x="74.94" y="-20.85" width="1.42" height="135.45"
+            transform="translate(122.54 -28.77) rotate(90)" />
+        <rect class="cls-14" x="74.94" y="-15.63" width="1.42" height="135.45"
+            transform="translate(127.75 -23.56) rotate(90)" />
+        <rect class="cls-15" x="74.94" y="-10.42" width="1.42" height="135.45"
+            transform="translate(132.96 -18.35) rotate(90)" />
+        <rect class="cls-16" x="74.94" y="-5.21" width="1.42" height="135.45"
+            transform="translate(138.17 -13.14) rotate(90)" />
+        <rect class="cls-17" x="74.94" width="1.42" height="135.45" transform="translate(143.39 -7.92) rotate(90)" />
+        <rect class="cls-18" x="74.94" y="5.22" width="1.42" height="135.45"
+            transform="translate(148.6 -2.71) rotate(90)" />
+        <rect class="cls-19" x="74.94" y="10.43" width="1.42" height="135.45"
+            transform="translate(153.81 2.5) rotate(90)" />
+        <rect class="cls-20" x="74.94" y="15.64" width="1.42" height="135.45"
+            transform="translate(159.02 7.72) rotate(90)" />
+        <rect class="cls-21" x="74.94" y="20.86" width="1.42" height="135.45"
+            transform="translate(164.24 12.93) rotate(90)" />
+        <rect class="cls-22" x="74.94" y="26.07" width="1.42" height="135.45"
+            transform="translate(169.45 18.14) rotate(90)" />
+        <rect class="cls-23" x="74.94" y="31.28" width="1.42" height="135.45"
+            transform="translate(174.66 23.35) rotate(90)" />
+    </g>
+</svg>

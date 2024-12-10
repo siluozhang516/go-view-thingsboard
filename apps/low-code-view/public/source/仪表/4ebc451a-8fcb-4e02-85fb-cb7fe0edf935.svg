@@ -1,0 +1,14 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="0.7662in" height="1.0750in" viewBox="0 0 712 999">
+
+<path style="fill:#99f;stroke:#000;stroke-width:2" d="M109,69 l-81,-41 0,901 81,41 0,-901z" />
+<path style="fill:#e5e5ff;stroke:#000;stroke-width:2" d="M109,69 l-81,-41 573,0 83,41 -575,0z" />
+<path style="fill:#ccf;stroke:#000;stroke-width:2" d="M109,69 l0,901 575,0 0,-901 -575,0z" />
+<path style="fill:#ffffb2;stroke:#000;stroke-width:2" d="M192,795 l0,73 409,0 0,-73 -409,0z" />
+<path style="fill:#ffffb2;stroke:#000;stroke-width:2" d="M192,687 l0,74 409,0 0,-74 -409,0z" />
+<path style="fill:#ffffb2;stroke:#000;stroke-width:2" d="M192,580 l0,72 409,0 0,-72 -409,0z" />
+<path style="fill:#e5e5e5" d="M233,130 l0,82 409,0 0,-82 -409,0z" />
+<path style="fill:#000" d="M273,150 l0,42 328,0 0,-42 -328,0z" />
+
+</svg>

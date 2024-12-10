@@ -1,0 +1,66 @@
+{
+  "name": "@thingsboard/core",
+  "version": "3.8.0",
+  "description": "thingsboard/core",
+  "author": "liluo.zhang",
+  "main": "dist/bundle.cjs.js",
+  "module": "dist/bundle.esm.js",
+  "browser": "dist/bundle.browser.js",
+  "typings": "dist/index.d.ts",
+  "license": "ISC",
+  "exports": {
+    ".": {
+      "types":"./dist/index.d.ts",
+      "default":"./dist/bundle.esm.js"
+    }
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c --environment ENV:production",
+    "build:types": "tsc"
+  },
+  "devDependencies": {
+    "@rollup/plugin-alias": "^3.1.9",
+    "@rollup/plugin-commonjs": "^21.0.1",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^13.0.6",
+    "@types/sql.js": "^1.4.3",
+    "@types/wechat-miniprogram": "^3.4.0",
+    "generate-source-map": "^0.0.5",
+    "rollup": "^2.60.1",
+    "rollup-plugin-analyzer": "^4.0.0",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-require-context": "^1.0.1",
+    "rollup-plugin-serve": "^1.1.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-typescript2": "^0.31.1",
+    "rollup-plugin-web-worker-loader": "^1.6.1",
+    "tslib": "^2.7.0",
+    "typedoc": "^0.25.13",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.26",
+    "d3-dag": "^0.8.2",
+    "dayjs": "^1.11.3",
+    "inversify": "^6.0.1",
+    "inversify-inject-decorators": "^3.1.0",
+    "lodash": "~4.17.21",
+    "moment": "^2.29.1",
+    "moment-mini": "^2.24.0",
+    "moment-timezone": "^0.5.34",
+    "reflect-metadata": "^0.1.13",
+    "rxdb": "^13.3.0",
+    "rxjs": "^7.5.4",
+    "sql.js": "^1.8.0",
+    "threads": "^1.7.0",
+    "tinycolor2": "^1.4.2",
+    "url-parse": "^1.5.3"
+  }
+}

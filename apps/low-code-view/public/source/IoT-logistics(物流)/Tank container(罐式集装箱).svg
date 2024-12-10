@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.24 70.84">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #dadae0;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-3 {
+                fill: #a0a0a0;
+            }
+
+            .cls-4 {
+                fill: #2b2b2b;
+            }
+
+            .cls-5 {
+                opacity: 0.2;
+            }
+
+            .cls-6 {
+                fill: #040000;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="70.2" y1="61.21" x2="70.2" y2="9.63" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b8" />
+            <stop offset="0.03" stop-color="#9c9e9e" />
+            <stop offset="0.07" stop-color="#888b8b" />
+            <stop offset="0.09" stop-color="#818484" />
+            <stop offset="0.2" stop-color="#a3a5a5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c6c6" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888989" />
+            <stop offset="1" stop-color="#666767" />
+        </linearGradient>
+    </defs>
+    <title>Tank container(罐式集装箱)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_35" data-name="图层 35">
+            <g id="Tank_container_罐式集装箱_" data-name="Tank container(罐式集装箱)">
+                <path class="cls-1" d="M141.14,70.84H0V0H141.14ZM5,65.38H136.14V5.46H5Z" />
+                <path class="cls-2"
+                    d="M128,61.21H13.11l-.65-2.43a89.81,89.81,0,0,1,0-46.71l.65-2.44H128L129.5,18a100.08,100.08,0,0,1,0,34.78Z" />
+                <rect class="cls-1" x="24.26" y="3.63" width="25.87" height="6.01" />
+                <rect class="cls-1" x="91.5" y="3.63" width="25.87" height="6.01" />
+                <rect class="cls-3" x="24.26" y="4.48" width="25.87" height="0.98" />
+                <rect class="cls-3" x="24.26" y="8.65" width="25.87" height="0.98" />
+                <rect class="cls-3" x="91.5" y="4.48" width="25.87" height="0.98" />
+                <rect class="cls-3" x="91.5" y="8.65" width="25.87" height="0.98" />
+                <polygon class="cls-1" points="50.13 70.84 2.39 58.11 2.39 53.09 50.13 65.82 50.13 70.84" />
+                <polygon class="cls-1" points="93.5 70.84 141.24 58.11 141.24 53.09 93.5 65.82 93.5 70.84" />
+                <rect class="cls-3" width="5" height="5.46" />
+                <circle class="cls-4" cx="2.5" cy="2.73" r="1.07" />
+                <rect class="cls-3" y="65.38" width="5" height="5.46" />
+                <circle class="cls-4" cx="2.5" cy="68.11" r="1.07" />
+                <rect class="cls-3" x="136.14" y="65.38" width="5" height="5.46" />
+                <circle class="cls-4" cx="138.64" cy="68.11" r="1.07" />
+                <rect class="cls-3" x="136.14" width="5" height="5.46" />
+                <circle class="cls-4" cx="138.64" cy="2.73" r="1.07" />
+                <rect class="cls-1" x="25.96" y="9.63" width="1.79" height="51.58" />
+                <rect class="cls-1" x="55.06" y="9.63" width="1.79" height="51.58" />
+                <rect class="cls-1" x="84.16" y="9.63" width="1.79" height="51.58" />
+                <rect class="cls-1" x="113.26" y="9.64" width="1.79" height="51.58" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

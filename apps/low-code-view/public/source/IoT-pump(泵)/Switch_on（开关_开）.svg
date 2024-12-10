@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 91.06">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_85);
+            }
+
+            .cls-2 {
+                fill: #5ac8f7;
+            }
+
+            .cls-3 {
+                fill: #fff;
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_85" y1="44.08" x2="150" y2="44.08"
+            gradientTransform="translate(150 88.17) rotate(180)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5ac8f7" stop-opacity="0.8" />
+            <stop offset="0.06" stop-color="#5ac8f7" stop-opacity="0.67" />
+            <stop offset="0.15" stop-color="#5ac8f7" stop-opacity="0.52" />
+            <stop offset="0.25" stop-color="#5ac8f7" stop-opacity="0.39" />
+            <stop offset="0.35" stop-color="#5ac8f7" stop-opacity="0.28" />
+            <stop offset="0.46" stop-color="#5ac8f7" stop-opacity="0.2" />
+            <stop offset="0.59" stop-color="#5ac8f7" stop-opacity="0.14" />
+            <stop offset="0.74" stop-color="#5ac8f7" stop-opacity="0.11" />
+            <stop offset="1" stop-color="#5ac8f7" stop-opacity="0.1" />
+        </linearGradient>
+    </defs>
+    <title>Switch_on（开关_开）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="风格1">
+            <g id="Switch_on_开关_开_" data-name="Switch_on（开关_开）">
+                <rect id="内填充" class="cls-1" width="150" height="88.17" rx="44.08"
+                    transform="translate(150 88.17) rotate(-180)" />
+                <path id="外边框" class="cls-2"
+                    d="M105.92,1a43.09,43.09,0,0,1,0,86.17H44.08A43.09,43.09,0,0,1,44.08,1h61.84m0-1H44.08A44.21,44.21,0,0,0,0,44.08H0A44.22,44.22,0,0,0,44.08,88.17h61.84A44.22,44.22,0,0,0,150,44.08h0A44.21,44.21,0,0,0,105.92,0Z" />
+                <image width="91" height="90" transform="translate(58 1.06)"
+                    xlink:href="data:image/png;base64,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" />
+                <circle class="cls-3" cx="103.52" cy="44.08" r="38.79" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

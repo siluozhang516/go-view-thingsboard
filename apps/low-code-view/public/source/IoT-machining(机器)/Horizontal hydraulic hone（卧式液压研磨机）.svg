@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 145.69 150">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-5 {
+                fill: #939393;
+            }
+
+            .cls-2 {
+                fill: #bdbdbd;
+            }
+
+            .cls-3 {
+                fill: #42403f;
+                stroke: #939393;
+            }
+
+            .cls-3,
+            .cls-5,
+            .cls-7 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-3,
+            .cls-7 {
+                stroke-width: 0.5px;
+            }
+
+            .cls-4 {
+                fill: #6d6d6d;
+            }
+
+            .cls-5,
+            .cls-7 {
+                stroke: #42403f;
+            }
+
+            .cls-5 {
+                stroke-width: 2px;
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-7 {
+                fill: none;
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-9 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_105" x1="82.69" y1="147.79" x2="82.69" y2="142.36" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="56.78" y1="10.5" x2="80" y2="10.5" xlink:href="#未命名的渐变_105" />
+    </defs>
+    <title>Horizontal hydraulic hone（卧式液压研磨机）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="Horizontal_hydraulic_hone_卧式液压研磨机_" data-name="Horizontal hydraulic hone（卧式液压研磨机）">
+                <rect class="cls-1" x="74.35" y="147.79" width="16.68" height="2.21" />
+                <rect class="cls-2" x="48.25" y="36.44" width="97.44" height="9.25" />
+                <rect class="cls-2" x="118.89" y="45.68" width="26.8" height="65.75" />
+                <rect class="cls-3" x="42.64" y="45.68" width="76.25" height="39.44" />
+                <rect class="cls-4" x="102.57" y="59.95" width="16.32" height="25.18" />
+                <rect class="cls-2" x="34.99" y="70.36" width="67.59" height="15.14" />
+                <rect class="cls-2" x="97.66" y="62.36" width="4.91" height="23.14" />
+                <rect class="cls-2" x="34.99" y="62.36" width="4.91" height="23.14" />
+                <rect class="cls-2" x="46.05" y="85.13" width="72.84" height="46.25" />
+                <rect class="cls-5" x="49.43" y="88.71" width="66.07" height="39.09" />
+                <rect class="cls-2" x="46.05" y="131.37" width="7.63" height="18.63" />
+                <rect class="cls-2" x="111.26" y="131.37" width="7.63" height="18.63" />
+                <rect class="cls-3" x="69.99" y="101.97" width="24.96" height="5.18" />
+                <rect class="cls-1" x="102.57" y="131.37" width="3.06" height="14.1" />
+                <rect class="cls-1" x="38.03" y="143.39" width="67.6" height="3.1" />
+                <rect class="cls-6" x="75.39" y="142.36" width="14.6" height="5.43" />
+                <polygon class="cls-1" points="39.9 62.36 34.99 62.36 0 49.03 4.91 49.03 39.9 62.36" />
+                <line class="cls-7" x1="46.05" y1="85.5" x2="102.57" y2="85.13" />
+                <line class="cls-7" x1="39.9" y1="70.36" x2="39.9" y2="85.5" />
+                <line class="cls-7" x1="97.66" y1="69.99" x2="97.66" y2="85.13" />
+                <rect class="cls-1" x="54.85" y="21.01" width="27.86" height="49.35" />
+                <rect class="cls-3" x="56.78" y="22.82" width="12" height="9.05" />
+                <polygon class="cls-1" points="97.66 62.36 102.57 62.36 137.56 49.03 132.65 49.03 97.66 62.36" />
+                <line class="cls-7" x1="118.89" y1="45.68" x2="145.69" y2="45.68" />
+                <rect class="cls-3" x="56.78" y="35.03" width="12" height="34.01" />
+                <rect class="cls-3" x="134.41" y="76.12" width="9.2" height="1.81" />
+                <rect class="cls-4" x="118.89" y="111.43" width="17.11" height="28.04" />
+                <path class="cls-8"
+                    d="M67.29,0h2.19A10.51,10.51,0,0,1,80,10.51V21a0,0,0,0,1,0,0H56.78a0,0,0,0,1,0,0V10.51A10.51,10.51,0,0,1,67.29,0Z" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

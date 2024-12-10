@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 113.07 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_17);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_2-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-6 {
+                fill: #c3c3c3;
+            }
+
+            .cls-7 {
+                fill: #383432;
+            }
+
+            .cls-8 {
+                fill: #c2c2c2;
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_67-3);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_67-4);
+            }
+
+            .cls-11 {
+                fill: none;
+                stroke: #000;
+                stroke-miterlimit: 10;
+                stroke-width: 0.1px;
+            }
+
+            .cls-12 {
+                fill: url(#未命名的渐变_67-5);
+            }
+
+            .cls-13 {
+                fill: url(#未命名的渐变_67-6);
+            }
+
+            .cls-14 {
+                fill: url(#未命名的渐变_67-7);
+            }
+
+            .cls-15 {
+                fill: url(#未命名的渐变_67-8);
+            }
+
+            .cls-16 {
+                fill: url(#未命名的渐变_67-9);
+            }
+
+            .cls-17 {
+                fill: url(#未命名的渐变_67-10);
+            }
+
+            .cls-18 {
+                fill: url(#未命名的渐变_67-11);
+            }
+
+            .cls-19 {
+                fill: url(#未命名的渐变_67-12);
+            }
+
+            .cls-20 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_17" y1="75" x2="113.07" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b9b9b9" />
+            <stop offset="0.08" stop-color="#dbdbdb" />
+            <stop offset="0.95" stop-color="#dbdbdb" />
+            <stop offset="1" stop-color="#fff" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_2" x1="7.73" y1="79.59" x2="107.22" y2="79.59" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.98" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#8e8e8e" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_2-2" x1="7.42" y1="26.05" x2="106.91" y2="26.05" xlink:href="#未命名的渐变_2" />
+        <linearGradient id="未命名的渐变_67" x1="25.46" y1="126.29" x2="25.46" y2="110.81" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-2" x1="80.28" y1="126.56" x2="80.28" y2="111.07" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-3" x1="21.72" y1="87.96" x2="21.72" y2="78.34" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-4" x1="43.82" y1="87.96" x2="43.82" y2="78.34" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-5" x1="71.52" y1="87.83" x2="71.52" y2="78.21" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-6" x1="67.21" y1="121.96" x2="67.21" y2="115.66" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-7" x1="67.21" y1="120.87" x2="67.21" y2="116.75" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-8" x1="79.31" y1="121.96" x2="79.31" y2="115.66" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-9" x1="79.31" y1="120.87" x2="79.31" y2="116.75" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-10" x1="91.1" y1="121.96" x2="91.1" y2="115.66" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-11" x1="91.1" y1="120.87" x2="91.1" y2="116.75" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-12" x1="93.62" y1="87.83" x2="93.62" y2="78.21" xlink:href="#未命名的渐变_67" />
+    </defs>
+    <title>DC power supply（直流电源）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_59" data-name="图层 59">
+            <g id="DC_power_supply_直流电源_" data-name="DC power supply（直流电源）">
+                <rect class="cls-1" width="113.07" height="150" rx="0.86" />
+                <rect class="cls-2" x="7.73" y="56.39" width="99.49" height="46.41" />
+                <rect class="cls-3" x="7.42" y="9.77" width="99.49" height="32.57" />
+                <rect class="cls-4" x="10.35" y="110.81" width="30.22" height="15.49" rx="1.16" />
+                <rect class="cls-5" x="56.49" y="111.07" width="47.58" height="15.49" rx="1.16" />
+                <rect class="cls-6" x="12.1" y="113.19" width="26.73" height="11.53" rx="1.05" />
+                <rect class="cls-6" x="58.16" y="113.05" width="44.52" height="11.53" rx="1.05" />
+                <rect class="cls-7" x="10.18" y="11.93" width="43.32" height="28.24" />
+                <rect class="cls-7" x="60.84" y="11.93" width="43.32" height="28.24" />
+                <circle class="cls-8" cx="21.72" cy="83.15" r="6.91" />
+                <circle class="cls-9" cx="21.72" cy="83.15" r="4.81" />
+                <circle class="cls-8" cx="43.82" cy="83.15" r="6.91" />
+                <circle class="cls-10" cx="43.82" cy="83.15" r="4.81" />
+                <polyline class="cls-11" points="21.72 76.25 21.72 66.9 43.82 66.9 43.82 76.25" />
+                <circle class="cls-8" cx="71.52" cy="83.02" r="6.91" />
+                <circle class="cls-12" cx="71.52" cy="83.02" r="4.81" />
+                <circle class="cls-13" cx="67.21" cy="118.81" r="3.15" />
+                <circle class="cls-14" cx="67.21" cy="118.81" r="2.06" />
+                <circle class="cls-15" cx="79.31" cy="118.81" r="3.15" />
+                <circle class="cls-16" cx="79.31" cy="118.81" r="2.06" />
+                <circle class="cls-17" cx="91.1" cy="118.81" r="3.15" />
+                <circle class="cls-18" cx="91.1" cy="118.81" r="2.06" />
+                <circle class="cls-8" cx="93.62" cy="83.02" r="6.91" />
+                <circle class="cls-19" cx="93.62" cy="83.02" r="4.81" />
+                <polyline class="cls-11" points="71.52 76.11 71.52 66.76 93.62 66.76 93.62 76.11" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

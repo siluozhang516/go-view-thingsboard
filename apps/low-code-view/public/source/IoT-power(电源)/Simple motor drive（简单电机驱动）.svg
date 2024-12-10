@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 78.33 148.16">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-3 {
+                fill: #bab9ba;
+            }
+
+            .cls-4 {
+                fill: #3e3938;
+            }
+
+            .cls-5 {
+                fill: #48acaf;
+            }
+
+            .cls-6 {
+                fill: #d56266;
+            }
+
+            .cls-7 {
+                fill: #dadada;
+            }
+
+            .cls-8 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="0.43" y1="74.08" x2="78.18" y2="74.08" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105" x1="69.7" y1="60.93" x2="75.82" y2="60.93" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+    </defs>
+    <title>Simple motor drive（简单电机驱动）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_59" data-name="图层 59">
+            <g id="Simple_motor_drive_简单电机驱动_" data-name="Simple motor drive（简单电机驱动）">
+                <path class="cls-1"
+                    d="M78.18,148.16H.43V0H66.64l.55,4.05c.42,3.17,2.3,5.31,5,7.65,0,0,3.32,2.75,3.82,3.25,2.36,2.36,2.2,6.16,2.2,6.16Z" />
+                <circle class="cls-2" cx="72.76" cy="60.93" r="3.06" />
+                <rect x="71.21" y="60.63" width="3.09" height="0.6" rx="0.05"
+                    transform="translate(64.39 -33.6) rotate(45)" />
+                <rect x="71.21" y="60.63" width="3.09" height="0.6" rx="0.05"
+                    transform="translate(-21.77 69.29) rotate(-45)" />
+                <rect class="cls-3" x="4.99" y="4.39" width="59" height="11.32" />
+                <rect class="cls-4" x="6.14" y="5.39" width="30.34" height="9.09" />
+                <rect class="cls-3" x="4.99" y="18.68" width="11.3" height="7.44" />
+                <rect class="cls-3" x="4.99" y="27.82" width="11.3" height="7.44" />
+                <rect class="cls-4" y="47.68" width="78.33" height="2.17" />
+                <rect class="cls-5" x="5.33" y="37.74" width="16.11" height="9.34" />
+                <rect class="cls-6" x="23.57" y="37.74" width="16.11" height="9.34" />
+                <rect class="cls-3" x="18.88" y="18.68" width="11.3" height="7.44" />
+                <rect class="cls-3" x="18.88" y="27.82" width="11.3" height="7.44" />
+                <rect class="cls-3" x="32.36" y="18.68" width="11.3" height="7.44" />
+                <rect class="cls-3" x="50.34" y="18.68" width="17.65" height="25.8" />
+                <rect class="cls-3" x="32.36" y="27.82" width="11.3" height="7.44" />
+                <rect class="cls-7" x="2.86" y="50.77" width="65.12" height="95.46" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

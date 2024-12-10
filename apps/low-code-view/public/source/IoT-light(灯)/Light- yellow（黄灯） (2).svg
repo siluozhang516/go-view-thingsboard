@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 105.21">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_126);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_67-3);
+            }
+
+            .cls-5 {
+                opacity: 0.24;
+                fill: url(#未命名的渐变_77);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_126-2);
+            }
+
+            .cls-7 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_67" x1="15.26" y1="91.53" x2="134.74" y2="91.53" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-2" x1="0" y1="100.5" x2="150" y2="100.5" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_126" x1="28.45" y1="43.41" x2="121.72" y2="43.41" gradientUnits="userSpaceOnUse">
+            <stop offset="0.01" stop-color="#fff1ca" stop-opacity="0.72" />
+            <stop offset="0.05" stop-color="#f4e57c" stop-opacity="0.87" />
+            <stop offset="0.09" stop-color="#eddc48" stop-opacity="0.96" />
+            <stop offset="0.12" stop-color="#ead934" />
+            <stop offset="0.21" stop-color="#eddd4d" stop-opacity="0.95" />
+            <stop offset="0.4" stop-color="#f6e78c" stop-opacity="0.84" />
+            <stop offset="0.57" stop-color="#fff1ca" stop-opacity="0.72" />
+            <stop offset="0.63" stop-color="#fceeb6" stop-opacity="0.76" />
+            <stop offset="0.75" stop-color="#f5e57f" stop-opacity="0.86" />
+            <stop offset="0.89" stop-color="#ead934" />
+            <stop offset="0.91" stop-color="#ebda3b" stop-opacity="0.99" />
+            <stop offset="0.93" stop-color="#eedd4e" stop-opacity="0.95" />
+            <stop offset="0.96" stop-color="#f2e26e" stop-opacity="0.89" />
+            <stop offset="0.98" stop-color="#f9ea9c" stop-opacity="0.81" />
+            <stop offset="1" stop-color="#fff1ca" stop-opacity="0.72" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-3" x1="28.36" y1="79.87" x2="121.64" y2="79.87" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_77" x1="28.45" y1="36.47" x2="121.72" y2="36.47" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.12" stop-color="#ccc" />
+            <stop offset="0.29" stop-color="#e7e7e7" />
+            <stop offset="0.43" stop-color="#f9f9f9" />
+            <stop offset="0.54" stop-color="#fff" />
+            <stop offset="0.91" stop-color="#d1d1d1" />
+            <stop offset="0.95" stop-color="#dcdcdc" />
+            <stop offset="1" stop-color="#e2e2e2" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_126-2" x1="28.45" y1="67.66" x2="121.72" y2="67.66" xlink:href="#未命名的渐变_126" />
+    </defs>
+    <title>Light- yellow（黄灯） (2)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_20" data-name="图层 20">
+            <g id="Light-_yellow_黄灯_" data-name="Light- yellow（黄灯）">
+                <rect class="cls-1" x="15.26" y="86.82" width="119.47" height="9.42" rx="3.49" />
+                <rect class="cls-2" y="95.79" width="150" height="9.42" rx="3.49" />
+                <path class="cls-3"
+                    d="M37.64,0h74.89a9.19,9.19,0,0,1,9.19,9.19V86.82a0,0,0,0,1,0,0H28.45a0,0,0,0,1,0,0V9.19A9.19,9.19,0,0,1,37.64,0Z" />
+                <rect class="cls-4" x="28.36" y="72.92" width="93.28" height="13.9" />
+                <path class="cls-5"
+                    d="M33.55,4.68h83.06a5.11,5.11,0,0,1,5.11,5.11V68.26a0,0,0,0,1,0,0H28.45a0,0,0,0,1,0,0V9.79A5.11,5.11,0,0,1,33.55,4.68Z" />
+                <rect class="cls-6" x="28.45" y="67.06" width="93.28" height="1.19" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

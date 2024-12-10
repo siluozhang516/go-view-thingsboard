@@ -1,0 +1,65 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  xmlns:agg="http://www.example.com"  x="0px" y="0px"
+	   viewBox="0 0 150 200" enable-background="new 0 0 150 200" xml:space="preserve">
+
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+	 
+<linearGradient id="horizontalGradient" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="150" y2="100">
+	<stop  offset="0" style="stop-color:#767676"/>
+	<stop  offset="0.06" style="stop-color:#919191"/>
+	<stop  offset="0.14" style="stop-color:#B1B1B1"/>
+	<stop  offset="0.21" style="stop-color:#CECECE"/>
+	<stop  offset="0.28" style="stop-color:#E4E4E4"/>
+	<stop  offset="0.35" style="stop-color:#F6F6F6"/>
+	<stop  offset="0.42" style="stop-color:#FEFEFF"/>
+	<stop  offset="0.47" style="stop-color:#F6F6F6"/>
+	<stop  offset="0.53" style="stop-color:#E7E7E7"/>
+	<stop  offset="0.58" style="stop-color:#D2D1D1"/>
+	<stop  offset="0.64" style="stop-color:#B7B7B7"/>
+	<stop  offset="0.7" style="stop-color:#989898"/>
+	<stop  offset="0.72" style="stop-color:#8B8B8B"/>
+	<stop  offset="1" style="stop-color:#FDFDFD"/>
+</linearGradient>
+
+<rect y="35" fill="url(#horizontalGradient)"  />
+<polygon fill="url(#horizontalGradient)" points="0,35 75,0 150,35"/>
+
+<linearGradient id="verticalGradient" gradientUnits="userSpaceOnUse" x1="74.9995" y1="0.3193" x2="74.9995" y2="34.701">
+	<stop  offset="0.0051" style="stop-color:#767677"/>
+	<stop  offset="0.1469" style="stop-color:#929091"/>
+	<stop  offset="0.3207" style="stop-color:#B2B0B0"/>
+	<stop  offset="0.4948" style="stop-color:#CECDCD"/>
+	<stop  offset="0.667" style="stop-color:#E5E4E4"/>
+	<stop  offset="0.8365" style="stop-color:#F6F6F6"/>
+	<stop  offset="1" style="stop-color:#FDFEFF"/>
+</linearGradient>
+<polygon fill="url(#verticalGradient)" opacity="0.5" points="0,35 75,0 150,35"/>
+
+<polygon class="color" points="75,0 0,35 0,200 150,200 150,35"/>
+
+<polygon class="stroke" points="75,0 0,35 0,200 150,200 150,35"/>
+<line class="stroke" x1="0" y1="35" x2="150" y2="35"/>
+
+</svg>

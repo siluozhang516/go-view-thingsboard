@@ -1,0 +1,10 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="0.9911in" height="1.0750in" viewBox="0 0 921 999">
+
+<path style="fill:#ff0;stroke:#000;stroke-width:2" d="M30,931 l107,-61 649,0 107,61 -863,0z" />
+<path style="fill:#ff0;stroke:#000;stroke-width:2" d="M706,891 l-175,-854 0,-1 -26,-6 -30,-2 -7,0 -7,0 -33,1 -28,3 -8,4 -1,1 -175,854 1,1 29,9 34,3 35,3 29,1 33,1 35,0 12,0 12,1 13,0 37,0 36,-1 34,-1 32,0 29,-2 33,-2 26,-3 27,-7 3,-2 0,-1z" />
+<path style="fill:#cc0;stroke:#000;stroke-width:2" d="M28,931 l863,0 0,39 -863,0 0,-39z" />
+<path style="fill:#ffffbf" d="M420,67 l-77,824 77,0 39,-824 -39,0z" />
+
+</svg>

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 121.66 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-4 {
+                fill: #7f7f7f;
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_143-4);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_143-5);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_143-6);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_143-7);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_143-8);
+            }
+
+            .cls-11 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="295.18" y1="-31" x2="295.18" y2="-34.29"
+            gradientTransform="matrix(1, 0, 0, -1, -292.59, -3.58)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" x1="687.36" y1="-6.78" x2="686.19" y2="-8.99"
+            gradientTransform="matrix(-1, 0, 0, 1, 747.53, 93.47)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-3" x1="687.36" y1="9.77" x2="686.19" y2="7.55"
+            gradientTransform="matrix(-1, 0, 0, 1, 747.53, 93.47)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-4" x1="0" y1="-394.39" x2="5.12" y2="-394.39"
+            gradientTransform="matrix(1, 0, 0, -1, 0, -393.16)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_105" x1="0.94" y1="-398.85" x2="4.23" y2="-398.85"
+            gradientTransform="matrix(1, 0, 0, -1, 0, -393.16)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-5" x1="252.06" y1="-31.02" x2="252.06" y2="-34.32"
+            gradientTransform="matrix(1, 0, 0, -1, -249.45, 39.51)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-6" x1="0.03" y1="-443.62" x2="5.14" y2="-443.62"
+            gradientTransform="matrix(1, 0, 0, -1, 0, -393.16)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-7" x1="192.7" y1="-147.54" x2="192.7" y2="-150.84"
+            gradientTransform="matrix(1, 0, 0, -1, -73.58, -17.65)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-8" x1="116.54" y1="-505" x2="121.66" y2="-505"
+            gradientTransform="matrix(1, 0, 0, -1, 0, -393.16)" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>Industrial stairs（工业楼梯）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Industrial_stairs_工业楼梯_" data-name="Industrial stairs（工业楼梯）">
+                <rect class="cls-1" x="-17.56" y="27.42" width="40.29" height="3.3"
+                    transform="translate(-26.48 31.65) rotate(-90)" />
+                <polygon class="cls-2" points="2.87 56.3 118.58 117.67 118.58 114.97 2.87 53.61 2.87 56.3" />
+                <polygon class="cls-3" points="2.87 72.84 118.58 134.21 118.58 131.51 2.87 70.15 2.87 72.84" />
+                <polygon class="cls-4" points="2.87 91.08 112.29 149.59 117.48 149.67 2.87 88.38 2.87 91.08" />
+                <rect class="cls-5" width="5.12" height="2.47" />
+                <rect class="cls-6" x="0.94" y="2.47" width="3.3" height="6.45" />
+                <rect class="cls-7" x="-17.87" y="70.53" width="40.96" height="3.3"
+                    transform="translate(-69.57 74.79) rotate(-90)" />
+                <rect class="cls-8" x="0.03" y="49.23" width="5.12" height="2.47" />
+                <rect class="cls-9" x="100.66" y="129.89" width="36.93" height="3.3"
+                    transform="translate(-12.41 250.66) rotate(-90)" />
+                <rect class="cls-10" x="116.54" y="110.61" width="5.12" height="2.47" />
+                <polygon class="cls-4" points="17.96 96.6 2.87 88.69 17.96 88.69 17.96 96.6" />
+                <polygon class="cls-4" points="32.83 104.4 17.74 96.34 32.83 96.34 32.83 104.4" />
+                <polygon class="cls-4" points="47.29 112.34 31.39 103.74 47.29 103.74 47.29 112.34" />
+                <polygon class="cls-4" points="61.43 119.98 45.13 111.48 61.43 111.48 61.43 119.98" />
+                <polygon class="cls-4" points="75.95 127.86 59.71 118.81 75.95 118.81 75.95 127.86" />
+                <polygon class="cls-4" points="89.99 135.33 73.76 126.64 89.99 126.64 89.99 135.33" />
+                <polygon class="cls-4" points="104.32 142.68 89.23 134.62 104.32 134.62 104.32 142.68" />
+                <polygon class="cls-4" points="117.48 149.67 102.39 141.94 117.48 141.94 117.48 149.67" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 28.46">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #7f7f7f;
+            }
+
+            .cls-2 {
+                fill: #dcdcdd;
+            }
+
+            .cls-3 {
+                fill: none;
+                stroke: #7f7f7f;
+                stroke-miterlimit: 10;
+                stroke-width: 0.25px;
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Vertical stairs（垂直楼梯）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Vertical_stairs_垂直楼梯_" data-name="Vertical stairs（垂直楼梯）">
+                <rect class="cls-1" y="1.33" width="150" height="2.68" />
+                <rect class="cls-1" x="14.33" y="16.52" width="121.26" height="2.68" />
+                <rect class="cls-2" y="4" width="150" height="5.7" />
+                <rect class="cls-2" x="14.56" y="9.7" width="121.03" height="6.82" />
+                <rect class="cls-3" x="5.64" y="10.19" width="8.46" height="8.63" />
+                <rect class="cls-3" x="70.73" y="19.46" width="8.46" height="8.87" />
+                <rect class="cls-3" x="136.05" y="10.16" width="8.46" height="8.63" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

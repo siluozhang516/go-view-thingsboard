@@ -1,0 +1,32 @@
+
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.5594in" height="1.4792in" viewBox="0 0 525 498">
+
+<path style="fill:#7f7f7f" d="M294,124 l0,242 -59,0 0,-242 59,0z" />
+<path style="fill:#b2b2b2" d="M288,124 l0,242 -47,0 0,-242 47,0z" />
+<path style="fill:#e5e5e5" d="M281,124 l0,242 -33,0 0,-242 33,0z" />
+<path style="fill:#fff" d="M270,124 l0,242 -11,0 0,-242 11,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M235,124 l0,242" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M294,366 l0,-242" />
+<path style="fill:#7f7f7f" d="M42,14 l441,0 0,58 -441,0 0,-58z" />
+<path style="fill:#b2b2b2" d="M42,19 l441,0 0,48 -441,0 0,-48z" />
+<path style="fill:#e5e5e5" d="M42,27 l441,0 0,32 -441,0 0,-32z" />
+<path style="fill:#fff" d="M42,38 l441,0 0,11 -441,0 0,-11z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M42,72 l441,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M483,14 l-441,0" />
+<path style="fill:#7f7f7f" d="M294,131 l0,-59 30,0 0,-58 -119,0 0,58 30,0 0,59 59,0z" />
+<path style="fill:#b2b2b2" d="M288,131 l0,-65 36,0 0,-47 -119,0 0,47 35,0 0,65 48,0z" />
+<path style="fill:#e5e5e5" d="M280,131 l0,-73 44,0 0,-31 -119,0 0,31 43,0 0,73 32,0z" />
+<path style="fill:#fff" d="M270,131 l0,-82 54,0 0,-12 -119,0 0,12 53,0 0,82 12,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M294,131 l0,-59 30,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M235,131 l0,-59 -30,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M205,14 l119,0" />
+<path style="fill:#7f7f7f" d="M14,484 l0,-249 497,249 0,-249 -497,249z" />
+<path style="fill:#999" d="M14,471 l0,-224 497,224 0,-224 -497,224z" />
+<path style="fill:#b2b2b2" d="M14,445 l0,-172 497,172 0,-172 -497,172z" />
+<path style="fill:#ccc" d="M14,420 l0,-122 497,122 0,-122 -497,122z" />
+<path style="fill:#e5e5e5" d="M14,401 l0,-84 497,84 0,-84 -497,84z" />
+<path style="fill:#fff" d="M14,375 l0,-32 497,32 0,-32 -497,32z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M14,484 l0,-249 497,249 0,-249 -497,249" />
+
+</svg>

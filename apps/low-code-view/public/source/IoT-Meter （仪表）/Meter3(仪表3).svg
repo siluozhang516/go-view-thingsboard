@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 147.76 149.71">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_33);
+            }
+
+            .cls-2 {
+                fill: #7f7f7f;
+            }
+
+            .cls-3 {
+                fill: #dcdcdd;
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-6 {
+                fill: none;
+                stroke: #7f7f7f;
+                stroke-width: 0.25px;
+            }
+
+            .cls-6,
+            .cls-8 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-7 {
+                fill: #faf9f9;
+            }
+
+            .cls-8 {
+                stroke: #c1c1c1;
+                stroke-width: 0.5px;
+                fill: url(#未命名的渐变_33-2);
+            }
+
+            .cls-9 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_33" y1="74.86" x2="147.76" y2="74.86" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#d6d6d6" />
+            <stop offset="0.04" stop-color="#e4e4e4" />
+            <stop offset="0.11" stop-color="#ededed" />
+            <stop offset="0.23" stop-color="#f4f4f4" />
+            <stop offset="0.56" stop-color="#f6f6f6" />
+            <stop offset="0.8" stop-color="#f4f4f4" />
+            <stop offset="0.89" stop-color="#ededed" />
+            <stop offset="0.95" stop-color="#e2e2e2" />
+            <stop offset="0.97" stop-color="#dedede" />
+            <stop offset="0.98" stop-color="#c8c8c8" />
+            <stop offset="1" stop-color="#b3b3b3" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105" x1="124.82" y1="78.55" x2="132.91" y2="78.55" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="70.35" y1="132.91" x2="78.45" y2="132.91" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_33-2" x1="77.35" y1="109.62" x2="136.55" y2="109.62"
+            gradientTransform="translate(-0.47 0.47) rotate(-0.18)" xlink:href="#未命名的渐变_33" />
+    </defs>
+    <title>Meter3(仪表3)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_13" data-name="图层 13">
+            <g id="Meter3_仪表3_" data-name="Meter3(仪表3)">
+                <rect class="cls-1" width="147.76" height="149.71" rx="0.29" />
+                <path class="cls-2"
+                    d="M137.35,10.06H10.18A1.34,1.34,0,0,0,8.83,11.4V140.47a1.34,1.34,0,0,0,1.35,1.34H89.09l49.6-48.28V11.4A1.34,1.34,0,0,0,137.35,10.06Z" />
+                <path class="cls-3"
+                    d="M134.67,12.63H12.85a1.29,1.29,0,0,0-1.29,1.29V137.56a1.29,1.29,0,0,0,1.29,1.29h75.6L136,92.59V13.92A1.29,1.29,0,0,0,134.67,12.63Z" />
+                <circle class="cls-4" cx="128.86" cy="78.55" r="4.05" />
+                <circle class="cls-5" cx="74.4" cy="132.91" r="4.05" />
+                <line class="cls-6" x1="70.38" y1="29.77" x2="77.9" y2="40.42" />
+                <line class="cls-6" x1="111.58" y1="23.25" x2="111.72" y2="36.29" />
+                <line class="cls-6" x1="30.09" y1="72.14" x2="41.84" y2="77.79" />
+                <line class="cls-6" x1="24.76" y1="109.44" x2="37.79" y2="109.76" />
+                <rect class="cls-7" x="17.74" y="19.78" width="41.26" height="15.31" />
+                <polygon class="cls-2" points="45.54 42.41 90.02 94.7 94.89 89.23 45.54 42.41" />
+                <path class="cls-8" d="M136.36,90.48a34.82,34.82,0,0,0-50,48.43Z" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

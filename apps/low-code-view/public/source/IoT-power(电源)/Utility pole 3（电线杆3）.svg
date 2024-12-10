@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.89 149.51">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_67-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_67-4);
+            }
+
+            .cls-5 {
+                fill: #c1c1c1;
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_67-5);
+            }
+
+            .cls-7 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_67" x1="1.08" y1="9.6" x2="6.5" y2="9.6" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-2" x1="8.83" y1="9.6" x2="14.25" y2="9.6" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-3" x1="61.09" y1="9.6" x2="66.52" y2="9.6" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-4" x1="68.49" y1="9.6" x2="73.91" y2="9.6" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-5" x1="33.04" y1="74.76" x2="41.86" y2="74.76" xlink:href="#未命名的渐变_67" />
+    </defs>
+    <title>Utility pole 3（电线杆3）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_59" data-name="图层 59">
+            <g id="Utility_pole_3_电线杆3_" data-name="Utility pole 3（电线杆3）">
+                <rect class="cls-1" x="1.08" y="6.58" width="5.42" height="6.04" />
+                <rect class="cls-2" x="8.83" y="6.58" width="5.42" height="6.04" />
+                <rect class="cls-3" x="61.09" y="6.58" width="5.42" height="6.04" />
+                <rect class="cls-4" x="68.49" y="6.58" width="5.42" height="6.04" />
+                <rect class="cls-5" y="12.62" width="74.89" height="5.21" />
+                <rect class="cls-5" x="37.73" y="21.3" width="31.28" height="3.56"
+                    transform="translate(-4.07 32.08) rotate(-32.3)" />
+                <rect class="cls-5" x="7.36" y="21.3" width="31.28" height="3.56"
+                    transform="translate(30.11 54.87) rotate(-147.7)" />
+                <rect class="cls-6" x="33.04" width="8.82" height="149.51" rx="0.39" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

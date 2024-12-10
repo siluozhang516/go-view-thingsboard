@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Default" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="0 0 35 100" xmlns:agg="http://www.example.com" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<defs>	 
+	<linearGradient id="base" gradientUnits="userSpaceOnUse" x1="0" y1="50" x2="35" y2="50">
+		<stop  offset="0" style="stop-color:#A0A0A0"/>
+		<stop  offset="0.0498" style="stop-color:#B5B4B4"/>
+		<stop  offset="0.1132" style="stop-color:#CAC9C9"/>
+		<stop  offset="0.1802" style="stop-color:#D9D9D9"/>
+		<stop  offset="0.2525" style="stop-color:#E4E4E3"/>
+		<stop  offset="0.3394" style="stop-color:#E7E7E7"/>
+		<stop  offset="0.4572" style="stop-color:#DBDADA"/>
+		<stop  offset="0.6647" style="stop-color:#BEBDBC"/>
+		<stop  offset="0.936" style="stop-color:#959494"/>
+		<stop  offset="1" style="stop-color:#8B8B8B"/>
+	</linearGradient>
+	<path id="boundary" d="M35,86.364V18.182c0-3.577-1.763-6.69-4.253-8.946
+		c-2.648-2.4-5.478-3.625-8.872-4.31V0h-8.75v4.926c-3.394,0.686-6.224,1.91-8.872,4.31C1.764,11.492,0,14.605,0,18.182v68.182
+		c0,2.51,1.959,4.545,4.375,4.545h2.188l-2.188,4.545H0V100h35v-4.545h-4.375l-2.188-4.545h2.188C33.041,90.909,35,88.874,35,86.364z
+		 M14.219,95.455c-1.094,0-2.188,0-3.281,0c-0.729-1.515-1.458-3.03-2.188-4.545c2.552,0,5.104,0,7.656,0
+		C15.677,92.424,14.948,93.939,14.219,95.455z M24.063,95.455c-1.094,0-2.188,0-3.281,0c-0.729-1.515-1.458-3.03-2.188-4.545
+		c2.552,0,5.104,0,7.656,0C25.521,92.424,24.792,93.939,24.063,95.455z"/>
+</defs>
+
+<use xlink:href="#boundary" fill="url(#base)"/>
+
+<use xlink:href="#boundary" class="color"/>
+
+<g class="stroke">
+	<line x1="4.375" y1="95.455" x2="10.938" y2="95.455"/>
+	<line x1="14.219" y1="95.455" x2="20.781" y2="95.455"/>
+	<line x1="24.063" y1="95.455" x2="30.625" y2="95.455"/>
+	<line x1="26.25" y1="90.909" x2="28.438" y2="90.909"/>
+	<line x1="16.406" y1="90.909" x2="18.594" y2="90.909"/>
+	<line x1="6.563" y1="90.909" x2="8.75" y2="90.909"/>
+	<path d="M13.125,4.979 	c0,1.006,0.989,1.67,1.718,1.989c0.868,0.379,1.726,0.514,2.657,0.514s1.789-0.135,2.657-0.514c0.729-0.319,1.718-0.983,1.718-1.989"/>
+	<use xlink:href="#boundary"/>
+</g>
+
+</svg>

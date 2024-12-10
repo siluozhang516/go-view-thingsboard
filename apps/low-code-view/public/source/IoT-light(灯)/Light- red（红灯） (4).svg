@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 73.9 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_22);
+            }
+
+            .cls-3 {
+                fill: #e57882;
+            }
+
+            .cls-4 {
+                fill: #e29a9a;
+            }
+
+            .cls-5 {
+                fill: #fbb;
+                opacity: 0.72;
+            }
+
+            .cls-6 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" y1="75" x2="73.9" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_22" x1="9.08" y1="73.95" x2="62.23" y2="73.95" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#333" />
+            <stop offset="0.03" stop-color="#3e3e3e" />
+            <stop offset="0.08" stop-color="#5d5d5d" />
+            <stop offset="0.1" stop-color="#6c6c6c" />
+            <stop offset="0.9" stop-color="#666" />
+            <stop offset="1" stop-color="#3a3a3a" />
+        </linearGradient>
+    </defs>
+    <title>Light- red（红灯） (4)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_20" data-name="图层 20">
+            <g id="Light-_red_红灯_" data-name="Light- red（红灯）">
+                <rect class="cls-1" width="73.9" height="150" rx="33.1" />
+                <rect class="cls-2" x="9.08" y="7.34" width="53.15" height="133.22" rx="24.1" />
+                <rect class="cls-3" x="12.13" y="10.49" width="47.43" height="126.92" rx="21.5" />
+                <rect class="cls-4" x="15.44" y="13.64" width="41.91" height="120.63" rx="19" />
+                <path class="cls-5"
+                    d="M41.78,11.27c-7.12,12-12,36.26-12,64.28,0,26,4.18,48.7,10.46,61.44A23.71,23.71,0,0,0,59.56,113.7V34.2A23.69,23.69,0,0,0,41.78,11.27Z" />
+              
+            </g>
+        </g>
+    </g>
+</svg>

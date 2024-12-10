@@ -1,0 +1,159 @@
+ 
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" 
+	  viewBox="0 0 302 152" xml:space="preserve" xmlns:agg="http://www.example.com">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+	 
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke,.thin,.thick{
+		stroke-linecap:butt;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		opacity:0.5;
+	}
+
+	.stroke{stroke-width:0.5;}
+
+	.thin {stroke-width:0.25;}
+
+	.thick {stroke-width:0.75;}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+	 
+<defs>
+	<radialGradient id="radial" cx="20.9978" cy="61.0054" r="19.9979" gradientTransform="matrix(1 0 0 1.0001 0 -0.0119)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F6FAFC"/>
+		<stop  offset="0.6061" style="stop-color:#8A888B"/>
+		<stop  offset="0.7697" style="stop-color:#F6FAFC"/>
+		<stop  offset="0.8023" style="stop-color:#F0F3F5"/>
+		<stop  offset="0.8361" style="stop-color:#E0E2E7"/>
+		<stop  offset="0.8705" style="stop-color:#C9CBD4"/>
+		<stop  offset="0.9052" style="stop-color:#ADB0BD"/>
+		<stop  offset="0.9403" style="stop-color:#8C90A3"/>
+		<stop  offset="0.9751" style="stop-color:#697188"/>
+		<stop  offset="1" style="stop-color:#4D5C75"/>
+	</radialGradient>
+	
+	<linearGradient id="cyl" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0051" style="stop-color:#4D5C75"/>
+		<stop  offset="0.05" style="stop-color:#697188"/>
+		<stop  offset="0.1127" style="stop-color:#8C90A3"/>
+		<stop  offset="0.1759" style="stop-color:#ADB0BD"/>
+		<stop  offset="0.2385" style="stop-color:#C9CBD4"/>
+		<stop  offset="0.3004" style="stop-color:#E0E2E7"/>
+		<stop  offset="0.3613" style="stop-color:#F0F3F5"/>
+		<stop  offset="0.42" style="stop-color:#F6FAFC"/>
+		<stop  offset="0.4738" style="stop-color:#F1F3F4"/>
+		<stop  offset="0.5296" style="stop-color:#E3E4E5"/>
+		<stop  offset="0.5863" style="stop-color:#CECDCF"/>
+		<stop  offset="0.6436" style="stop-color:#B3B1B4"/>
+		<stop  offset="0.7008" style="stop-color:#959296"/>
+		<stop  offset="0.72" style="stop-color:#8A888B"/>
+		<stop  offset="1" style="stop-color:#F6FAFC"/>
+	</linearGradient>
+	
+	<linearGradient id="cyl_1" xlink:href="#cyl" x1="-6.1184" y1="29.0752" x2="35.436" y2="77.9937"/>
+	<linearGradient id="cyl_2" xlink:href="#cyl" x1="220.998" y1="12.1465" x2="235.999" y2="12.1465"/>
+	<linearGradient id="cyl_3" xlink:href="#cyl" x1="216.001" y1="3.4988" x2="240.9956" y2="3.4988"/>
+	<linearGradient id="cyl_4" xlink:href="#cyl" x1="85.999" y1="128.502" x2="111.0044" y2="128.502"/>
+	<linearGradient id="cyl_5" xlink:href="#cyl" x1="90.9956" y1="119.8545" x2="105.9966" y2="119.8545"/>
+	
+	<linearGradient id="cyl_6" xlink:href="#cyl" x1="263.3184" y1="51.3506" x2="263.3184" y2="76.2062"/>
+	<linearGradient id="cyl_7" xlink:href="#cyl" x1="270.5859" y1="45.8455" x2="288.4691" y2="63.4657"/>
+	<linearGradient id="cyl_8" xlink:href="#cyl" x1="275.9946" y1="33.3132" x2="301" y2="33.3132"/>
+	<linearGradient id="cyl_9" xlink:href="#cyl" x1="35.9988" y1="60.8188" x2="35.9988" y2="80.9183"/>
+	<linearGradient id="cyl_10" xlink:href="#cyl" x1="150.9998" y1="15.5813" x2="150.9998" y2="116.6265"/>
+	
+	<linearGradient id="flat" gradientUnits="userSpaceOnUse" x1="84.1799" y1="146.6973" x2="56.3009" y2="104.6157">
+		<stop  offset="0.0051" style="stop-color:#4D5C75"/>
+		<stop  offset="0.1472" style="stop-color:#5C6780"/>
+		<stop  offset="0.4285" style="stop-color:#828B9E"/>
+		<stop  offset="0.5576" style="stop-color:#99A3B2"/>
+		<stop  offset="0.5636" style="stop-color:#AEB7C4"/>
+		<stop  offset="0.9997" style="stop-color:#F6FAFC"/>
+	</linearGradient>
+	<linearGradient id="flat_1" xlink:href="#flat" x1="111.2092" y1="73.5264" x2="54.4493" y2="6.8951"/>
+	<linearGradient id="flat_2" xlink:href="#flat" x1="41.6377" y1="113.2515" x2="243.615" y2="173.7395"/>	
+	
+</defs>
+	 
+<rect x="51" y="15.992" fill="url(#cyl_10)"  />	 
+
+<polygon id="support" fill="url(#flat)" points="80.371,141.006 61.625,141.006 66,106.004 76.005,106.004 		"/>
+<use xlink:href="#support" transform="translate(160 0)"/>
+	 
+<path fill="url(#radial)" d="M40.996,60.998c0-11.046-8.952-19.999-19.998-19.999c-5.975,0-11.33,2.619-15,6.775
+			C2.894,51.298,1,55.927,1,60.998c0,11.046,8.952,20,19.998,20C32.043,80.997,40.996,72.044,40.996,60.998z"/>
+<path fill="url(#cyl_1)" d="M20.998,51.003c-5.522,0-9.994,4.471-9.994,9.994s4.471,10.005,9.994,10.005
+			c5.523,0,10.004-4.482,10.004-10.005S26.521,51.003,20.998,51.003z"/>
+<path fill="url(#cyl_2)" d="M235.999,5.998c0,3.334,0,6.669,0,9.994c-2.43,1.473-4.965,2.304-7.5,2.304
+			c-1.231,0-2.461-0.189-3.671-0.568c-0.621-0.179-1.231-0.41-1.841-0.684c-0.673-0.295-1.336-0.642-1.988-1.052
+			c0-3.325,0-6.66,0-9.994H235.999z"/>
+<polygon fill="url(#cyl_3)" points="240.996,1 240.996,5.998 235.999,5.998 220.998,5.998 216.001,5.998 216.001,1 		"/>
+<polygon fill="url(#cyl_4)" points="111.004,126.003 111.004,131 85.999,131 85.999,126.003 90.996,126.003 105.997,126.003 		
+			"/>
+<path fill="url(#cyl_5)" d="M105.997,115.999c0,3.335,0,6.67,0,10.005H90.996c0-3.335,0-6.67,0-10.005
+			c2.43-1.462,4.966-2.293,7.5-2.293c1.231,0,2.462,0.189,3.671,0.557c0.621,0.189,1.231,0.421,1.841,0.695
+			C104.682,115.251,105.345,115.588,105.997,115.999z"/>
+<rect x="51" y="141.006" fill="url(#flat_2)"  />
+<polygon fill="url(#cyl_6)" points="265.286,51.003 275.637,76 251,76 251,51.003 		"/>
+<polygon fill="url(#cyl_7)" points="301,50.635 275.637,76 265.286,51.003 275.995,40.283 		"/>
+<polygon fill="url(#cyl_8)" points="301,15.992 301,50.635 275.995,40.283 275.995,15.992 		"/>
+<path fill="url(#cyl_9)" d="M51,60.998v20H20.998c11.046,0,19.998-8.953,19.998-20H51z"/>
+
+<polygon fill="url(#flat_1)" points="105.997,15.992 105.997,71.003 61.004,71.003 61.004,15.992 61.004,10.994 
+			105.997,10.994 		"/>
+			
+<path class="color" d="M275.995,15.992v24.291l-10.708,10.721H251V15.992h-15.001c0-3.325,0-6.66,0-9.994h4.997V1
+	h-24.995v4.998h4.997c0,3.334,0,6.669,0,9.994H105.997v-4.998H61.004v4.998H51v45.006H40.996c0-11.046-8.952-19.999-19.998-19.999
+	c-5.975,0-11.33,2.619-15,6.775C2.894,51.298,1,55.927,1,60.998c0,11.046,8.952,20,19.998,20H51v35.001h13.749l-3.124,25.007H51
+	V151h200v-9.994h-10.607l-3.119-25.007H251V76h24.637L301,50.635V15.992H275.995z M80.371,141.006l-3.119-25.007h0.005h13.739
+	c0,3.335,0,6.67,0,10.005h-4.997V131h25.005v-4.997h-5.008c0-3.335,0-6.67,0-10.005h118.747l-3.096,25.007H80.371z"/>
+			
+<g class="stroke">
+	<path d="M40.996,60.998
+		c0-11.046-8.952-19.999-19.998-19.999c-5.975,0-11.33,2.619-15,6.775C2.894,51.298,1,55.927,1,60.998
+		c0,11.046,8.952,20,19.998,20C32.043,80.997,40.996,72.044,40.996,60.998z"/>
+	<polyline points="240.375,141.006 237.25,115.999 235.999,106.004 225.995,106.004 224.743,115.999 221.619,141.006 			"/>
+	<line x1="77.257" y1="115.999" x2="80.371" y2="141.006"/>
+	<polyline points="61.625,141.006 64.749,115.999 66,106.004 76.005,106.004 77.247,115.999 			"/>
+	<polygon points="61.625,141.006 51,141.006 51,151 251,151 251,141.006 240.375,141.006 221.619,141.006 80.371,141.006 			"/>
+	<polyline points="77.247,115.999 77.257,115.999 90.996,115.999 			"/>
+	<polyline points="61.004,15.992 51,15.992 51,60.998 51,80.997 51,115.999 64.749,115.999 			"/>
+	<polyline points="237.25,115.999 251,115.999 251,76 251,51.003 251,15.992 235.999,15.992 			"/>
+	<line x1="105.997" y1="115.999" x2="224.743" y2="115.999"/>
+	<line x1="220.998" y1="15.992" x2="105.997" y2="15.992"/>
+	<line x1="235.999" y1="5.998" x2="220.998" y2="5.998"/>
+	<line x1="265.286" y1="51.003" x2="275.637" y2="76"/>
+	<polyline points="220.998,5.998 216.001,5.998 216.001,1 240.996,1 240.996,5.998 235.999,5.998 			"/>
+	<line x1="90.996" y1="126.003" x2="105.997" y2="126.003"/>
+	<polyline points="105.997,126.003 111.004,126.003 111.004,131 85.999,131 85.999,126.003 90.996,126.003 			"/>
+	<line x1="275.995" y1="40.283" x2="301" y2="50.635"/>
+	<line x1="20.998" y1="80.997" x2="51" y2="80.997"/>
+	<line x1="40.996" y1="60.998" x2="51" y2="60.998"/>
+	<path d="M20.998,51.003
+		c-5.522,0-9.994,4.471-9.994,9.994s4.471,10.005,9.994,10.005c5.523,0,10.004-4.482,10.004-10.005S26.521,51.003,20.998,51.003z"
+		/>
+	<polyline points="251,51.003 265.286,51.003 275.995,40.283 275.995,15.992 301,15.992 301,50.635 275.637,76 251,76 			"/>
+	<polygon points="61.004,15.992 61.004,71.003 105.997,71.003 105.997,15.992 105.997,10.994 61.004,10.994 			"/>
+	<path d="M235.999,5.998
+		c0,3.334,0,6.669,0,9.994c-2.43,1.473-4.965,2.304-7.5,2.304c-1.231,0-2.461-0.189-3.671-0.568
+		c-0.621-0.179-1.231-0.41-1.841-0.684c-0.673-0.295-1.336-0.642-1.988-1.052c0-3.325,0-6.66,0-9.994"/>
+	<path d="M90.996,126.003
+		c0-3.335,0-6.67,0-10.005c2.43-1.462,4.966-2.293,7.5-2.293c1.231,0,2.462,0.189,3.671,0.557
+		c0.621,0.189,1.231,0.421,1.841,0.695c0.673,0.294,1.336,0.631,1.988,1.042c0,3.335,0,6.67,0,10.005"/>
+</g>
+
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130.09 149.86">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_143-4);
+            }
+
+            .cls-5 {
+                fill: #cecece;
+                stroke: #848484;
+                stroke-miterlimit: 10;
+                stroke-width: 0.25px;
+            }
+
+            .cls-6 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="58.56" y1="72.85" x2="71.53" y2="72.85" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" x1="32.52" y1="149.86" x2="32.52" y2="99.71" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-3" x1="-403.73" y1="149.86" x2="-403.73" y2="99.71"
+            gradientTransform="matrix(-1, 0, 0, 1, -306.16, 0)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-4" x1="6.28" y1="23.09" x2="122.66" y2="23.09" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>3-D Pressure-balanced diaphragm actuated(3D压力平衡膜片驱动)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_33" data-name="图层 33">
+            <g id="_3-D_Pressure-balanced_diaphragm_actuated_3D压力平衡膜片驱动_"
+                data-name="3-D Pressure-balanced diaphragm actuated(3D压力平衡膜片驱动)">
+                <rect class="cls-1" x="58.56" y="20.9" width="12.97" height="103.88" />
+                <polygon class="cls-2" points="0 149.86 0 99.71 65.05 124.96 0 149.86" />
+                <polygon class="cls-3" points="130.09 149.86 130.09 99.71 65.05 124.96 130.09 149.86" />
+                <ellipse class="cls-4" cx="64.47" cy="23.09" rx="58.19" ry="23.09" />
+                <rect class="cls-5" x="4.89" y="20.9" width="120.31" height="5.93" rx="0.51" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

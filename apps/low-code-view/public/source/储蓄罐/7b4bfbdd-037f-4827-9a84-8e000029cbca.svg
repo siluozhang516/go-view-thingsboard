@@ -1,0 +1,53 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns:agg="http://www.example.com"
+	 xmlns="http://www.w3.org/2000/svg"   x="0px" y="0px"  
+	 viewBox="0 0 50 50" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.5px;
+		opacity:0.5;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+	 
+<linearGradient id="flange" gradientUnits="userSpaceOnUse" x1="4.4536" y1="44.4229" x2="44.0037" y2="7.0364">
+	<stop  offset="0.0051" style="stop-color:#E1EAF7"/>
+	<stop  offset="0.1237" style="stop-color:#D0DAE7"/>
+	<stop  offset="0.3583" style="stop-color:#A8B4C7"/>
+	<stop  offset="0.5152" style="stop-color:#8D9BB2"/>
+	<stop  offset="0.5394" style="stop-color:#9FABBD"/>
+	<stop  offset="0.9997" style="stop-color:#F6FAFC"/>
+</linearGradient>
+
+<circle fill="url(#flange)" cx="25" cy="25" r="25"/>
+<circle fill="none" stroke="#FFFFFF" cx="25" cy="25" r="21"/>
+<circle class="stroke" cx="25" cy="25" r="25"/>
+
+<g fill="#787878">
+	<rect y="6"  />
+	<rect y="38"  />
+	<rect x="42" y="16.5"  />
+</g>
+
+<path class="color" d="M48.516,16.5C45.036,6.878,35.822,0,25,0
+	C18.8,0,13.131,2.262,8.762,6H0v6h3.643C1.332,15.788,0,20.238,0,25s1.332,9.212,3.643,13H0v6h8.762C13.131,47.738,18.8,50,25,50
+	c10.822,0,20.036-6.878,23.516-16.5H50v-17H48.516z"/>
+</svg>

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 95 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_67-3);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_67-4);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_74-3);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_74-4);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_74-5);
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="5.04" y1="67.5" x2="88.04" y2="67.5" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67" y1="37.95" x2="95" y2="37.95" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-2" y1="56.06" x2="95" y2="56.06" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-3" x1="5.08" y1="97.6" x2="88.01" y2="97.6" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-4" y1="75.54" x2="95" y2="75.54" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_74-2" x1="5.04" y1="120.46" x2="15.1" y2="120.46" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-3" x1="0" y1="147.88" x2="19.59" y2="147.88" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-4" x1="77.92" y1="120.59" x2="87.98" y2="120.59" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-5" x1="72.88" y1="148.01" x2="92.47" y2="148.01" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>IoT-Material Handling（物料运输）</title>
+    <g id="图层_16" data-name="图层 16">
+        <polygon class="cls-1" points="88.04 95.03 53.38 134.99 39.7 134.99 5.04 95.03 5.04 0 88.04 0 88.04 95.03" />
+        <rect class="cls-2" y="32.54" width="95" height="10.84" />
+        <rect class="cls-3" y="50.64" width="95" height="10.84" />
+        <rect class="cls-4" x="5.08" y="95.03" width="82.93" height="5.15" />
+        <rect class="cls-5" y="70.12" width="95" height="10.84" />
+        <rect class="cls-6" x="5.04" y="95.03" width="10.05" height="50.87" />
+        <rect class="cls-7" y="145.9" width="19.59" height="3.97" />
+        <rect class="cls-8" x="77.92" y="95.16" width="10.05" height="50.87" />
+        <rect class="cls-9" x="72.88" y="146.03" width="19.59" height="3.97" />
+    </g>
+    
+</svg>

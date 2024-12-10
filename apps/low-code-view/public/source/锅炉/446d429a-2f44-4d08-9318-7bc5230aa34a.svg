@@ -1,0 +1,170 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="0 0 107 202"  xmlns:agg="http://www.example.com" xml:space="preserve">
+
+<agg:params>
+	<agg:param name="coldColor" description="Cold Color" type="C" cssAttributes="stop-color,fill" classes="coldColor" forceRepaint="true"/>
+	<agg:param name="hotColor" description="Hot Color" type="C" cssAttributes="stop-color,fill" classes="hotColor" forceRepaint="true"/>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>	 
+	 
+<style type="text/css" >
+   <![CDATA[
+
+	.flameColor,.inlineColor,.boundaryColor{
+		stroke-linecap:butt;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		stroke-width:1px;
+	}
+	
+	.inlineColor {
+		stroke:white;
+		opacity:0.75;
+	}
+	
+	.boundaryColor {
+		stroke:black;
+		stroke-width:1.5px;
+		opacity:0.75;
+	}
+	
+	.coldColor {
+		stop-color:#29B1FF;
+		fill:#29B1FF;
+	}
+
+	.hotColor {
+		stop-color:#FF0000;
+		fill:#FF0000;
+	}
+
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+	 
+<defs>
+	<linearGradient id="flat" gradientUnits="userSpaceOnUse" x1="-27.502" y1="55.4536" x2="106.1619" y2="200.4935">
+		<stop  offset="0" style="stop-color:#4D5C75"/>
+		<stop  offset="0.1609" style="stop-color:#5E6C83"/>
+		<stop  offset="0.4695" style="stop-color:#8B96A7"/>
+		<stop  offset="0.5576" style="stop-color:#99A3B2"/>
+		<stop  offset="0.5636" style="stop-color:#AEB7C4"/>
+		<stop  offset="1" style="stop-color:#F6FAFC"/>
+	</linearGradient>
+	
+	<linearGradient id="waterGradient" gradientUnits="userSpaceOnUse" x1="53.5083" y1="126.249" x2="52.2504" y2="187.4684">
+		<stop  offset="0" class="coldColor"/>
+		<stop  offset="1" class="hotColor"/>
+	</linearGradient>
+	
+	<linearGradient id="cyl" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0051" style="stop-color:#4D5C75"/>
+		<stop  offset="0.0311" style="stop-color:#616F85"/>
+		<stop  offset="0.097" style="stop-color:#8E99A9"/>
+		<stop  offset="0.1634" style="stop-color:#B4BCC7"/>
+		<stop  offset="0.2292" style="stop-color:#D1D7DE"/>
+		<stop  offset="0.2942" style="stop-color:#E5EAEF"/>
+		<stop  offset="0.3583" style="stop-color:#F2F6F9"/>
+		<stop  offset="0.42" style="stop-color:#F6FAFC"/>
+		<stop  offset="0.4711" style="stop-color:#F2F6F8"/>
+		<stop  offset="0.5241" style="stop-color:#E6E9EC"/>
+		<stop  offset="0.5779" style="stop-color:#D3D5D7"/>
+		<stop  offset="0.6324" style="stop-color:#B7B8BA"/>
+		<stop  offset="0.6868" style="stop-color:#949396"/>
+		<stop  offset="0.7005" style="stop-color:#8A888B"/>
+		<stop  offset="1" style="stop-color:#F6FAFC"/>
+	</linearGradient>
+	
+	<linearGradient id="cyl_1" xlink:href="#cyl" x1="37.1636" y1="73.4312" x2="70.3851" y2="73.4312"/>
+	<linearGradient id="cyl_2" xlink:href="#cyl" x1="37.4453" y1="18.6675" x2="69.7651" y2="18.6675"/>
+	<linearGradient id="cyl_3" xlink:href="#cyl" x1="18.749" y1="59.4302" x2="81.6693" y2="33.0823"/>
+	<linearGradient id="cyl_4" xlink:href="#cyl" x1="21.1206" y1="53.876" x2="85.8755" y2="53.876"/>
+	
+	<path id="cutaway" d="M4.095,126.708c1.677,15.142,3.353,30.285,5.03,45.427
+	c1.677,5.494,3.353,10.988,5.029,16.482c3.165-1.713,6.33-3.423,9.494-5.136c3.312,1.361,6.623,2.725,9.935,4.088
+	c3.408-1.403,6.816-2.809,10.224-4.214c3.431,1.646,6.862,3.29,10.294,4.936c3.354-1.829,6.708-3.654,10.062-5.479
+	c3.477,1.871,6.953,3.746,10.431,5.619c3.197-1.952,6.393-3.903,9.59-5.854c3.275,2.065,6.549,4.132,9.824,6.199
+	c1.289-5.548,2.578-11.094,3.868-16.641c1.677-15.143,3.352-30.286,5.027-45.427c-2.053,0.389-4.095,0.83-6.173,1.076
+	c-1.039,0.125-2.087,0.2-3.124,0.118c-1.037-0.085-2.063-0.327-3.092-0.526c-2.059-0.397-4.128-0.616-6.196-0.378
+	c-2.068,0.236-4.133,0.929-6.194,0.944c-2.061,0.017-4.116-0.646-6.188-0.96c-1.036-0.159-2.075-0.229-3.108-0.139
+	c-1.032,0.092-2.056,0.346-3.085,0.571c-1.027,0.226-2.063,0.424-3.096,0.467c-1.034,0.042-2.073-0.069-3.106-0.227
+	c-2.068-0.314-4.124-0.809-6.2-0.941c-2.075-0.13-4.173,0.099-6.245,0.505c-2.07,0.406-4.115,0.988-6.111,0.58
+	c-0.999-0.205-1.985-0.658-3-0.924c-1.016-0.265-2.061-0.345-3.09-0.232c-2.06,0.229-4.056,1.236-6.115,1.265
+	c-1.029,0.014-2.074-0.217-3.114-0.366c-1.04-0.149-2.076-0.216-3.118-0.326c-2.086-0.219-4.202-0.604-6.237-0.174
+	c-1.018,0.215-2.014,0.633-3.023,0.84c-1.009,0.209-2.03,0.205-3.054,0.107C8.187,127.792,6.125,127.208,4.095,126.708z"/>
+</defs>	 
+
+<rect id="body" x="1" y="85.699" fill="url(#flat)"  />
+
+<g id="outlet">
+	<rect x="37.445" y="61.167" fill="url(#cyl_1)"  />
+	<path fill="url(#cyl_2)" d="M64.974,2.51c-3.977-1.527-8.617,1.342-12.28,4.883c-0.332-0.906-0.729-1.779-1.309-2.567
+		C48.6,1.083,41.738-0.326,39.087,2.477c-1.642,1.745-1.642,5.117-1.642,7.751v26.107h32.104V10.228
+		C70.545,7.225,67.941,3.651,64.974,2.51z"/>
+	<polygon fill="url(#cyl_3)" points="85.875,46.586 21.121,46.586 37.445,36.335 69.549,36.335 	"/>
+	<rect x="21.121" y="46.586" fill="url(#cyl_4)"  />
+	<path opacity="0.3" d="M64.758,2.587c2.967,1.142,5.57,4.715,4.576,7.718c-1.558,4.765-10.939,6.191-14.354,2.685
+		c-1.343-1.359-1.757-3.49-2.502-5.52C56.139,3.93,60.781,1.061,64.758,2.587z"/>
+</g>
+
+<path class="color" d="M69.549,85.699V61.167h16.326V46.586L69.549,36.335V10.228
+	c0.996-3.003-1.608-6.577-4.576-7.718c-1.759-0.675-3.647-0.488-5.524,0.234c-2.371,0.859-4.729,2.593-6.791,4.558
+	c-0.325-0.873-0.712-1.714-1.273-2.476C48.6,1.083,41.738-0.326,39.087,2.477c-1.642,1.745-1.642,5.117-1.642,7.751v26.107
+	L21.121,46.586v14.581h16.325v24.532H1V201h105V85.699H69.549z"/>
+
+<g id="tubes" fill="white">
+	<ellipse cx="98.762" cy="115.47" rx="3.143" ry="3.182"/>
+	<ellipse cx="83.674" cy="115.47" rx="3.143" ry="3.182"/>
+	<ellipse cx="68.586" cy="115.47" rx="3.143" ry="3.182"/>
+	<ellipse cx="53.498" cy="115.47" rx="3.143" ry="3.182"/>
+	<ellipse cx="38.409" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="23.32" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="8.232" cy="115.47" rx="3.144" ry="3.182"/>
+</g>
+
+<use xlink:href="#cutaway" fill="url(#waterGradient)"/>
+	
+<rect class="hotColor" x="1" y="189.564"  />
+
+<g class="inlineColor">
+	<line x1="89.75" y1="172.136" x2="100.97" y2="145.32"/>
+	<polyline points="27.385,127.972 9.125,172.136 17.249,172.136 36.078,126.596 	"/>
+	<polyline points="43.248,127.972 25.451,172.136 33.188,172.136 51.904,126.678 	"/>
+	<polyline points="59.497,127.972 41.312,172.136 49.438,172.136 68.045,126.942 	"/>
+	<polyline points="75.823,127.972 57.561,172.136 65.686,172.136 84.351,126.996 	"/>
+	<polyline points="91.684,127.972 73.889,172.136 81.625,172.136 100.107,127.248 	"/>
+	<line x1="97.875" y1="172.136" x2="9.125" y2="172.136"/>
+	<line x1="5.689" y1="141.106" x2="11.06" y2="127.972"/>
+	<line x1="7.19" y1="156.757" x2="19.629" y2="126.9"/>
+</g>
+
+<g class="boundaryColor">
+	<path d="M69.549,10.228c0.996-3.003-1.608-6.577-4.576-7.718c-3.977-1.527-8.617,1.342-12.28,4.883"/>
+	<path d="M37.445,10.228
+		c0-2.635,0-6.007,1.642-7.751c2.651-2.802,9.513-1.393,12.298,2.349c0.581,0.789,0.977,1.662,1.309,2.567
+		c0.745,2.03,1.16,4.161,2.502,5.52c3.414,3.506,12.794,2.08,14.354-2.685"/>
+	<line x1="37.445" y1="36.335" x2="69.549" y2="36.335"/>
+	<line x1="21.121" y1="46.586" x2="85.875" y2="46.586"/>
+	<line x1="37.445" y1="61.167" x2="69.549" y2="61.167"/>
+	<polyline points="69.549,85.696 69.549,61.167 85.875,61.167 85.875,46.586 69.549,36.335 69.549,10.228 	"/>
+	<polyline points="37.445,85.696 37.445,61.167 21.121,61.167 21.121,46.586 37.445,36.335 37.445,10.228 	"/>
+	<ellipse cx="98.882" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="83.794" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="68.705" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="53.617" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="38.528" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="23.439" cy="115.47" rx="3.144" ry="3.182"/>
+	<ellipse cx="8.351" cy="115.47" rx="3.144" ry="3.182"/>
+	<rect x="1" y="85.699"  />
+	<use xlink:href="#cutaway"/>
+	<line x1="1" y1="189.564" x2="106" y2="189.564"/>
+	<line x1="106" y1="194.691" x2="1" y2="194.691"/>
+</g>
+</svg>

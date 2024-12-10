@@ -1,0 +1,31 @@
+
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.7182in" height="1.4792in" viewBox="0 0 999 860">
+
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M79,353 l878,0 0,479 -878,0 0,-479z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M66,330 l904,0 0,23 -904,0 0,-23z" />
+<path style="fill:#7f7f7f" d="M517,28 l453,302 -904,0 451,-302z" />
+<path style="fill:#999" d="M102,330 l415,-302 386,302 -801,0z" />
+<path style="fill:#999" d="M903,330 l0,23 -801,0 0,-23 801,0z" />
+<path style="fill:#999" d="M115,353 l775,0 0,479 -775,0 0,-479z" />
+<path style="fill:#b2b2b2" d="M147,330 l370,-302 289,302 -659,0z" />
+<path style="fill:#b2b2b2" d="M806,330 l0,23 -659,0 0,-23 659,0z" />
+<path style="fill:#b2b2b2" d="M160,353 l640,0 0,479 -640,0 0,-479z" />
+<path style="fill:#ccc" d="M205,330 l312,-302 151,302 -463,0z" />
+<path style="fill:#ccc" d="M218,353 l443,0 0,479 -443,0 0,-479z" />
+<path style="fill:#ccc" d="M668,330 l0,23 -463,0 0,-23 463,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M66,330 l451,-302 453,302 -904,0" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M218,687 l665,0" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M475,520 l482,0" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M79,520 l251,0" />
+<path style="fill:#666;stroke:#000;stroke-width:2" d="M115,832 l-23,0 0,-77 -39,0 0,77 -25,0 0,-16 0,-16 0,-15 0,-461 14,-24 15,-8 3,0 93,0 -38,25 -49,0 -13,13 0,402 39,0 0,-354 23,0 0,454z" />
+<path style="fill:#000;stroke:#000;stroke-width:2" d="M66,304 l-10,2 -9,5 -5,8 -1,11 12,0 3,-8 8,-5 2,0 0,-13z" />
+<path style="fill:#000;stroke:#000;stroke-width:2" d="M66,317 l0,-13 68,0 -19,13 -49,0z" />
+<path style="fill:#000;stroke:#000;stroke-width:2" d="M41,330 l12,0 0,502 -12,0 0,-502z" />
+<path style="fill:#000;stroke:#000;stroke-width:2" d="M102,378 l13,0 0,454 -13,0 0,-454z" />
+<path style="fill:#000" d="M102,366 l3,0 3,1 2,1 2,2 1,1 1,3 0,2 1,2 -13,0 0,-12z" />
+<path style="fill:#000" d="M53,745 l49,0 0,10 -49,0 0,-10z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M102,378 l0,-12 3,0 3,1 2,1 2,2 1,1 1,3 0,2 1,2 -13,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M53,745 l49,0 0,10 -49,0 0,-10" />
+
+</svg>

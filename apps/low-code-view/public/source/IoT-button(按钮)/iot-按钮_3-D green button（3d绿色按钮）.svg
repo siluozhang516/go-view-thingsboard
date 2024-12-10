@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+                stroke: #848484;
+                fill: url(#未命名的渐变_22);
+            }
+
+            .cls-1,
+            .cls-2 {
+                stroke-miterlimit: 10;
+                stroke-width: 0.5px;
+            }
+
+            .cls-2 {
+                fill: #31c66c;
+                stroke: #245b37;
+            }
+
+            .cls-3 {
+                opacity: 0.18;
+                fill: url(#未命名的渐变_31);
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+        <radialGradient id="未命名的渐变_22" cx="74.95" cy="74.95" r="74.95" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#919191" />
+            <stop offset="0.35" stop-color="#989898" stop-opacity="0.99" />
+            <stop offset="0.62" stop-color="#adadad" stop-opacity="0.94" />
+            <stop offset="0.87" stop-color="#d0d0d0" stop-opacity="0.86" />
+            <stop offset="1" stop-color="#eaeaea" stop-opacity="0.8" />
+        </radialGradient>
+        <radialGradient id="未命名的渐变_31" cx="74.32" cy="75.31" r="43.76" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f4f4f4" stop-opacity="0" />
+            <stop offset="0.38" stop-color="#f4f4f4" stop-opacity="0.01" />
+            <stop offset="0.52" stop-color="#f3f3f3" stop-opacity="0.04" />
+            <stop offset="0.62" stop-color="#f2f2f2" stop-opacity="0.09" />
+            <stop offset="0.7" stop-color="#f1f1f1" stop-opacity="0.17" />
+            <stop offset="0.76" stop-color="#efefef" stop-opacity="0.26" />
+            <stop offset="0.82" stop-color="#ededed" stop-opacity="0.38" />
+            <stop offset="0.88" stop-color="#ebebeb" stop-opacity="0.53" />
+            <stop offset="0.93" stop-color="#e8e8e8" stop-opacity="0.69" />
+            <stop offset="0.97" stop-color="#e4e4e4" stop-opacity="0.88" />
+            <stop offset="1" stop-color="#e2e2e2" />
+        </radialGradient>
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_3" data-name="图层 3">
+        <circle class="cls-1" cx="74.95" cy="74.95" r="74.95" />
+        <circle class="cls-2" cx="74.32" cy="75.31" r="53.38" />
+        <circle class="cls-3" cx="74.32" cy="75.31" r="45.29" />
+    </g>
+    
+</svg>

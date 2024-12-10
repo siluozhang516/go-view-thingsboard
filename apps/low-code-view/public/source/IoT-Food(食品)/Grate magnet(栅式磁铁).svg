@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 131.22">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_121);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_121-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_121-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_121-4);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_121-5);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_121-6);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_121-7);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_8);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_8-2);
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_121" x1="11.36" y1="65.61" x2="30.48" y2="65.61" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a9b1bb" />
+            <stop offset="0.09" stop-color="#61666b" />
+            <stop offset="0.18" stop-color="#696e73" />
+            <stop offset="0.32" stop-color="#7e8489" />
+            <stop offset="0.49" stop-color="#a1a7ae" />
+            <stop offset="0.69" stop-color="#d1d8e0" />
+            <stop offset="0.75" stop-color="#e2eaf2" />
+            <stop offset="0.93" stop-color="#9ba1ab" />
+            <stop offset="1" stop-color="#767b82" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_121-2" x1="32.86" y1="65.61" x2="40.03" y2="65.61" xlink:href="#未命名的渐变_121" />
+        <linearGradient id="未命名的渐变_121-3" x1="67.83" y1="65.61" x2="75" y2="65.61" xlink:href="#未命名的渐变_121" />
+        <linearGradient id="未命名的渐变_121-4" x1="104.06" y1="65.61" x2="111.23" y2="65.61" xlink:href="#未命名的渐变_121" />
+        <linearGradient id="未命名的渐变_121-5" x1="47.06" y1="65.61" x2="66.17" y2="65.61" xlink:href="#未命名的渐变_121" />
+        <linearGradient id="未命名的渐变_121-6" x1="82.75" y1="65.61" x2="101.86" y2="65.61" xlink:href="#未命名的渐变_121" />
+        <linearGradient id="未命名的渐变_121-7" x1="118.45" y1="65.61" x2="137.56" y2="65.61" xlink:href="#未命名的渐变_121" />
+        <linearGradient id="未命名的渐变_8" x1="75" y1="9.98" x2="75" y2="5.42" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#767b82" />
+            <stop offset="0.08" stop-color="#9ba1ab" />
+            <stop offset="0.91" stop-color="#9ba1ab" />
+            <stop offset="0.96" stop-color="#d7dce0" />
+            <stop offset="0.98" stop-color="#767b82" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_8-2" y1="123.52" y2="114.39" xlink:href="#未命名的渐变_8" />
+    </defs>
+    <title>Grate magnet(栅式磁铁)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_6" data-name="图层 6">
+            <g id="Grate_magnet_栅式磁铁_" data-name="Grate magnet(栅式磁铁)">
+                <rect class="cls-1" x="11.36" width="19.11" height="131.22" />
+                <rect class="cls-2" x="32.86" width="7.17" height="131.22" />
+                <rect class="cls-3" x="67.83" width="7.17" height="131.22" />
+                <rect class="cls-4" x="104.06" width="7.17" height="131.22" />
+                <rect class="cls-5" x="47.06" width="19.11" height="131.22" />
+                <rect class="cls-6" x="82.75" width="19.11" height="131.22" />
+                <rect class="cls-7" x="118.45" width="19.11" height="131.22" />
+                <rect class="cls-8" y="5.42" width="150" height="4.56" />
+                <rect class="cls-9" y="114.39" width="150" height="9.13" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 88.17">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #5ac8f7;
+            }
+
+            .cls-2 {
+                fill: #fff;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Switch_off（开关_关）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="风格1">
+            <g id="Switch_off_开关_关_" data-name="Switch_off（开关_关）">
+                <path id="外边框" class="cls-1"
+                    d="M105.92,1a43.09,43.09,0,0,1,0,86.17H44.08A43.09,43.09,0,0,1,44.08,1h61.84m0-1H44.08A44.21,44.21,0,0,0,0,44.08H0A44.22,44.22,0,0,0,44.08,88.17h61.84A44.22,44.22,0,0,0,150,44.08h0A44.21,44.21,0,0,0,105.92,0Z" />
+                <circle class="cls-2" cx="46.48" cy="44.08" r="38.79" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

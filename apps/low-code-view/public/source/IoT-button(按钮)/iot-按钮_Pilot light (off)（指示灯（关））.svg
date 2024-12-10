@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: #6f6e6d;
+                stroke: #000;
+            }
+
+            .cls-2,
+            .cls-6 {
+                stroke-miterlimit: 10;
+                stroke-width: 0.75px;
+            }
+
+            .cls-3 {
+                fill: #8b8a8a;
+            }
+
+            .cls-4 {
+                fill: #9e9e9f;
+            }
+
+            .cls-5 {
+                fill: #d9d9d9;
+            }
+
+            .cls-6 {
+                fill: #ddd;
+                stroke: #959596;
+            }
+
+            .cls-7 {
+                fill: #e5e5e5;
+            }
+
+            .cls-8,
+            .cls-9 {
+                opacity: 0.35;
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_49);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_49-2);
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="0.33" y1="75.56" x2="149.67" y2="75.56" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_49" x1="44.19" y1="30.53" x2="44.19" y2="-8.58"
+            gradientTransform="translate(26.51 19.02) scale(1.1 0.77)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" />
+            <stop offset="1" stop-color="#fff" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_49-2" x1="44.19" y1="207.79" x2="44.19" y2="168.68"
+            gradientTransform="matrix(1.1, 0, 0, -0.77, 26.51, 270.79)" xlink:href="#未命名的渐变_49" />
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层22">
+        <rect class="cls-1" x="0.33" y="0.89" width="149.34" height="149.34" rx="5.65" />
+        <circle class="cls-2" cx="74.58" cy="76.46" r="64.06" />
+        <circle class="cls-3" cx="74.58" cy="76.46" r="60.88" />
+        <circle class="cls-4" cx="74.58" cy="76.46" r="57.15" />
+        <circle class="cls-5" cx="74.58" cy="76.46" r="51.26" />
+        <circle class="cls-6" cx="74.58" cy="76.46" r="39.85" />
+        <circle class="cls-7" cx="74.58" cy="76.46" r="36.36" />
+        <ellipse class="cls-8" cx="75" cy="27.49" rx="33.46" ry="15.09" />
+        <ellipse class="cls-9" cx="75" cy="125.5" rx="33.46" ry="15.09" />
+    </g>
+
+</svg>

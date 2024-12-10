@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_13);
+            }
+
+            .cls-2 {
+                fill: #a3aba0;
+                stroke: #7d877a;
+            }
+
+            .cls-2,
+            .cls-3 {
+                stroke-miterlimit: 10;
+                stroke-width: 0.5px;
+            }
+
+            .cls-3 {
+                stroke: #efefef;
+                fill: url(#未命名的渐变_11);
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+        <radialGradient id="未命名的渐变_13" cx="75" cy="75" r="74.91" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#9b9b9b" />
+            <stop offset="0.28" stop-color="#9e9e9e" />
+            <stop offset="0.48" stop-color="#a7a7a7" />
+            <stop offset="0.66" stop-color="#b7b7b7" />
+            <stop offset="0.82" stop-color="#cecece" />
+            <stop offset="0.98" stop-color="#eaeaea" />
+            <stop offset="1" stop-color="#efefef" />
+        </radialGradient>
+        <linearGradient id="未命名的渐变_11" x1="-484.5" y1="-261.44" x2="-589.71" y2="-261.44"
+            gradientTransform="translate(-186.44 612.1) rotate(90)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#efefef" />
+            <stop offset="0.19" stop-color="#e9e9e9" />
+            <stop offset="0.44" stop-color="#d9d9d9" />
+            <stop offset="0.72" stop-color="#bebebe" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_48" data-name="图层 48">
+        <circle class="cls-1" cx="75" cy="75" r="74.91" />
+        <circle class="cls-2" cx="75" cy="75" r="64.73" />
+        <circle class="cls-3" cx="75" cy="75" r="52.61" />
+    </g>
+</svg>

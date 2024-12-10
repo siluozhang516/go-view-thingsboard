@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150.33 110.37">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #dcdcdd;
+            }
+
+            .cls-2 {
+                fill: #eee;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Steel grating 1（gang格栅）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Steel_grating_1_gang格栅_" data-name="Steel grating 1（gang格栅）">
+                <rect class="cls-1" width="150.33" height="110.37" />
+                <rect class="cls-2" x="4.63" y="9" width="141.15" height="90.69" />
+                <rect class="cls-1" x="12.59" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="72.7" y="-52.94" width="4.66" height="141.04"
+                    transform="translate(92.61 -57.45) rotate(90)" />
+                <rect class="cls-1" x="72.7" y="-40.8" width="4.66" height="141.04"
+                    transform="translate(104.76 -45.31) rotate(90)" />
+                <rect class="cls-1" x="72.7" y="-28.66" width="4.66" height="141.04"
+                    transform="translate(116.9 -33.17) rotate(90)" />
+                <rect class="cls-1" x="72.7" y="-16.52" width="4.66" height="141.04"
+                    transform="translate(129.04 -21.03) rotate(90)" />
+                <rect class="cls-1" x="72.7" y="-4.38" width="4.66" height="141.04"
+                    transform="translate(141.18 -8.89) rotate(90)" />
+                <rect class="cls-1" x="72.7" y="7.76" width="4.66" height="141.04"
+                    transform="translate(153.32 3.25) rotate(90)" />
+                <rect class="cls-1" x="72.7" y="19.9" width="4.66" height="141.04"
+                    transform="translate(165.46 15.39) rotate(90)" />
+                <rect class="cls-1" x="24.61" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="36.63" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="48.66" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="60.68" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="72.71" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="84.73" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="96.76" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="108.78" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="120.81" y="9" width="5.22" height="91.38" />
+                <rect class="cls-1" x="132.83" y="9" width="5.22" height="91.38" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

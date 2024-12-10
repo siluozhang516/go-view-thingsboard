@@ -1,0 +1,30 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.6083in" height="0.9766in" viewBox="0 0 998 606">
+
+<path style="fill:#999" d="M28,278 l942,0 0,49 -942,0 0,-49z" />
+<path style="fill:#b2b2b2" d="M28,282 l942,0 0,42 -942,0 0,-42z" />
+<path style="fill:#ccc" d="M28,288 l942,0 0,30 -942,0 0,-30z" />
+<path style="fill:#e5e5e5" d="M28,295 l942,0 0,17 -942,0 0,-17z" />
+<path style="fill:#fff" d="M28,301 l942,0 0,4 -942,0 0,-4z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M28,278 l942,0 0,49 -942,0 0,-49" />
+<path style="fill:#999" d="M184,28 l630,0 0,550 -630,0 0,-550z" />
+<path style="fill:#b2b2b2" d="M184,67 l630,0 0,472 -630,0 0,-472z" />
+<path style="fill:#ccc" d="M184,131 l630,0 0,344 -630,0 0,-344z" />
+<path style="fill:#e5e5e5" d="M184,211 l630,0 0,186 -630,0 0,-186z" />
+<path style="fill:#fff" d="M184,288 l630,0 0,30 -630,0 0,-30z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M184,28 l630,0 0,550 -630,0 0,-550" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M759,28 l55,0 0,550 -55,0 0,-550" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M789,107 l25,0 0,58 -25,0 0,-58z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M789,303 l25,0 0,58 -25,0 0,-58z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M789,499 l25,0 0,58 -25,0 0,-58z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M239,578 l-55,0 0,-550 55,0 0,550" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M209,499 l-25,0 0,-58 25,0 0,58z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M209,303 l-25,0 0,-59 25,0 0,59z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M209,107 l-25,0 0,-59 25,0 0,59z" />
+<path style="fill:#fc0" d="M814,254 l19,0 0,98 -19,0 0,-98z" />
+<path style="fill:#d9a600" d="M814,333 l19,0 0,19 -19,0 0,-19z" />
+<path style="fill:#ffe500" d="M814,254 l19,0 0,30 -19,0 0,-30z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M814,254 l19,0 0,98 -19,0 0,-98" />
+
+</svg>

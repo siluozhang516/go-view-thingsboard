@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 132.24 148.7">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-4,
+            .cls-5,
+            .cls-6,
+            .cls-7,
+            .cls-8 {
+                fill: none;
+                stroke-miterlimit: 10;
+                stroke-width: 0.1px;
+            }
+
+            .cls-4 {
+                stroke: url(#未命名的渐变_67-2);
+            }
+
+            .cls-5 {
+                stroke: url(#未命名的渐变_67-3);
+            }
+
+            .cls-6 {
+                stroke: url(#未命名的渐变_67-4);
+            }
+
+            .cls-7 {
+                stroke: url(#未命名的渐变_67-5);
+            }
+
+            .cls-8 {
+                stroke: url(#未命名的渐变_67-6);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_143-4);
+            }
+
+            .cls-11 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_67" y1="74.2" x2="132.24" y2="74.2" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143" x1="0.7" y1="35.93" x2="130.24" y2="35.93" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" x1="0" y1="112.63" x2="131.17" y2="112.63" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_67-2" x1="106.33" y1="73.32" x2="111.43" y2="73.32" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-3" x1="-522.21" y1="75.52" x2="-517.11" y2="75.52"
+            gradientTransform="matrix(-1, 0, 0, 1, -500.51, 0)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-4" x1="84.88" y1="75.52" x2="89.09" y2="75.52" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-5" x1="-550.04" y1="75.52" x2="-545.83" y2="75.52"
+            gradientTransform="matrix(-1, 0, 0, 1, -506.85, 0)" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-6" x1="63.87" y1="74.71" x2="63.97" y2="74.71" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_143-3" x1="4.04" y1="6.35" x2="126.81" y2="6.35" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-4" x1="4.51" y1="142.57" x2="125.84" y2="142.57" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>Barrel（桶）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_104" data-name="图层 104">
+            <g id="Barrel_桶_" data-name="Barrel（桶）">
+                <path class="cls-1"
+                    d="M121.52,148.11H8.82S0,112.56,0,74.2A324,324,0,0,1,8.82.29h112.7s10.72,33.21,10.72,71.12C132.24,112,121.52,148.11,121.52,148.11Z" />
+                <path class="cls-2" d="M.7,41.58H130.24q-.81-5.91-1.89-11.31H2.32Q1.39,35.64.7,41.58Z" />
+                <path class="cls-3" d="M1.22,118.29h128.5c.55-3.62,1.06-7.36,1.45-11.32H0Q.51,112.9,1.22,118.29Z" />
+                <path class="cls-4" d="M106.38,8.82c3.47,23.81,9.11,75.38.3,129" />
+                <path class="cls-5" d="M21.65,11c-3.47,23.81-9.11,75.38-.3,129" />
+                <path class="cls-6" d="M84.93,11c3.46,23.81,7,78.33.29,129" />
+                <path class="cls-7" d="M43.14,11c-3.46,23.81-7,78.33-.29,129" />
+                <line class="cls-8" x1="63.92" y1="11.01" x2="63.92" y2="138.42" />
+                <path class="cls-9" d="M4,12.71H126.81A98.31,98.31,0,0,0,121.3,0H9A99.44,99.44,0,0,0,4,12.71Z" />
+                <path class="cls-10"
+                    d="M8.11,148.7H121.79a116.14,116.14,0,0,0,4-12.27H4.51A122,122,0,0,0,8.11,148.7Z" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

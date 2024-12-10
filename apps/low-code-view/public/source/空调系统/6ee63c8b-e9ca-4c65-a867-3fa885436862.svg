@@ -1,0 +1,22 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.6083in" height="0.4685in" viewBox="0 0 999 291">
+
+<path style="fill:#7f7f7f" d="M121,187 l756,0 0,6 -756,0 0,-6z" />
+<path style="fill:#000" d="M132,187 l8,0 0,6 -8,0 0,-6z" />
+<path style="fill:#000" d="M858,187 l8,0 0,6 -8,0 0,-6z" />
+<path style="fill:#000" d="M493,187 l6,0 0,6 -6,0 0,-6z" />
+<path style="fill:#ccc" d="M115,28 l768,0 0,159 -768,0 0,-159z" />
+<path style="fill:#c7c7c7" d="M115,142 l768,-69 0,114 -768,0 0,-45z" />
+<path style="fill:#c2c2c2" d="M115,147 l768,-66 0,106 -768,0 0,-40z" />
+<path style="fill:#bdbdbd" d="M115,157 l768,-67 0,97 -768,0 0,-30z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M115,28 l768,0 0,159 -768,0 0,-159" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M121,33 l756,0" />
+<path style="fill:#e5e5e5" d="M121,193 l-93,70 942,0 -93,-70 -756,0z" />
+<path style="fill:#e0e0e0" d="M52,244 l-24,19 942,0 -76,-57 -842,38z" />
+<path style="fill:#dbdbdb" d="M41,252 l-13,11 942,0 -58,-43 -871,32z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M121,193 l-93,70 942,0 -93,-70 -756,0" />
+<path style="fill:none;stroke:#fff;stroke-width:2" d="M121,39 l756,0" />
+<path style="fill:none;stroke:#fff;stroke-width:2" d="M39,257 l920,0" />
+
+</svg>

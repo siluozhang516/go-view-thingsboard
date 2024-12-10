@@ -1,0 +1,12 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.1597in" height="1.0750in" viewBox="0 0 999 926">
+
+<path style="fill:#ff7f00;stroke:#000;stroke-width:2" d="M390,173 l16,-51 49,-51 76,-33 85,-10 129,0 84,10 77,33 48,51 16,56 0,570 -16,56 -48,51 -77,32 -84,11 -129,0 -85,-11 -76,-32 -49,-51 -16,-51 -362,0 0,-580 362,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M390,753 l0,-580" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M608,898 l0,-870" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M753,898 l0,-870" />
+<ellipse style="fill:none;stroke:#000;stroke-width:2" cx="209" cy="354" rx="54" ry="109" />
+<ellipse style="fill:none;stroke:#000;stroke-width:2" cx="209" cy="571" rx="54" ry="108" />
+
+</svg>

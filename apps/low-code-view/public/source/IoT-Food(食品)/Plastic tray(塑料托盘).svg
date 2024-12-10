@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 28.57">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_32);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_5);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_5-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_5-3);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_111);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_5-4);
+            }
+
+            .cls-7 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_32" x1="144.82" y1="7.88" x2="125.93" y2="26.77" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#abafb3" />
+            <stop offset="1" stop-color="#45484d" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_5" x1="103.06" y1="-14.8" x2="35.51" y2="52.74" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#d7dce0" />
+            <stop offset="1" stop-color="#8a9099" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_5-2" x1="104.61" y1="-24.68" x2="33.75" y2="46.18" xlink:href="#未命名的渐变_5" />
+        <linearGradient id="未命名的渐变_5-3" x1="150.01" y1="0.72" x2="137.28" y2="13.46" xlink:href="#未命名的渐变_5" />
+        <linearGradient id="未命名的渐变_111" x1="135.49" y1="-26.82" x2="14.52" y2="36.51" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebf0f5" />
+            <stop offset="1" stop-color="#b8c0cc" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_5-4" x1="128.23" y1="-23.03" x2="21.77" y2="32.71" xlink:href="#未命名的渐变_5" />
+    </defs>
+    <title>Plastic tray(塑料托盘)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_6" data-name="图层 6">
+            <g id="Plastic_tray_塑料托盘_" data-name="Plastic tray(塑料托盘)">
+                <path class="cls-1"
+                    d="M138.44,21.36l-10.71,7.21,4-14.74,11.4-7.67L139.44,19.8A2.29,2.29,0,0,1,138.44,21.36Z" />
+                <path class="cls-2" d="M127.73,28.57H12.31A2.32,2.32,0,0,1,10,26.62L6.37,13.83H131.69Z" />
+                <path class="cls-3"
+                    d="M0,8.37H137.65a0,0,0,0,1,0,0v5.46a0,0,0,0,1,0,0H2.38A2.38,2.38,0,0,1,0,11.45V8.37A0,0,0,0,1,0,8.37Z" />
+                <path class="cls-4"
+                    d="M150,1.18v3.3A2.34,2.34,0,0,1,149,6.43l-11.29,7.4V8.37L149.74.45A1.16,1.16,0,0,1,150,1.18Z" />
+                <path class="cls-5"
+                    d="M150,1.18a1.12,1.12,0,0,1-.55,1L138.09,9.41a2.11,2.11,0,0,1-.43.2,2,2,0,0,1-.48.07H1.22A1.17,1.17,0,0,1,.54,7.53L11.71.4A2.48,2.48,0,0,1,13.06,0H148.78a1.2,1.2,0,0,1,1,.45A1.16,1.16,0,0,1,150,1.18Z" />
+                <path class="cls-6"
+                    d="M8.57,5.21l3.88-2.48a2.48,2.48,0,0,1,1.35-.4h127a1.16,1.16,0,0,1,.67,2.14L137.55,7a2.47,2.47,0,0,1-1.35.39H9.24A1.15,1.15,0,0,1,8.57,5.21Z" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

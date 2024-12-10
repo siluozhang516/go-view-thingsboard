@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54.3 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_397);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_397-2);
+            }
+
+            .cls-3 {
+                opacity: 0.5;
+                fill: url(#未命名的渐变_126);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_125);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_125-2);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_125-3);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_125-4);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_136);
+            }
+
+            .cls-11,
+            .cls-9 {
+                opacity: 0.2;
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_376);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_116);
+            }
+        </style>
+        <linearGradient id="未命名的渐变_397" x1="114.5" y1="-700.27" x2="87.8" y2="-700.27"
+            gradientTransform="translate(-74 740.95)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#767b82" />
+            <stop offset="0.07" stop-color="#9ba1ab" />
+            <stop offset="0.22" stop-color="#e2eaf2" />
+            <stop offset="0.28" stop-color="#d1d8e0" />
+            <stop offset="0.49" stop-color="#a1a7ae" />
+            <stop offset="0.67" stop-color="#7e8489" />
+            <stop offset="0.81" stop-color="#696e73" />
+            <stop offset="0.91" stop-color="#61666b" />
+            <stop offset="1" stop-color="#a9b1bb" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_397-2" x1="118.66" y1="-613.97" x2="83.64" y2="-613.97" xlink:href="#未命名的渐变_397" />
+        <linearGradient id="未命名的渐变_126" x1="27.15" y1="118.97" x2="27.15" y2="103.97" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#9ba1ab" stop-opacity="0" />
+            <stop offset="1" stop-color="#2e3033" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_125" x1="81.6" y1="-621.98" x2="81.6" y2="-628.47"
+            gradientTransform="translate(-74 740.95)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#45484d" />
+            <stop offset="1" stop-color="#45494d" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_125-2" x1="120.7" y1="-621.98" x2="120.7" y2="-628.47" xlink:href="#未命名的渐变_125" />
+        <linearGradient id="未命名的渐变_125-3" x1="108.7" y1="-621.98" x2="108.7" y2="-628.47" xlink:href="#未命名的渐变_125" />
+        <linearGradient id="未命名的渐变_125-4" x1="93.7" y1="-621.98" x2="93.7" y2="-628.47" xlink:href="#未命名的渐变_125" />
+        <linearGradient id="未命名的渐变_136" x1="123.47" y1="-625.23" x2="78.82" y2="-625.23"
+            gradientTransform="translate(-74 740.95)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#8b9199" />
+            <stop offset="0.07" stop-color="#b9c0cc" />
+            <stop offset="0.22" stop-color="#eef7ff" />
+            <stop offset="0.26" stop-color="#e4edf5" />
+            <stop offset="0.47" stop-color="#b4bcc3" />
+            <stop offset="0.66" stop-color="#91989e" />
+            <stop offset="0.81" stop-color="#7c8288" />
+            <stop offset="0.91" stop-color="#747a80" />
+            <stop offset="1" stop-color="#b8c1cc" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_376" x1="27.15" y1="77.21" x2="27.15" y2="97.49"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 158.57)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2e3033" />
+            <stop offset="1" stop-color="#9ba1ab" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_116" x1="44.34" y1="-49.71" x2="3.62" y2="-26.2"
+            gradientTransform="translate(0 136.43)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#767b82" />
+            <stop offset="0.07" stop-color="#9ba1ab" />
+            <stop offset="0.12" stop-color="#e2eaf2" />
+            <stop offset="0.2" stop-color="#d1d8e0" />
+            <stop offset="0.43" stop-color="#a1a7ae" />
+            <stop offset="0.63" stop-color="#7e8489" />
+            <stop offset="0.8" stop-color="#696e73" />
+            <stop offset="0.91" stop-color="#61666b" />
+            <stop offset="1" stop-color="#a9b1bb" />
+        </linearGradient>
+    </defs>
+    <title>Thermal oxidzer(化学反应塔)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_16" data-name="图层 16">
+            <g id="Thermal_oxidzer_化学反应塔_" data-name="Thermal oxidzer(化学反应塔)">
+                <rect class="cls-1" x="13.8" width="26.7" height="81.37" />
+                <rect class="cls-2" x="9.64" y="103.97" width="35.02" height="46.03" />
+                <rect class="cls-3" x="9.64" y="103.97" width="35.02" height="15" />
+                <rect class="cls-4" x="6.82" y="112.48" width="1.55" height="6.49" />
+                <rect class="cls-5" x="45.93" y="112.48" width="1.55" height="6.49" />
+                <rect class="cls-6" x="33.93" y="112.48" width="1.55" height="6.49" />
+                <rect class="cls-7" x="18.93" y="112.48" width="1.55" height="6.49" />
+                <rect class="cls-8" x="4.82" y="114.4" width="44.65" height="2.65" />
+                <rect class="cls-9" x="13.8" y="61.09" width="26.7" height="20.28" />
+                <polygon class="cls-10" points="40.5 81.37 13.8 81.37 0 103.97 54.3 103.97 40.5 81.37" />
+
+            </g>
+        </g>
+    </g>
+</svg>

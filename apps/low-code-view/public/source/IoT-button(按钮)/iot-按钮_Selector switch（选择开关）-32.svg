@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_70);
+            }
+
+            .cls-2 {
+                stroke: #b5b5b5;
+                stroke-miterlimit: 10;
+                stroke-width: 0.5px;
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-4 {
+                fill: #d3d3d3;
+            }
+
+            .cls-5 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_70" y1="75" x2="150" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.01" stop-color="#dadada" />
+            <stop offset="0.04" stop-color="#b9b9b9" />
+            <stop offset="0.07" stop-color="#a5a5a5" />
+            <stop offset="0.09" stop-color="#9e9e9e" />
+            <stop offset="0.11" stop-color="#a3a3a3" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105" x1="12.22" y1="75" x2="137.78" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="63.18" x2="86.82" xlink:href="#未命名的渐变_105" />
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_32" data-name="图层 32">
+        <circle class="cls-1" cx="75" cy="75" r="75" />
+        <circle class="cls-2" cx="75" cy="75" r="62.78" />
+        <rect class="cls-3" x="63.18" y="14.33" width="23.64" height="121.34" rx="1.38" />
+        <rect class="cls-4" x="70.33" y="24.69" width="7.93" height="16.94" />
+    </g>
+
+</svg>

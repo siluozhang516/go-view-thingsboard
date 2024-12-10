@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136.3 150.42">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_74-3);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_74-4);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_74-5);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_74-6);
+            }
+
+            .cls-9 {
+                fill: #b9b8bc;
+                stroke: #565656;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_105" x1="44.46" y1="99.58" x2="62.04" y2="99.58" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74" x1="90.38" y1="113.29" x2="90.38" y2="102.96" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="0" y1="75.42" x2="11.87" y2="75.42" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-3" x1="91.25" y1="75.42" x2="103.12" y2="75.42" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_105-2" x1="4.8" y1="44.51" x2="97.54" y2="44.51" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_74-4" x1="52.82" y1="138.37" x2="52.82" y2="113.29" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-5" x1="51.31" y1="143.66" x2="51.31" y2="138.37" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-6" x1="52.6" y1="123.19" x2="52.6" y2="115.5" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>Volumatic feeder machine（容积式给料机）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_55" data-name="图层 55">
+            <g id="Volumatic_feeder_machine_容积式给料机_" data-name="Volumatic feeder machine（容积式给料机）">
+                <rect class="cls-1" x="44.46" y="89.44" width="17.58" height="20.29" />
+                <rect class="cls-2" x="44.46" y="102.96" width="91.84" height="10.33" />
+                <rect class="cls-3" y="0.42" width="11.87" height="150" />
+                <rect class="cls-4" x="91.25" y="0.42" width="11.87" height="150" />
+                <polygon class="cls-5"
+                    points="4.8 0 44.48 75 44.52 75 44.52 89.02 58.79 89.02 58.79 75 58.81 75 97.54 0 4.8 0" />
+                <rect class="cls-6" x="37.57" y="113.29" width="30.49" height="25.08" />
+                <rect class="cls-7" x="11.38" y="138.37" width="79.86" height="5.29" />
+                <rect class="cls-8" x="40.15" y="115.5" width="24.9" height="7.68" />
+                <rect class="cls-9" x="40.15" y="125.09" width="24.9" height="10.64" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

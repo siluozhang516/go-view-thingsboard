@@ -1,0 +1,73 @@
+ 
+<svg version='1.1'
+    xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    x='0px'
+    y='0px'
+    width='109.86px'
+    height='343.317px'
+    viewBox='0 0 109.86 343.317'
+    xmlns:agg='http://www.example.com'
+    xml:space='preserve'>
+<agg:params>
+	<agg:param  type="C" name="Color" classes="boundary" description="Color" cssAttributes="fill"></agg:param>
+	<agg:param  type="C" name="strokeColor" classes="contours,dashed,thick" description="Stroke Color" cssAttributes="stroke"></agg:param>
+</agg:params>
+
+<style type="text/css" >
+<![CDATA[
+
+	.contours,.dashed,.thick{
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: #000000;
+		fill:none;
+	}
+	
+	.contours,dashed {
+		stroke-width:0.5;
+	}
+	
+	.thick {
+		stroke-width:1.5;
+	}
+	
+	.boundary {
+		fill:   #A1BFE2;
+		stroke:none;
+	}
+	
+	.dashed {
+		stroke-dasharray:1.5,1.5;
+	}
+]]>
+</style>
+ <g id='boundary'
+     class='boundary'>
+  <polygon points='1.053,135.741 1.053,279.411 54.933,342.262 108.803,279.411 108.803,135.741 54.933,135.741  ' />
+  <path d='M36.973,10.031c0,20.96,0,41.9,0,62.86c4.49,5.989,11.22,8.979,17.96,8.979s13.47-2.99,17.96-8.979   c0-20.96,0-41.9,0-62.86C63.912-1.938,45.952-1.938,36.973,10.031z' />
+ </g>
+ <g id='contours'
+     class='contours'>
+  <line x1='36.972'
+      y1='72.889'
+      x2='72.888'
+      y2='72.889' />
+  <path d='M36.972,207.574c5.707,0,13.975,6.202,17.957,8.98c-3.982,2.775-12.25,8.979-17.957,8.979   c-4.96,0-8.979-4.021-8.979-8.979C27.992,211.594,32.012,207.574,36.972,207.574z' />
+  <polygon points='108.805,135.741 108.805,279.407 54.929,342.262 1.056,279.407 1.056,135.741  ' />
+  <path d='M54.929,216.555c3.984,2.775,12.251,8.979,17.959,8.979c4.959,0,8.98-4.021,8.98-8.979   c0-4.961-4.021-8.98-8.98-8.98C67.18,207.574,58.913,213.776,54.929,216.555z' />
+  <line x1='36.972'
+      y1='10.035'
+      x2='72.888'
+      y2='10.035' />
+  <line x1='54.929'
+      y1='81.865'
+      x2='54.929'
+      y2='216.555' />
+  <path d='M72.888,10.035c0,20.951,0,41.9,0,62.854c-8.979,11.973-26.937,11.973-35.916,0c0-20.953,0-41.902,0-62.854   C45.951-1.938,63.909-1.938,72.888,10.035z' />
+  <line x1='1.056'
+      y1='279.407'
+      x2='108.805'
+      y2='279.407' />
+ </g>
+</svg>

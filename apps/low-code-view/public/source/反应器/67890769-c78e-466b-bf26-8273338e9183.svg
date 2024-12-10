@@ -1,0 +1,143 @@
+ 
+<svg version="1.1" id="Layer_01" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="0 0 100 202" xmlns:agg="http://www.example.com" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param  type="C" name="vapourColor" classes="vapour" description="Vapour Color" cssAttributes="fill"/>
+	<agg:param  type="C" name="crystalColor" classes="crystal" description="Crystal Bed Color" cssAttributes="fill"/>
+	<agg:param  type="C" name="settlingColor" classes="settling" description="Settling Color" cssAttributes="fill"/>
+</agg:params>
+
+<style type="text/css" >
+	<![CDATA[
+		.stroke,.thin,.thick,.dash{
+			stroke-linecap:butt;
+			stroke-linejoin:round;
+			stroke: black;
+			fill:none;
+		}
+
+		.stroke,.dash{stroke-width:0.75;}
+
+		.thin {stroke-width:0.35;}
+
+		.thick {stroke-width:1;}
+		
+		.dash {
+			stroke-dasharray:4,3;
+		}
+		
+		.settling {
+			fill:#EC6683;
+		}
+		
+		.vapour {
+			fill:#FFCE00;
+		}
+		
+		.crystal {
+			fill:#7FE57F;
+		}
+	]]>
+</style>
+
+<defs>
+	<linearGradient id="complexGradient" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.0551" style="stop-color:#343434"/>
+		<stop  offset="0.1195" style="stop-color:#696969"/>
+		<stop  offset="0.1848" style="stop-color:#979797"/>
+		<stop  offset="0.2496" style="stop-color:#BCBCBC"/>
+		<stop  offset="0.3138" style="stop-color:#DADADA"/>
+		<stop  offset="0.3773" style="stop-color:#EEEEEE"/>
+		<stop  offset="0.4398" style="stop-color:#FBFBFB"/>
+		<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.5602" style="stop-color:#FBFBFB"/>
+		<stop  offset="0.6227" style="stop-color:#EEEEEE"/>
+		<stop  offset="0.6862" style="stop-color:#DADADA"/>
+		<stop  offset="0.7504" style="stop-color:#BCBCBC"/>
+		<stop  offset="0.8152" style="stop-color:#979797"/>
+		<stop  offset="0.8805" style="stop-color:#696969"/>
+		<stop  offset="0.9449" style="stop-color:#343434"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<linearGradient id="complexGradient_1" xlink:href="#complexGradient" x1="7.3828" y1="164.4775" x2="90.2207" y2="164.4775"/>
+	<linearGradient id="complexGradient_2" xlink:href="#complexGradient" x1="27.5" y1="0" x2="70.561" y2="0"/>
+	
+	<linearGradient id="simpleGradient" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<linearGradient id="simpleGradient_1" xlink:href="#simpleGradient" x1="7.5" y1="124.543" x2="90.1075" y2="124.543"/>
+	
+	<path id="crystal" d="M90.221,127.954v27.827L76.08,180.508h6.282v4.371c-2.926,0-5.853,0-8.778,0
+		c-1.999,3.501-3.998,6.994-6.003,10.496c-11.403,7.501-26.155,7.501-37.565,0c-7.542-13.195-15.091-26.398-22.633-39.593
+		c0-7.002,0-14.004,0-21.006h5.551l2.315-6.821h29.556c0,19.676,0,39.352,0,59.027c2.662,0,5.332,0,7.994,0
+		c0-19.675,0-39.351,0-59.027H90.221z"/>
+	<path id="vapour" d="M69.88,14.634c0.528,1.535,0.302,3.017,0.302,4.537c0,1.066,0,18.965,0,33.952H21.04
+		V48.2c2.127,0,4.253,0,6.381,0c0-10.586,0-21.18,0-31.767c0-2.442,1.599-4.59,3.929-5.286c4.178-1.248,8.363-2.503,12.543-3.751
+		c0-2.132,0-4.264,0-6.397h9.818c0,2.133,0,4.265,0,6.397c2.919,0.877,5.846,1.747,8.764,2.625
+		C65.189,10.83,68.673,11.125,69.88,14.634z"/>
+	<path id="settling_1" d="M52.797,127.953h46.201v-6.82h-46.2L52.797,127.953z M44.804,121.133
+		H7.381v3.797h-6.38v9.844h6.38h5.552l2.314-6.82h29.557V121.133z"/>
+	<path id="settling_2" d="M21.04,53.123v4.922c2.127,0,4.253,0,6.381,0c0,3.887,0,7.774,0,11.653
+		c5.792,7.04,11.583,14.08,17.383,21.112c0,7.652,0,73.874,0,96.171c2.661,0,5.331,0,7.993,0c0-21.949,0-43.898,0-65.848
+		c0,0,0.001-22.671,0.001-30.323c5.792-7.032,11.593-14.072,17.384-21.112c0-3.781,0-9.891,0-16.575H21.04z"/>
+</defs>
+	 
+<use xlink:href="#crystal" class="crystal"/>
+<use xlink:href="#vapour" class="vapour"/>
+<use xlink:href="#settling_1" class="settling"/>
+<use xlink:href="#settling_2" class="settling"/>
+
+<g opacity="0.2">
+	<use xlink:href="#crystal" fill="url(#complexGradient_1)"/>
+	<use xlink:href="#vapour" fill="url(#complexGradient_2)"/>
+	<use xlink:href="#settling_1" fill="url(#simpleGradient_1)"/>
+	<use xlink:href="#settling_2" fill="url(#complexGradient_2)"/>
+</g>	
+	
+<g class="stroke">
+	<path d="M44.802,113.768c0-7.651,0-15.304,0-22.956
+		c-5.793-7.036-11.587-14.072-17.381-21.109c0-3.886,0-7.772,0-11.658c-2.128,0-4.255,0-6.383,0"/>
+	<path d="M53.709,1c0,2.133,0,4.267,0,6.4
+		c2.923,0.874,5.846,1.748,8.77,2.623c2.715,0.812,6.194,1.103,7.402,4.614c0.527,1.532,0.301,3.015,0.301,4.538
+		c0,1.539,0,38.286,0,50.529C64.389,76.741,58.594,83.777,52.8,90.813c0,7.652,0,15.304,0,22.957"/>
+	<polyline points="99,127.953 90.221,127.953 
+		90.221,155.781 76.083,180.514 82.366,180.514 	"/>
+	<polyline points="52.801,121.139 90.221,121.139 
+		99,121.139 	"/>
+	<polyline points="52.801,113.77 90.221,113.77 
+		90.221,121.139 	"/>
+	<path d="M7.383,134.775c0,7.002,0,14.004,0,21.004
+		c7.546,13.199,15.091,26.398,22.636,39.598c11.406,7.496,26.161,7.496,37.565,0c2.001-3.5,4.001-7,6.002-10.5
+		c2.928,0,5.854,0,8.779,0"/>
+	<polyline points="7.383,124.934 7.383,113.77 
+		44.802,113.77 	"/>
+	<path d="M43.895,1c0,2.133,0,4.267,0,6.4
+		c-4.183,1.25-8.364,2.501-12.546,3.752c-2.33,0.697-3.927,2.845-3.927,5.282c0,10.59,0,21.18,0,31.77c-2.128,0-4.255,0-6.383,0"/>
+	<line x1="17.563" y1="121.139" x2="44.802" y2="121.139"/>
+	<line x1="1" y1="134.775" x2="7.383" y2="134.775"/>
+	<line x1="21.038" y1="53.125" x2="70.182" y2="53.125"/>
+	<line x1="7.383" y1="124.934" x2="1" y2="124.934"/>
+	<line x1="52.801" y1="127.957" x2="90.221" y2="127.957"/>
+	<line x1="15.25" y1="127.957" x2="44.802" y2="127.957"/>
+</g>
+
+<g class="dash">
+	<path d="M52.801,113.768
+		c0,24.404,0,48.808,0,73.212c-2.666,0-5.332,0-7.999,0c0-24.404,0-48.808,0-73.212"/>
+	<line x1="7.383" y1="124.934" x2="7.383" y2="134.775"/>
+	<polyline points="7.383,134.775 12.938,134.775 17.563,121.138 7.383,121.138"/>
+</g>
+
+<g class="thick">
+	<line x1="99" y1="129.974" x2="99" y2="119.119"/>
+	<line x1="21.038" y1="45.738" x2="21.038" y2="60.511"/>
+	<line x1="82.366" y1="186.896" x2="82.366" y2="178.494"/>
+	<line x1="1" y1="122.468" x2="1" y2="137.241"/>
+	<line x1="56.168" y1="1" x2="41.435" y2="1"/>
+</g>
+
+</svg>

@@ -1,0 +1,32 @@
+{
+  "name": "@thingsboard/widget",
+  "version": "1.0.0",
+  "description": "This is a project for configuring subscription parameters for Thingsboard Websket",
+  "type": "module",
+  "main": "dist/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./component/alias": "./src/components/alias.vue",
+    "./component/keyFilter": "./src/components/keyFilter.vue",
+    "./component/timewindow": "./src/components/timewindow.vue"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "vue-tsc -b && vite build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@pureadmin/table": "^3.2.1",
+    "@thingsboard/core": "workspace:*",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.6.1",
+    "vue": "^3.4.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1",
+    "vue-tsc": "^2.0.29"
+  }
+}

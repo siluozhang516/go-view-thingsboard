@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #eee;
+            }
+
+            .cls-2 {
+                fill: #0e6587;
+            }
+
+            .cls-3 {
+                fill: #1880c3;
+            }
+
+            .cls-4 {
+                fill: #007bb4;
+            }
+
+            .cls-5 {
+                fill: #0073b9;
+            }
+
+            .cls-6 {
+                fill: #e2e2e2;
+            }
+
+            .cls-6,
+            .cls-7 {
+                opacity: 0.18;
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_49);
+            }
+
+            .cls-8 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_49" x1="97.31" y1="194.82" x2="97.31" y2="161.89"
+            gradientTransform="matrix(1.1, 0, 0, -0.77, -31.9, 270.79)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" />
+            <stop offset="1" stop-color="#fff" />
+        </linearGradient>
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_19" data-name="图层 19">
+        <circle class="cls-1" cx="74.89" cy="74.89" r="74.89" />
+        <circle class="cls-2" cx="74.89" cy="74.89" r="69.07" />
+        <circle class="cls-3" cx="74.89" cy="74.89" r="61.95" />
+        <circle class="cls-4" cx="74.89" cy="74.89" r="31.58" />
+        <circle class="cls-5" cx="74.89" cy="74.89" r="26.49" />
+        <path class="cls-6" d="M144,74.89c0,38.15-30.92-13-69.07-13S5.81,113,5.81,74.89a69.08,69.08,0,1,1,138.15,0Z" />
+        <ellipse class="cls-7" cx="74.89" cy="133.13" rx="40.43" ry="12.71" />
+    </g>
+   
+</svg>

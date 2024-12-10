@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 118.56">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #c1c1c1;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_105-3);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_105-4);
+            }
+
+            .cls-6 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_105" x1="145.28" y1="59.17" x2="150" y2="59.17" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="0" y1="59.39" x2="4.72" y2="59.39" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-3" x1="-209.26" y1="513.12" x2="-204.54" y2="513.12"
+            gradientTransform="translate(281.68 -397.16)" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-4" x1="-308.72" y1="512.69" x2="-304" y2="512.69"
+            gradientTransform="translate(381.58 -496.19)" xlink:href="#未命名的渐变_105" />
+    </defs>
+    <title>Chain link fence with barbed wire(铁丝网围栏)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Chain_link_fence_with_barbed_wire_铁丝网围栏_" data-name="Chain link fence with barbed wire(铁丝网围栏)">
+                <rect class="cls-1" x="74.78" y="-46.19" width="0.45" height="140.56"
+                    transform="translate(50.91 99.09) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-61.95" width="0.45" height="140.56"
+                    transform="translate(66.67 83.33) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-39.85" width="0.45" height="140.56"
+                    transform="translate(44.57 105.43) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-33.52" width="0.45" height="140.56"
+                    transform="translate(38.24 111.76) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-27.18" width="0.45" height="140.56"
+                    transform="translate(31.9 118.1) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-20.4" width="0.45" height="140.56"
+                    transform="translate(25.12 124.88) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-14.06" width="0.45" height="140.56"
+                    transform="translate(18.78 131.22) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-7.93" width="0.45" height="140.56"
+                    transform="translate(12.65 137.35) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="-1.62" width="0.45" height="140.56"
+                    transform="translate(6.34 143.66) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="4.72" width="0.45" height="140.56"
+                    transform="translate(0 150) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="11.56" width="0.45" height="140.56"
+                    transform="translate(-6.84 156.84) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="17.81" width="0.45" height="140.56"
+                    transform="translate(-13.09 163.09) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="24.15" width="0.45" height="140.56"
+                    transform="translate(-19.43 169.43) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="30.28" width="0.45" height="140.56"
+                    transform="translate(-25.56 175.56) rotate(-90)" />
+                <rect class="cls-1" x="74.78" y="37.1" width="0.45" height="140.56"
+                    transform="translate(-32.38 182.38) rotate(-90)" />
+                <rect class="cls-2" x="145.28" width="4.72" height="118.35" />
+                <rect class="cls-3" y="0.22" width="4.72" height="118.35" />
+                <rect class="cls-4" x="72.42" y="45.47" width="4.72" height="140.99"
+                    transform="translate(190.75 41.18) rotate(90)" />
+                <rect class="cls-5" x="72.86" y="-54" width="4.72" height="140.99"
+                    transform="translate(91.71 -58.72) rotate(90)" />
+                <rect class="cls-1" x="93.68" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="100.8" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="107.06" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="113.33" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="119.6" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="125.86" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="132.13" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="138.4" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="87.34" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="80.99" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="74.65" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="67.85" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="61.51" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="55.37" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="49.04" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="42.7" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="35.84" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="29.58" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="23.24" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="17.09" y="1.06" width="0.45" height="112.54" />
+                <rect class="cls-1" x="10.26" y="1.06" width="0.45" height="112.54" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

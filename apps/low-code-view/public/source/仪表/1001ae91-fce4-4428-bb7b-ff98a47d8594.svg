@@ -1,0 +1,23 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="1.0750in" height="1.0750in" viewBox="0 0 998 998">
+
+<path style="fill:#666;stroke:#000;stroke-width:2" d="M59,28 l911,0 0,911 -31,31 -911,-910 31,-32z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M28,59 l911,0 0,911 -911,0 0,-911z" />
+<path style="fill:#f0f0f0;stroke:#000;stroke-width:2" d="M120,81 l729,0 68,70 0,727 -68,68 -729,0 -68,-68 0,-727 68,-70z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M134,99 l701,0 64,64 0,701 -64,65 -701,0 -65,-65 0,-701 65,-64z" />
+<path style="fill:#f0f0f0;stroke:#000;stroke-width:2" d="M141,172 l685,0 0,346 -685,0 0,-346z" />
+<path style="fill:#f0f0f0;stroke:#000;stroke-width:2" d="M237,864 l493,0 0,-287 -493,0 0,287z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M382,621 l76,0 37,16 14,35 0,103 -14,37 -37,14 -76,0 -35,-14 -17,-37 0,-103 17,-35 35,-16" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M548,651 l11,-20 20,-10 48,0 20,10 10,20 -107,93 110,2" />
+<path style="fill:#666;stroke:#000;stroke-width:2" d="M511,413 l136,0 -68,61 -68,-61z" />
+<path style="fill:#666;stroke:#000;stroke-width:2" d="M800,474 l-136,0 68,-61 68,61z" />
+<path style="fill:#666;stroke:#000;stroke-width:2" d="M182,452 l0,-17 51,0 0,-51 17,0 0,51 52,0 0,17 -52,0 0,51 -17,0 0,-51 -51,0z" />
+<path style="fill:#666;stroke:#000;stroke-width:2" d="M338,454 l0,-19 134,0 0,19 -134,0z" />
+<path style="fill:#333;stroke:#000;stroke-width:2" d="M275,196 l426,0 0,163 -426,0 0,-163z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M63,71 l12,6 4,12 -4,13 -12,4 -13,-4 -6,-13 6,-12 13,-6z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M63,921 l12,6 4,12 -4,13 -12,4 -13,-4 -6,-13 6,-12 13,-6z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M909,71 l12,6 4,12 -4,13 -12,4 -13,-4 -6,-13 6,-12 13,-6z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M909,921 l12,6 4,12 -4,13 -12,4 -13,-4 -6,-13 6,-12 13,-6z" />
+
+</svg>

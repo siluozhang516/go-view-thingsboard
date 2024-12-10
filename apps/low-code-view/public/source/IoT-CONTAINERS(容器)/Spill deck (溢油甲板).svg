@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: none;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_86);
+            }
+
+            .cls-3 {
+                fill: #b79144;
+            }
+
+            .cls-4 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-5 {
+                fill: #232220;
+            }
+
+            .cls-6 {
+                fill: #595651;
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_86-2);
+            }
+
+            .cls-8 {
+                clip-path: url(#clip-path-2);
+            }
+
+            .cls-9 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_86" x1="49.56" y1="111.06" x2="49.56" y2="83.45" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#dcb558" />
+            <stop offset="0.08" stop-color="#e7c062" />
+            <stop offset="0.15" stop-color="#f5cd6e" />
+            <stop offset="0.87" stop-color="#f5cd6e" />
+            <stop offset="0.93" stop-color="#ecc466" />
+            <stop offset="0.99" stop-color="#dcb558" />
+        </linearGradient>
+        <clipPath id="clip-path">
+            <polygon class="cls-1" points="97.72 100.19 4.36 83.44 52.28 66.42 145.64 83.44 97.72 100.19" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_86-2" x1="112.23" y1="118.63" x2="136.9" y2="75.88" xlink:href="#未命名的渐变_86" />
+        <clipPath id="clip-path-2">
+            <polygon class="cls-1" points="97.85 100.19 4.49 83.44 52.4 66.42 145.77 83.44 97.85 100.19" />
+        </clipPath>
+    </defs>
+    <title>IoT-CONTAINERS(容器)</title>
+    <g id="Spill_deck_溢油甲板_" data-name="Spill deck (溢油甲板)">
+        <polygon class="cls-2" points="99.13 111.06 0 93.33 0 83.45 99.13 101.18 99.13 111.06" />
+        <polygon class="cls-3" points="99.13 101.23 0 83.45 50.87 65.38 150 83.45 99.13 101.23" />
+        <g class="cls-4">
+            <polygon class="cls-5" points="97.72 100.19 4.36 83.44 52.28 66.42 145.64 83.44 97.72 100.19" />
+            <rect class="cls-6" x="74.23" y="53.5" width="2" height="59.66"
+                transform="matrix(0.6, -0.8, 0.8, 0.6, -36.55, 93.71)" />
+            <rect class="cls-6" x="69.29" y="55.74" width="2" height="59.66"
+                transform="matrix(0.6, -0.8, 0.8, 0.6, -40.33, 90.64)" />
+            <rect class="cls-6" x="63.64" y="56.58" width="2" height="61.41"
+                transform="translate(-43.97 86.81) rotate(-53.23)" />
+            <rect class="cls-6" x="58.82" y="59.08" width="2" height="61.09"
+                transform="translate(-47.78 83.89) rotate(-53.23)" />
+            <rect class="cls-6" x="53.36" y="60.3" width="2" height="62.37"
+                transform="translate(-51.46 80.26) rotate(-53.23)" />
+            <rect class="cls-6" x="48.4" y="62.51" width="2" height="62.41"
+                transform="translate(-55.24 77.18) rotate(-53.23)" />
+            <rect class="cls-6" x="42.55" y="62.93" width="2" height="64.69"
+                transform="translate(-58.84 73.12) rotate(-53.23)" />
+            <rect class="cls-6" x="36.37" y="62.72" width="2" height="67.75"
+                transform="translate(-62.38 68.7) rotate(-53.23)" />
+            <rect class="cls-6" x="32.43" y="66.97" width="2" height="65.25"
+                transform="translate(-66.36 66.75) rotate(-53.23)" />
+            <rect class="cls-6" x="80.55" y="51.76" width="2" height="59.66"
+                transform="matrix(0.6, -0.8, 0.8, 0.6, -32.62, 98.07)" />
+            <rect class="cls-6" x="86.87" y="50.02" width="2" height="59.66"
+                transform="translate(-28.69 102.43) rotate(-53.23)" />
+            <rect class="cls-6" x="93.18" y="48.27" width="2" height="59.66"
+                transform="matrix(0.6, -0.8, 0.8, 0.6, -24.76, 106.79)" />
+            <rect class="cls-6" x="99.5" y="46.53" width="2" height="59.66"
+                transform="translate(-20.83 111.15) rotate(-53.23)" />
+            <rect class="cls-6" x="105.81" y="44.79" width="2" height="59.66"
+                transform="matrix(0.6, -0.8, 0.8, 0.6, -16.9, 115.51)" />
+            <rect class="cls-6" x="112.13" y="43.05" width="2" height="59.66"
+                transform="translate(-12.97 119.87) rotate(-53.23)" />
+            <rect class="cls-6" x="118.45" y="41.31" width="2" height="59.66"
+                transform="translate(-9.05 124.23) rotate(-53.23)" />
+            <rect class="cls-6" x="124.76" y="39.57" width="2" height="59.66"
+                transform="translate(-5.12 128.59) rotate(-53.23)" />
+        </g>
+        <polygon class="cls-7" points="150 93.33 99.13 111.06 99.13 101.18 150 83.45 150 93.33" />
+        <g class="cls-8">
+            <rect class="cls-6" x="4.36" y="82.44" width="141.28" height="2" />
+            <rect class="cls-6" x="4.87" y="86.28" width="141.28" height="2" />
+            <rect class="cls-6" x="5.38" y="90.13" width="141.28" height="2" />
+            <rect class="cls-6" x="5.89" y="93.97" width="141.28" height="2" />
+            <rect class="cls-6" x="6.4" y="97.81" width="141.28" height="2" />
+            <rect class="cls-6" x="4.36" y="78.6" width="141.28" height="2" />
+            <rect class="cls-6" x="4.36" y="74.75" width="141.28" height="2" />
+            <rect class="cls-6" x="4.36" y="70.91" width="141.28" height="2" />
+            <rect class="cls-6" x="4.36" y="67.07" width="141.28" height="2" />
+        </g>
+
+    </g>
+</svg>

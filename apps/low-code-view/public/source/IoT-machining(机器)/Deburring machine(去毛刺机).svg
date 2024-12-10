@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 149.9 135.66">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-4 {
+                fill: #4c4c4c;
+            }
+
+            .cls-5 {
+                fill: #999;
+            }
+
+            .cls-6 {
+                fill: #42403f;
+                stroke: #686868;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-7 {
+                fill: #7f7f7f;
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="30.92" y1="13.19" x2="30.92" y2="11.53" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105" x1="31.39" y1="12.26" x2="31.39" y2="0.93" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67" x1="33.16" y1="8.01" x2="33.16" y2="0.93" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="85.72" y1="13.19" x2="85.72" y2="0" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_67-2" x1="21.69" y1="12.26" x2="21.69" y2="0.93" xlink:href="#未命名的渐变_67" />
+    </defs>
+    <title>Deburring machine(去毛刺机)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="Deburring_machine_去毛刺机_" data-name="Deburring machine(去毛刺机)">
+                <rect class="cls-1" x="20.43" y="11.53" width="20.97" height="1.66" />
+                <rect class="cls-2" x="17.61" y="0.93" width="27.57" height="11.33" />
+                <rect class="cls-3" x="24.92" y="0.93" width="16.48" height="7.08" />
+                <rect class="cls-4" x="4.67" y="64.4" width="9.34" height="67" />
+                <rect class="cls-4" x="122.97" y="64.4" width="9.34" height="67" />
+                <rect class="cls-5" y="13.19" width="136.97" height="55.48" />
+                <rect class="cls-5" y="68.66" width="9.34" height="67" />
+                <rect class="cls-5" x="127.63" y="68.66" width="9.34" height="67" />
+                <line class="cls-6" x1="9.34" y1="69.26" y2="69.26" />
+                <line class="cls-6" x1="136.97" y1="69.26" x2="127.63" y2="69.26" />
+                <rect class="cls-4" x="28.54" y="54.96" width="5.95" height="13.5" />
+                <rect class="cls-4" x="104.93" y="54.96" width="5.95" height="13.5" />
+                <rect class="cls-7" x="136.97" y="17.9" width="4.61" height="46.5" />
+                <rect class="cls-4" x="141.58" y="30.66" width="8.32" height="26.56" />
+                <polygon class="cls-8"
+                    points="130.62 0 122.71 0 118.12 11.17 53.31 11.17 48.72 0 40.82 0 34.46 13.19 136.97 13.19 130.62 0" />
+                <rect class="cls-9" x="20.89" y="0.93" width="1.59" height="11.33" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

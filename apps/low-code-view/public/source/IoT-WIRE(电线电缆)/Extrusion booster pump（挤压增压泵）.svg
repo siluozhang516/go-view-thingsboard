@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 149.73 36.14">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_147);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_147-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_147-3);
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_147" x1="74.86" y1="6.24" x2="74.86" y2="29.91" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#808484" />
+            <stop offset="0.05" stop-color="#9c9f9f" />
+            <stop offset="0.13" stop-color="#bcbebe" />
+            <stop offset="0.2" stop-color="#d6d7d7" />
+            <stop offset="0.28" stop-color="#e8e8e8" />
+            <stop offset="0.36" stop-color="#f3f3f3" />
+            <stop offset="0.46" stop-color="#f6f6f6" />
+            <stop offset="0.54" stop-color="#dbdbdb" />
+            <stop offset="0.65" stop-color="#b7b7b7" />
+            <stop offset="0.75" stop-color="#a1a1a1" />
+            <stop offset="0.81" stop-color="#999" />
+            <stop offset="0.86" stop-color="#888" />
+            <stop offset="0.95" stop-color="#6f6f6f" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_147-2" x1="3.17" y1="0" x2="3.17" y2="36.14" xlink:href="#未命名的渐变_147" />
+        <linearGradient id="未命名的渐变_147-3" x1="146.56" y1="0" x2="146.56" y2="36.14" xlink:href="#未命名的渐变_147" />
+    </defs>
+    <title>Extrusion booster pump（挤压增压泵）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_14" data-name="图层 14">
+            <g id="Extrusion_booster_pump_挤压增压泵_" data-name="Extrusion booster pump（挤压增压泵）">
+                <rect class="cls-1" x="5.5" y="6.24" width="138.73" height="23.67" />
+                <rect class="cls-2" width="6.34" height="36.14" />
+                <rect class="cls-3" x="143.38" width="6.34" height="36.14" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

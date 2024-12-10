@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150.07 96.61">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #808484;
+            }
+
+            .cls-2 {
+                fill: #ffec00;
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_143-4);
+            }
+
+            .cls-7 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="7.69" y1="86.64" x2="12.67" y2="86.64" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" x1="8.82" y1="79.51" x2="11.59" y2="79.51" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-3" x1="136.53" y1="86.64" x2="141.51" y2="86.64" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-4" x1="137.66" y1="79.51" x2="140.43" y2="79.51" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>Industrial platform 1（产业平台1）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Industrial_platform_1_产业平台1_" data-name="Industrial platform 1（产业平台1）">
+                <polygon class="cls-1" points="12.2 7.28 14.82 0.13 138.01 45.39 132.83 52.12 12.2 7.28" />
+                <polygon class="cls-1" points="138.03 7.15 135.41 0 12.21 45.26 15.78 52.66 138.03 7.15" />
+                <polygon class="cls-1"
+                    points="138.01 51.22 137.94 45.27 132.93 45.27 12.2 89.33 14.82 96.48 138.01 51.22" />
+                <polygon class="cls-1"
+                    points="12.2 51.34 12.2 45.27 17.43 45.27 138.01 89.46 135.39 96.61 12.2 51.34" />
+                <rect class="cls-2" x="71.33" y="-70.83" width="7.55" height="149.74"
+                    transform="translate(79.14 -71.07) rotate(90)" />
+                <rect class="cls-1" x="71.26" y="17.67" width="7.55" height="150.07"
+                    transform="translate(167.74 17.67) rotate(90)" />
+                <rect class="cls-3" x="7.69" y="84.35" width="4.98" height="4.58" />
+                <rect class="cls-4" x="8.82" y="74.67" width="2.77" height="9.69" />
+                <rect class="cls-5" x="136.53" y="84.35" width="4.98" height="4.58" />
+                <rect class="cls-6" x="137.66" y="74.67" width="2.77" height="9.69" />
+                <rect x="71.33" y="-70.83" width="7.55" height="149.74"
+                    transform="translate(79.14 -71.07) rotate(90)" />
+                <polygon class="cls-2" points="9.74 7.81 0.24 7.81 13.84 0.26 23.34 0.26 9.74 7.81" />
+                <polygon class="cls-2" points="30.85 7.81 21.34 7.81 34.94 0.26 44.45 0.26 30.85 7.81" />
+                <polygon class="cls-2" points="51.95 7.81 42.45 7.81 56.05 0.26 65.55 0.26 51.95 7.81" />
+                <polygon class="cls-2" points="73.06 7.81 63.55 7.81 77.15 0.26 86.66 0.26 73.06 7.81" />
+                <polygon class="cls-2" points="94.16 7.81 84.66 7.81 98.26 0.26 107.76 0.26 94.16 7.81" />
+                <polygon class="cls-2" points="115.27 7.81 105.76 7.81 119.36 0.26 128.87 0.26 115.27 7.81" />
+                <polygon class="cls-2" points="136.38 7.81 126.87 7.81 140.47 0.26 149.97 0.26 136.38 7.81" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

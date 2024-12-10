@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 127.26 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #bdbdbd;
+            }
+
+            .cls-2 {
+                fill: none;
+            }
+
+            .cls-2,
+            .cls-7,
+            .cls-8 {
+                stroke: #42403f;
+            }
+
+            .cls-2,
+            .cls-7,
+            .cls-8,
+            .cls-9 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_74-3);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_74-4);
+            }
+
+            .cls-7,
+            .cls-8,
+            .cls-9 {
+                fill: #939393;
+            }
+
+            .cls-7,
+            .cls-9 {
+                stroke-width: 0.5px;
+            }
+
+            .cls-9 {
+                stroke: #6d6d6d;
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="25.61" y1="53.3" x2="25.61" y2="46.72" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="25.61" y1="87.49" x2="25.61" y2="80.9" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-3" x1="100.73" y1="54.33" x2="100.73" y2="47.75" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-4" x1="100.73" y1="88.52" x2="100.73" y2="81.94" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>Industrial oven（工业烤箱）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="Industrial_oven_工业烤箱_" data-name="Industrial oven（工业烤箱）">
+                <rect class="cls-1" y="28.44" width="127.26" height="88.21" />
+                <rect class="cls-1" y="116.64" width="7.06" height="33.36" />
+                <rect class="cls-1" y="145.53" width="11.8" height="4.47" />
+                <rect class="cls-1" x="120.2" y="116.64" width="7.06" height="33.36"
+                    transform="translate(247.45 266.64) rotate(180)" />
+                <rect class="cls-1" x="115.46" y="145.53" width="11.8" height="4.47"
+                    transform="translate(242.72 295.53) rotate(180)" />
+                <rect class="cls-2" x="7.06" y="38.88" width="113.14" height="62.09" />
+                <line class="cls-2" x1="61.96" y1="38.88" x2="61.96" y2="100.98" />
+                <rect class="cls-3" x="3.53" y="46.72" width="44.15" height="6.58" />
+                <rect class="cls-4" x="3.53" y="80.9" width="44.15" height="6.58" />
+                <rect class="cls-5" x="78.65" y="47.75" width="44.15" height="6.58" />
+                <rect class="cls-6" x="78.65" y="81.94" width="44.15" height="6.58" />
+                <rect class="cls-7" x="65.87" y="35.4" width="2.8" height="9.38" />
+                <rect class="cls-7" x="65.87" y="94.82" width="2.8" height="9.38" />
+                <rect class="cls-7" x="65.87" y="58.74" width="2.8" height="18.92" />
+                <rect class="cls-1" x="16.64" width="87.05" height="28.44" />
+                <rect class="cls-8" x="76.42" y="3.77" width="22.57" height="10.45" />
+                <line class="cls-8" x1="103.68" y1="28.44" x2="16.64" y2="28.44" />
+                <rect class="cls-8" x="20.31" y="3.39" width="4.66" height="10.11" />
+                <line class="cls-9" x1="98.99" y1="25.68" x2="20.99" y2="25.68" />
+                <line class="cls-9" x1="127.26" y1="113.6" y2="113.6" />
+              
+            </g>
+        </g>
+    </g>
+</svg>

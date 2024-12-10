@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 150">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2,
+            .cls-8 {
+                fill: none;
+            }
+
+            .cls-2,
+            .cls-7,
+            .cls-8 {
+                stroke: #7a7a7a;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-2,
+            .cls-7 {
+                stroke-width: 4px;
+            }
+
+            .cls-3 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-4 {
+                fill: #a5a5a5;
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-7,
+            .cls-9 {
+                fill: #c6c6c6;
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <ellipse class="cls-1" cx="74.12" cy="44.31" rx="40.9" ry="40.11" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_74" x1="21.23" y1="85.26" x2="126.67" y2="85.26" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="0" y1="142.48" x2="149.89" y2="142.48" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>IoT-pump（泵）</title>
+    <g id="图层_19" data-name="图层 19">
+        <ellipse class="cls-2" cx="74.12" cy="44.31" rx="43.17" ry="42.33" />
+        <g class="cls-3">
+            <rect class="cls-4" x="80.53" y="41.33" width="35.58" height="5.97" />
+            <rect class="cls-4" x="68.43" y="20.36" width="35.58" height="5.97"
+                transform="translate(22.89 86.35) rotate(-60)" />
+            <rect class="cls-4" x="44.22" y="20.36" width="35.58" height="5.97"
+                transform="translate(72.8 88.73) rotate(-120)" />
+            <rect class="cls-4" x="32.12" y="41.33" width="35.58" height="5.97"
+                transform="translate(99.82 88.63) rotate(-180)" />
+            <rect class="cls-4" x="44.22" y="62.29" width="35.58" height="5.97"
+                transform="translate(149.55 44.21) rotate(120)" />
+            <rect class="cls-4" x="68.43" y="62.29" width="35.58" height="5.97"
+                transform="translate(99.64 -42.03) rotate(60)" />
+        </g>
+        <rect class="cls-5" x="21.23" y="35.58" width="105.44" height="99.37" />
+        <rect class="cls-6" y="134.94" width="149.89" height="15.07" />
+        <ellipse class="cls-7" cx="73.41" cy="85.54" rx="43.17" ry="42.33" />
+        <ellipse class="cls-8" cx="73.41" cy="85.54" rx="22.33" ry="21.89" />
+        <circle class="cls-9" cx="32.43" cy="44.05" r="5.74" />
+        <circle class="cls-4" cx="32.43" cy="44.05" r="3.11" />
+        <circle class="cls-9" cx="117.29" cy="42.08" r="5.74" />
+        <circle class="cls-4" cx="117.29" cy="42.08" r="3.11" />
+        <circle class="cls-9" cx="116.58" cy="126.75" r="5.74" />
+        <circle class="cls-4" cx="116.58" cy="126.75" r="3.11" />
+        <circle class="cls-9" cx="32.43" cy="126.75" r="5.74" />
+        <circle class="cls-4" cx="32.43" cy="126.75" r="3.11" />
+    </g>
+    
+</svg>

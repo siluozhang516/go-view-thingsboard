@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_30);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_44);
+            }
+
+            .cls-3 {
+                fill: #0b1926;
+            }
+
+            .cls-4 {
+                fill: #3275b3;
+            }
+
+            .cls-5 {
+                fill: #16324d;
+            }
+
+            .cls-6 {
+                stroke-miterlimit: 10;
+                fill: url(#未命名的渐变_49);
+                stroke: url(#未命名的渐变_36);
+            }
+
+            .cls-7 {
+                fill: #fff;
+            }
+
+            .cls-8 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_30" y1="75" x2="320" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#1e4366" />
+            <stop offset="1" stop-color="#245480" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_44" x1="160" y1="150" x2="160" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#1e4366" />
+            <stop offset="0.27" stop-color="#1f4669" />
+            <stop offset="0.45" stop-color="#214f71" />
+            <stop offset="0.61" stop-color="#255e7f" />
+            <stop offset="0.75" stop-color="#2a7392" />
+            <stop offset="0.87" stop-color="#318eac" />
+            <stop offset="0.99" stop-color="#3aafca" />
+            <stop offset="1" stop-color="#3ab1cc" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_49" x1="160" y1="133.55" x2="160" y2="16.45" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#61666b" />
+            <stop offset="1" stop-color="#7c8b99" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_36" x1="160" y1="134.05" x2="160" y2="15.95" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#61676b" stop-opacity="0" />
+            <stop offset="0.21" stop-color="#62686c" stop-opacity="0.01" />
+            <stop offset="0.35" stop-color="#666c71" stop-opacity="0.05" />
+            <stop offset="0.47" stop-color="#6d7479" stop-opacity="0.12" />
+            <stop offset="0.58" stop-color="#777e85" stop-opacity="0.21" />
+            <stop offset="0.68" stop-color="#848b93" stop-opacity="0.33" />
+            <stop offset="0.77" stop-color="#939ba5" stop-opacity="0.48" />
+            <stop offset="0.86" stop-color="#a6aebb" stop-opacity="0.65" />
+            <stop offset="0.94" stop-color="#bbc3d3" stop-opacity="0.85" />
+            <stop offset="1" stop-color="#cbd4e6" />
+        </linearGradient>
+    </defs>
+    <title>Control 2</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="单个电脑按键">
+            <g id="Control_2" data-name="Control 2">
+                <path class="cls-1"
+                    d="M320,14.09V135.91A14.1,14.1,0,0,1,305.91,150H14.09A14.1,14.1,0,0,1,0,135.91V14.09A14.1,14.1,0,0,1,14.09,0H305.91A14.1,14.1,0,0,1,320,14.09Z" />
+                <path class="cls-2"
+                    d="M305.91,2A12.1,12.1,0,0,1,318,14.09V135.91A12.1,12.1,0,0,1,305.91,148H14.09A12.1,12.1,0,0,1,2,135.91V14.09A12.1,12.1,0,0,1,14.09,2H305.91m0-2H14.09A14.1,14.1,0,0,0,0,14.09V135.91A14.1,14.1,0,0,0,14.09,150H305.91A14.1,14.1,0,0,0,320,135.91V14.09A14.1,14.1,0,0,0,305.91,0Z" />
+                <path class="cls-3"
+                    d="M315.52,145.52a14,14,0,0,1-9.91,4.11H14.39a14,14,0,0,1-9.91-4.11l17.1-17.1H298.42Z" />
+                <path class="cls-4"
+                    d="M315.52,4.48l-17.1,17.1H21.58L4.48,4.48A14,14,0,0,1,14.39.37H305.61A14,14,0,0,1,315.52,4.48Z" />
+                <path class="cls-5"
+                    d="M319.63,14.39V135.61a14,14,0,0,1-4.11,9.91l-17.1-17.1V21.58l17.1-17.1A14,14,0,0,1,319.63,14.39Z" />
+                <path class="cls-5"
+                    d="M21.58,21.58V128.42l-17.1,17.1a14,14,0,0,1-4.11-9.91V14.39A14,14,0,0,1,4.48,4.48Z" />
+                <rect class="cls-6" x="16.45" y="16.45" width="287.1" height="117.1" rx="9.34" />
+                <path class="cls-7"
+                    d="M160.75,77.84A5.67,5.67,0,0,1,158.93,81a5.23,5.23,0,0,1-7.81-1.58c-.1-.23-.2-.44-.28-.65a3.87,3.87,0,0,1-.2-.8,25.5,25.5,0,0,1-.15-3.46,25.63,25.63,0,0,1,.15-3.49,4,4,0,0,1,.48-1.42,5.15,5.15,0,0,1,1.69-1.85,5.23,5.23,0,0,1,6.27.44,5.68,5.68,0,0,1,1.67,3.14h-2.33a3.29,3.29,0,0,0-1-1.54,2.8,2.8,0,0,0-1.79-.62,3,3,0,0,0-1.33.31,2.89,2.89,0,0,0-.91.77,2.49,2.49,0,0,0-.57,1.25,18,18,0,0,0-.16,3,17.6,17.6,0,0,0,.16,3,2.45,2.45,0,0,0,.57,1.26,2.93,2.93,0,0,0,2.25,1.09,3,3,0,0,0,2.76-2Z" />
+                <path class="cls-7"
+                    d="M162.6,68.13h2.07v3.24h1.51V73h-1.51v6.21c0,.54.23.8.73.78h.78v2H165.1a2.43,2.43,0,0,1-1.79-.69,2.54,2.54,0,0,1-.71-1.93V73h-1V71.37h1Z" />
+                <path class="cls-7"
+                    d="M168.31,71.37h2.07V72.5h0a3.41,3.41,0,0,1,4.85-.45l-1.51,1.85a2.17,2.17,0,0,0-1.36-.53,2,2,0,0,0-1.37.53,2.14,2.14,0,0,0-.65,1.7V82h-2.07Z" />
+                <path class="cls-7"
+                    d="M176.48,67.06h2.07V79.28q0,.72.78.72H180v2h-.92a2.92,2.92,0,0,1-1.87-.58,2.36,2.36,0,0,1-.77-2Z" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

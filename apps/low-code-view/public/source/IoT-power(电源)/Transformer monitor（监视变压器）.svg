@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 149.54 120.16">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #3e3938;
+            }
+
+            .cls-2 {
+                fill: #c1c1c1;
+            }
+
+            .cls-3 {
+                fill: #eaeaea;
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Transformer monitor（监视变压器）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_59" data-name="图层 59">
+            <g id="Transformer_monitor_监视变压器_" data-name="Transformer monitor（监视变压器）">
+                <rect class="cls-1" width="149.54" height="120.16" rx="1.17" />
+                <rect class="cls-2" x="6.25" y="6.53" width="137.13" height="106.55" />
+                <rect class="cls-1" x="38.09" y="23.08" width="74.12" height="63.24" />
+                <rect class="cls-1" x="17.56" y="24.74" width="10.1" height="10.1" />
+                <rect class="cls-3" x="17.56" y="13.9" width="34.37" height="2.72" />
+                <rect class="cls-1" x="27.66" y="28.85" width="10.43" height="0.94" />
+                <rect class="cls-1" x="27.66" y="44.57" width="10.43" height="0.94" />
+                <rect class="cls-1" x="27.66" y="59.65" width="10.43" height="0.94" />
+                <rect class="cls-1" x="27.66" y="75.16" width="10.43" height="0.94" />
+                <rect class="cls-1" x="112.21" y="28.85" width="10.43" height="0.94" />
+                <rect class="cls-1" x="112.21" y="44.57" width="10.43" height="0.94" />
+                <rect class="cls-1" x="112.21" y="59.65" width="10.43" height="0.94" />
+                <rect class="cls-1" x="112.21" y="75.16" width="10.43" height="0.94" />
+                <rect class="cls-1" x="17.56" y="40.46" width="10.1" height="10.1" />
+                <rect class="cls-1" x="17.56" y="55.72" width="10.1" height="10.1" />
+                <rect class="cls-1" x="17.56" y="71.05" width="10.1" height="10.1" />
+                <rect class="cls-1" x="122.39" y="24.74" width="10.1" height="10.1" />
+                <rect class="cls-1" x="122.39" y="40.46" width="10.1" height="10.1" />
+                <rect class="cls-1" x="122.39" y="55.72" width="10.1" height="10.1" />
+                <rect class="cls-1" x="122.39" y="71.05" width="10.1" height="10.1" />
+                <rect class="cls-1" x="45.88" y="91.37" width="11.11" height="11.63" />
+                <rect class="cls-1" x="69.6" y="91.01" width="11.11" height="11.63" />
+                <rect class="cls-1" x="92.03" y="91.37" width="11.11" height="11.63" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.6083in" height="0.6601in" viewBox="0 0 999 410">
+
+<path style="fill:#e04700;stroke:#000;stroke-width:2" d="M533,130 l-371,0 0,235 371,0 0,-235z" />
+<path style="fill:#eb5200" d="M533,150 l-371,0 0,193 371,0 0,-193z" />
+<path style="fill:#f55c00" d="M533,184 l-371,0 0,127 371,0 0,-127z" />
+<path style="fill:#f60" d="M533,218 l-371,0 0,59 371,0 0,-59z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M786,116 l-253,0 0,260 253,0 0,-260z" />
+<path style="fill:#ff7f19" d="M786,137 l-253,0 0,221 253,0 0,-221z" />
+<path style="fill:#f93" d="M786,169 l-253,0 0,155 253,0 0,-155z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M786,113 l-17,0 0,66 -102,0 0,-66 -34,0 0,66 -17,0 0,-66 -32,0 0,66 -17,0 0,-66 -34,0 0,269 34,0 0,-68 17,0 0,68 32,0 0,-68 17,0 0,68 34,0 0,-68 102,0 0,68 17,0 0,-269z" />
+<path style="fill:#f60" d="M550,113 l-17,0 0,-51 17,0 0,51z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M162,130 l-66,0 0,235 66,0 0,-235z" />
+<path style="fill:#000;stroke:#000;stroke-width:2" d="M533,365 l-437,0 0,17 437,0 0,-17z" />
+<path style="fill:#e54c00;stroke:#000;stroke-width:2" d="M229,45 l-201,0 0,85 201,0 0,-85z" />
+<circle style="fill:#f60;stroke:#000;stroke-width:2" cx="187" cy="87" r="25" />
+<circle style="fill:#f60;stroke:#000;stroke-width:2" cx="120" cy="87" r="24" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M229,45 l-3,-17 -194,0 -4,17 201,0z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M96,147 l-17,0 0,201 17,0 0,-201z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M533,137 l-388,0 0,17 388,0 0,-17z" />
+<path style="fill:#ff7f19;stroke:#000;stroke-width:2" d="M533,171 l-388,0 0,17 388,0 0,-17z" />
+<path style="fill:#f93;stroke:#000;stroke-width:2" d="M533,205 l-388,0 0,17 388,0 0,-17z" />
+<path style="fill:#ffb24c;stroke:#000;stroke-width:2" d="M533,239 l-388,0 0,17 388,0 0,-17z" />
+<path style="fill:#f93;stroke:#000;stroke-width:2" d="M533,273 l-388,0 0,15 388,0 0,-15z" />
+<path style="fill:#ff7f19;stroke:#000;stroke-width:2" d="M533,305 l-388,0 0,17 388,0 0,-17z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M533,339 l-388,0 0,17 388,0 0,-17z" />
+<path style="fill:#f60;stroke:#000;stroke-width:2" d="M738,205 l-7,4 -4,9 4,8 7,3 10,-3 4,-8 -4,-9 -10,-4z" />
+<ellipse style="fill:#7f7f7f;stroke:#000;stroke-width:2" cx="738" cy="217" rx="3" ry="5" />
+<path style="fill:#e04700" d="M550,113 l-17,0 0,-14 17,0 0,14z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M550,113 l-17,0 0,-51 17,0 0,51" />
+<path style="fill:#b2b2b2" d="M836,130 l-50,0 0,235 50,0 0,-235z" />
+<path style="fill:#ccc" d="M836,158 l-50,0 0,177 50,0 0,-177z" />
+<path style="fill:#e5e5e5" d="M836,201 l-50,0 0,93 50,0 0,-93z" />
+<path style="fill:#fff" d="M836,233 l-50,0 0,27 50,0 0,-27z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M836,130 l-50,0 0,235 50,0 0,-235" />
+<path style="fill:#b2b2b2" d="M970,229 l-135,0 0,34 135,0 0,-34z" />
+<path style="fill:#ccc" d="M970,233 l-135,0 0,27 135,0 0,-27z" />
+<path style="fill:#e5e5e5" d="M970,241 l-135,0 0,13 135,0 0,-13z" />
+<path style="fill:#fff" d="M970,245 l-135,0 0,3 135,0 0,-3z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M970,229 l-135,0 0,34 135,0 0,-34" />
+
+</svg>

@@ -1,0 +1,36 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="0.7048in" height="1.0750in" viewBox="0 0 655 999">
+
+<path style="fill:#7f7f7f" d="M410,579 l-29,0 -57,11 -57,-2 -28,-9 0,-87 171,0 0,87z" />
+<path style="fill:#7f7f7f" d="M458,954 l-48,12 -86,4 -87,-4 -43,-12 0,-373 264,0 0,373z" />
+<path style="fill:#b2b2b2" d="M294,419 l59,0 255,-366 -564,0 250,366z" />
+<path style="fill:#b2b2b2" d="M351,490 l-9,2 -18,0 -16,0 -9,-2 0,-73 52,0 0,73z" />
+<path style="fill:#b2b2b2" d="M383,581 l-5,0 -54,2 -57,0 -25,-2 0,-87 141,0 0,87z" />
+<path style="fill:#b2b2b2" d="M415,961 l-5,2 -86,5 -87,-5 -41,-11 0,-371 219,0 0,380z" />
+<path style="fill:#ccc" d="M299,419 l45,0 191,-366 -478,0 242,366z" />
+<path style="fill:#ccc" d="M358,583 l-32,3 -59,0 -21,-5 3,-87 111,0 -2,89z" />
+<path style="fill:#ccc" d="M499,506 l-23,0 -13,0 -10,2 -9,5 -9,2 -25,0 0,20 7,3 25,0 14,4 9,0 13,3 21,0 1,-9 1,-5 0,-10 -1,-10 -1,-5z" />
+<path style="fill:#ccc" d="M148,506 l26,0 13,0 12,4 4,3 9,2 27,0 0,20 -9,3 -25,0 -13,4 -9,0 -14,3 -21,0 0,-39z" />
+<path style="fill:#ccc" d="M378,966 l-54,2 -87,-5 -32,-9 0,-368 173,-5 0,385z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M296,419 l57,0 255,-366 -564,0 252,366" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M294,426 l62,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M294,440 l62,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M294,456 l62,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M294,474 l62,0" />
+<path style="fill:#e0e0e0" d="M333,966 l-9,2 -87,-5 -13,-4 0,-371 109,0 0,378z" />
+<path style="fill:#e0e0e0" d="M331,588 l-7,0 -57,-2 -7,-3 0,-89 71,0 0,94z" />
+<path style="fill:#e5e5e5" d="M239,963 l53,3 0,-376 -53,0 0,373z" />
+<path style="fill:#e5e5e5" d="M301,419 l32,0 39,-366 -301,0 230,366z" />
+<path style="fill:#e5e5e5" d="M310,492 l-5,0 0,-73 5,0 0,73z" />
+<path style="fill:#e5e5e5" d="M269,586 l34,2 0,-94 -34,0 0,92z" />
+<path style="fill:#f0f0f0" d="M274,586 l18,2 0,-94 -18,0 0,92z" />
+<path style="fill:#f0f0f0" d="M246,963 l30,3 0,-378 -30,0 0,375z" />
+<path style="fill:#f0f0f0" d="M303,419 l21,0 -146,-366 -93,0 218,366z" />
+<ellipse style="fill:#fff" cx="193" cy="519" rx="45" ry="6" />
+<path style="fill:#fff" d="M499,513 l-23,0 -13,0 -7,4 -7,5 -5,-2 -9,2 -16,0 -9,-2 0,4 7,0 16,2 9,-2 7,2 7,-4 9,-2 13,0 21,0 0,-7z" />
+<path style="fill:#fff" d="M305,419 l7,0 -198,-366 -16,0 207,366z" />
+<ellipse style="fill:#e5e5e5;stroke:#000;stroke-width:2" cx="327" cy="50" rx="299" ry="22" />
+<ellipse style="fill:#7f7f7f" cx="326" cy="51" rx="280" ry="19" />
+
+</svg>

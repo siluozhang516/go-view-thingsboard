@@ -1,0 +1,25 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="0.9631in" height="1.0750in" viewBox="0 0 895 999">
+
+<path style="fill:#999" d="M27,27 l0,187 140,326 0,93 164,327 233,0 163,-327 0,-93 139,-326 0,-187 -839,0z" />
+<path style="fill:#b2b2b2" d="M74,27 l0,187 124,326 0,93 145,327 208,0 145,-327 0,-93 124,-326 0,-187 -746,0z" />
+<path style="fill:#ccc" d="M98,27 l0,187 116,326 0,93 136,327 194,0 136,-327 0,-93 116,-326 0,-187 -698,0z" />
+<path style="fill:#999" d="M144,27 l0,187 101,326 0,93 118,327 168,0 118,-327 0,-93 101,-326 0,-187 -606,0z" />
+<path style="fill:#b2b2b2" d="M214,27 l0,187 78,326 0,93 90,327 130,0 90,-327 0,-93 78,-326 0,-187 -466,0z" />
+<path style="fill:#ccc" d="M261,27 l0,187 62,326 0,93 73,327 103,0 72,-327 0,-93 62,-326 0,-187 -372,0z" />
+<path style="fill:#e5e5e5" d="M354,27 l0,187 31,326 0,93 36,327 52,0 36,-327 0,-93 31,-326 0,-187 -186,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M27,27 l0,187 140,326 0,93 164,327 233,0 163,-327 0,-93 139,-326 0,-187 -839,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M144,27 l0,187 101,326 0,93 118,327 168,0 118,-327 0,-93 101,-326 0,-187 -606,0" />
+<ellipse style="fill:#999;stroke:#000;stroke-width:2" cx="447" cy="959" rx="116" ry="11" />
+<ellipse style="fill:#4c4c4c;stroke:#000;stroke-width:2" cx="447" cy="959" rx="93" ry="8" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M167,633 l560,0" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M27,214 l839,0" />
+<path style="fill:#7f7f7f" d="M121,534 l652,0 0,12 -652,0 0,-12z" />
+<path style="fill:#b2b2b2" d="M202,534 l490,0 0,12 -490,0 0,-12z" />
+<path style="fill:#e5e5e5" d="M348,534 l198,0 0,12 -198,0 0,-12z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M121,534 l652,0 0,12 -652,0 0,-12" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M144,423 l-46,-116 -71,93 117,23z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M750,423 l47,-116 70,93 -117,23z" />
+
+</svg>

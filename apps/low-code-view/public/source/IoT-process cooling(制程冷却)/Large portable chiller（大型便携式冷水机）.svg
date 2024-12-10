@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86.71 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #b0b0b1;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_5);
+            }
+
+            .cls-3 {
+                fill: #e5e5e5;
+            }
+
+            .cls-4 {
+                fill: #d5d5db;
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_5-2);
+            }
+
+            .cls-6,
+            .cls-8 {
+                fill: #cecece;
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-8 {
+                stroke: #909093;
+                stroke-width: 0.1px;
+            }
+
+            .cls-10,
+            .cls-8 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-9 {
+                fill: #909093;
+            }
+
+            .cls-10 {
+                fill: none;
+                stroke: #a5a5a5;
+                stroke-width: 0.05px;
+            }
+
+            .cls-11 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_5" y1="2.54" x2="86.52" y2="2.54" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ccc" />
+            <stop offset="0" stop-color="#bbb" />
+            <stop offset="0" stop-color="#a7a7a7" />
+            <stop offset="0" stop-color="#a0a0a0" />
+            <stop offset="0" stop-color="#a0a0a0" />
+            <stop offset="0.05" stop-color="#bbb" />
+            <stop offset="0.1" stop-color="#d1d1d1" />
+            <stop offset="0.16" stop-color="#e2e2e2" />
+            <stop offset="0.24" stop-color="#ededed" />
+            <stop offset="0.35" stop-color="#f4f4f4" />
+            <stop offset="0.65" stop-color="#f6f6f6" />
+            <stop offset="0.8" stop-color="#f4f4f4" />
+            <stop offset="0.86" stop-color="#ededed" />
+            <stop offset="0.9" stop-color="#e2e2e2" />
+            <stop offset="0.93" stop-color="#d1d1d1" />
+            <stop offset="0.96" stop-color="#bbb" />
+            <stop offset="0.98" stop-color="#a0a0a0" />
+            <stop offset="1" stop-color="#898989" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_5-2" x1="0.19" y1="141.87" x2="86.71" y2="141.87" xlink:href="#未命名的渐变_5" />
+        <linearGradient id="未命名的渐变_143" x1="42.92" y1="34.84" x2="49.63" y2="34.84" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+    </defs>
+    <title>Large portable chiller（大型便携式冷水机）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_23" data-name="图层 23">
+            <g id="Large_portable_chiller_大型便携式冷水机_" data-name="Large portable chiller（大型便携式冷水机）">
+                <rect class="cls-1" x="0.42" y="4.7" width="85.46" height="135.18" />
+                <rect class="cls-2" width="86.52" height="5.08" />
+                <rect class="cls-3" x="17.28" y="14.91" width="57.51" height="58.48" />
+                <rect class="cls-3" x="17.28" y="78.6" width="57.51" height="51.71" />
+                <rect class="cls-4" x="25.13" y="102.36" width="41.8" height="4.19" />
+                <rect class="cls-5" x="0.19" y="139.33" width="86.52" height="5.08" />
+                <rect class="cls-4" x="19.31" y="17.41" width="7.62" height="6.23" />
+                <rect class="cls-4" x="19.31" y="27.7" width="7.62" height="6.23" />
+                <rect class="cls-1" x="33.92" y="25.66" width="24.71" height="18.23" />
+                <rect class="cls-6" x="36.49" y="27.7" width="19.57" height="13.91" />
+                <polygon class="cls-7"
+                    points="47.95 31.93 44.6 31.93 42.92 34.84 44.6 37.74 47.95 37.74 49.63 34.84 47.95 31.93" />
+                <circle class="cls-1" cx="46.28" cy="34.96" r="1.82" />
+                <circle class="cls-1" cx="9.12" cy="48.17" r="5.17" />
+                <rect class="cls-1" x="7.71" y="144.41" width="9.06" height="5.59" />
+                <rect class="cls-1" x="70.85" y="144.41" width="9.06" height="5.59" />
+                <circle class="cls-6" cx="9.12" cy="31.08" r="5.17" />
+                <circle class="cls-8" cx="9.12" cy="31.08" r="4.4" />
+                <circle class="cls-9" cx="9.12" cy="31.08" r="0.59" />
+                <line class="cls-10" x1="5.05" y1="31.08" x2="5.81" y2="31.08" />
+                <line class="cls-10" x1="9.12" y1="27.08" x2="9.12" y2="27.84" />
+                <line class="cls-10" x1="11.92" y1="28.33" x2="11.38" y2="28.87" />
+                <line class="cls-10" x1="6.39" y1="28.33" x2="6.93" y2="28.87" />
+                <line class="cls-10" x1="12.42" y1="31.08" x2="13.18" y2="31.08" />
+                <polygon class="cls-9" points="11.36 28.14 7.75 32.57 8.28 32.94 11.36 28.14" />
+                <rect class="cls-8" x="7.26" y="33.37" width="3.73" height="0.83" />
+                <circle class="cls-6" cx="9.12" cy="48.17" r="5.17" />
+                <circle class="cls-8" cx="9.12" cy="48.17" r="4.4" />
+                <circle class="cls-9" cx="9.12" cy="48.17" r="0.59" />
+                <line class="cls-10" x1="5.05" y1="48.17" x2="5.81" y2="48.17" />
+                <line class="cls-10" x1="9.12" y1="44.17" x2="9.12" y2="44.93" />
+                <line class="cls-10" x1="11.92" y1="45.41" x2="11.38" y2="45.95" />
+                <line class="cls-10" x1="6.39" y1="45.41" x2="6.93" y2="45.95" />
+                <line class="cls-10" x1="12.42" y1="48.17" x2="13.18" y2="48.17" />
+                <polygon class="cls-9" points="11.36 45.22 7.75 49.66 8.28 50.03 11.36 45.22" />
+                <rect class="cls-8" x="7.26" y="50.45" width="3.73" height="0.83" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

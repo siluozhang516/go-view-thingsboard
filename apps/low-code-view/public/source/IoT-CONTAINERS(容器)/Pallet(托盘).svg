@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150.04 43.16">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #b7896a;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_36);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_36-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_36-3);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_36-4);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_36-5);
+            }
+
+            .cls-7 {
+                fill: #edc4a6;
+            }
+
+            .cls-8 {
+                fill: #bc936f;
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_36-6);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_36-7);
+            }
+
+            .cls-11 {
+                fill: #936748;
+            }
+
+            .cls-12 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_36" x1="66.22" y1="42.73" x2="66.22" y2="35.9" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ad845b" />
+            <stop offset="0.03" stop-color="#b68d66" />
+            <stop offset="0.1" stop-color="#cfa685" />
+            <stop offset="0.1" stop-color="#d3aa89" />
+            <stop offset="0.17" stop-color="#d2a988" />
+            <stop offset="0.88" stop-color="#c6a383" />
+            <stop offset="0.92" stop-color="#c09c7a" />
+            <stop offset="0.98" stop-color="#b18861" />
+            <stop offset="0.99" stop-color="#ad845b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_36-2" x1="66.22" y1="14.07" x2="66.22" y2="7.25" xlink:href="#未命名的渐变_36" />
+        <linearGradient id="未命名的渐变_36-3" x1="0.04" y1="24.99" x2="6.04" y2="24.99" xlink:href="#未命名的渐变_36" />
+        <linearGradient id="未命名的渐变_36-4" x1="124.68" y1="24.99" x2="132.39" y2="24.99" xlink:href="#未命名的渐变_36" />
+        <linearGradient id="未命名的渐变_36-5" x1="61.51" y1="24.99" x2="69.21" y2="24.99" xlink:href="#未命名的渐变_36" />
+        <linearGradient id="未命名的渐变_36-6" x1="139.5" y1="3.15" x2="142.94" y2="9.1" xlink:href="#未命名的渐变_36" />
+        <linearGradient id="未命名的渐变_36-7" x1="139.5" y1="33.62" x2="142.94" y2="39.58" xlink:href="#未命名的渐变_36" />
+    </defs>
+    <title>Pallet(托盘)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_17" data-name="图层 17">
+            <g id="Pallet_托盘_" data-name="Pallet(托盘)">
+                <polygon class="cls-1" points="132.36 35.88 0 35.88 17.65 28.63 150 28.63 132.36 35.88" />
+                <rect class="cls-2" x="0.04" y="35.9" width="132.36" height="6.82" />
+                <rect class="cls-3" x="0.04" y="7.25" width="132.36" height="6.82" />
+                <rect class="cls-4" x="0.04" y="7.25" width="6" height="35.48" />
+                <rect class="cls-5" x="124.68" y="7.25" width="7.72" height="35.48" />
+                <rect class="cls-6" x="61.51" y="7.25" width="7.7" height="35.48" />
+                <polygon class="cls-7" points="132.4 7.25 0.04 7.25 17.68 0 150.04 0 132.4 7.25" />
+                <polygon class="cls-8" points="150.04 35.48 132.4 42.73 132.4 7.25 150.04 0 150.04 35.48" />
+                <polygon class="cls-9" points="150.04 5 132.4 12.25 132.4 7.25 150.04 0 150.04 5" />
+                <polygon class="cls-10" points="150.04 35.48 132.4 42.73 132.4 37.73 150.04 30.48 150.04 35.48" />
+                <polygon class="cls-11" points="17.65 28.6 17.65 14.07 6 14.07 6 35.88 17.65 28.6" />
+                <polygon class="cls-11" points="80.86 28.6 80.86 14.07 69.22 14.07 69.22 35.88 80.86 28.6" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150.01 53.23">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #a0a0a0;
+            }
+
+            .cls-2 {
+                fill: #666767;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+
+            .cls-4 {
+                fill: #040000;
+            }
+        </style>
+    </defs>
+    <title>Standard 40-foot container（标准40英尺集装箱）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_35" data-name="图层 35">
+            <g id="Standard_40-foot_container_标准40英尺集装箱_" data-name="Standard 40-foot container（标准40英尺集装箱）">
+                <rect class="cls-1" x="2.44" y="2.13" width="145.14" height="50.21" />
+                <path class="cls-2" d="M142.27,50H7.74V4.43H142.27ZM8.85,49.3H141.17V5.18H8.85Z" />
+                <rect class="cls-2" x="15.42" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="26.58" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="37.74" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="48.91" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="60.07" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="71.23" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="82.39" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="93.56" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="104.72" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="115.88" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="127.04" y="5.03" width="5.16" height="44.34" />
+                <rect class="cls-2" x="49.73" y="50.04" width="9.43" height="2.3" />
+                <rect class="cls-2" x="98.72" y="48.85" width="9.43" height="3.43" />
+                <rect class="cls-1" x="142.28" y="47.91" width="7.73" height="5.31"
+                    transform="translate(292.29 101.14) rotate(180)" />
+                <rect class="cls-2" x="142.29" y="47.29" width="5.3" height="0.62"
+                    transform="translate(289.88 95.21) rotate(180)" />
+                <rect class="cls-2" x="141.68" y="48.91" width="0.6" height="3.43"
+                    transform="translate(283.96 101.25) rotate(180)" />
+                <circle class="cls-2" cx="146.15" cy="50.57" r="1.42" />
+                <rect class="cls-1" x="0.01" y="47.91" width="7.73" height="5.31" />
+                <rect class="cls-2" x="2.43" y="47.29" width="5.3" height="0.62" />
+                <rect class="cls-2" x="7.74" y="48.91" width="0.6" height="3.43" />
+                <circle class="cls-2" cx="3.88" cy="50.57" r="1.42" />
+                <rect class="cls-1" x="142.28" y="0.05" width="7.73" height="5.31"
+                    transform="translate(292.29 5.41) rotate(180)" />
+                <rect class="cls-2" x="142.29" y="5.36" width="5.3" height="0.62"
+                    transform="translate(289.88 11.35) rotate(180)" />
+                <rect class="cls-2" x="141.68" y="0.94" width="0.6" height="3.43"
+                    transform="translate(283.96 5.3) rotate(180)" />
+                <circle class="cls-2" cx="146.15" cy="2.71" r="1.42" />
+                <rect class="cls-1" width="7.73" height="5.31" />
+                <rect class="cls-2" x="2.42" y="5.31" width="5.3" height="0.62" />
+                <rect class="cls-2" x="7.73" y="1" width="0.6" height="3.43" />
+                <circle class="cls-2" cx="3.86" cy="2.66" r="1.42" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

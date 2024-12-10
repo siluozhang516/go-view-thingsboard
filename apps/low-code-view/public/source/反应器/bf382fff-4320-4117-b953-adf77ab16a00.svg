@@ -1,0 +1,66 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"   xmlns:xlink="http://www.w3.org/1999/xlink" x="-1px" y="-1px"   viewBox="-1 -1 57 152" xml:space="preserve" xmlns:agg="http://www.example.com">
+
+<agg:params>
+    <agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+    <agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.5px;
+		opacity:0.5;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<defs>
+	<linearGradient id="base" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0051" style="stop-color:#767677"/>
+		<stop  offset="0.0583" style="stop-color:#959595"/>
+		<stop  offset="0.132" style="stop-color:#BBBBBB"/>
+		<stop  offset="0.2058" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.2788" style="stop-color:#EBEBEB"/>
+		<stop  offset="0.3507" style="stop-color:#F7F8F8"/>
+		<stop  offset="0.42" style="stop-color:#FDFEFF"/>
+		<stop  offset="0.4749" style="stop-color:#F7F8F8"/>
+		<stop  offset="0.5318" style="stop-color:#EBEBEB"/>
+		<stop  offset="0.5897" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.6481" style="stop-color:#BBBBBB"/>
+		<stop  offset="0.7066" style="stop-color:#959595"/>
+		<stop  offset="0.72" style="stop-color:#8B8B8B"/>
+		<stop  offset="1" style="stop-color:#FDFEFF"/>
+	</linearGradient>
+	<linearGradient id="SVGID_1_" xlink:href="#base" gradientUnits="userSpaceOnUse" x1="13.75" y1="139.7749" x2="41.25" y2="139.7749"/>
+	<linearGradient id="SVGID_2_" xlink:href="#base" gradientUnits="userSpaceOnUse" x1="-17.6665" y1="27.27" x2="75.3335" y2="27.27"/>
+	<linearGradient id="SVGID_3_" xlink:href="#base" gradientUnits="userSpaceOnUse" x1="0" y1="75" x2="55" y2="75"/>
+</defs>
+
+<rect x="13.75" y="129.55" fill="url(#SVGID_1_)"  />
+<polygon fill="url(#SVGID_2_)" points="55,115.91 41.25,129.55 13.75,129.55 0,115.91 "/>
+<rect y="34.09" fill="url(#SVGID_3_)"  />
+<polygon fill="url(#SVGID_2_)" points="55,34.09 0,34.09 13.75,20.45 41.25,20.45 "/>
+<rect x="13.75" fill="url(#SVGID_1_)"  />
+
+<polygon class="color" points="41.25,20.45 41.25,0 13.75,0 13.75,20.45 0,34.09 0,115.91 13.75,129.55 13.75,150 41.25,150 41.25,129.55 55,115.91 55,34.09 "/>
+
+<g class="stroke">
+	<line x1="13.75" y1="129.55" x2="41.25" y2="129.55"/>
+	<line x1="0" y1="115.91" x2="55" y2="115.91"/>
+	<line x1="0" y1="34.09" x2="55" y2="34.09"/>
+	<line x1="13.75" y1="20.45" x2="41.25" y2="20.45"/>
+	<polygon points="41.25,129.55 41.25,150 13.75,150 13.75,129.55 0,115.91 0,34.09 13.75,20.45 13.75,0 41.25,0 41.25,20.45 55,34.09 55,115.91 	"/>
+</g>
+</svg>

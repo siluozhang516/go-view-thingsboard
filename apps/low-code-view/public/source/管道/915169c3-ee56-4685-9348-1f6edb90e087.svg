@@ -1,0 +1,21 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.0664in" height="1.0750in" viewBox="0 0 991 999">
+
+<path style="fill:#7f7f7f" d="M354,62 l607,605 -304,303 -605,-605 302,-303z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M961,667 l-607,-605" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M657,970 l-605,-605" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M407,52 l-25,-24 -354,354 24,25 355,-355z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M458,103 l-27,-24 -352,352 24,27 355,-355z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M508,154 l-26,-24 -352,352 24,26 354,-354z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M557,205 l-24,-26 -354,354 26,24 352,-352z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M608,256 l-24,-27 -355,355 27,24 352,-352z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M659,305 l-24,-25 -355,355 25,24 354,-354z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M710,356 l-26,-25 -353,353 25,26 354,-354z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M761,407 l-26,-25 -353,353 25,26 354,-354z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M810,458 l-24,-27 -355,355 27,24 352,-352z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M861,508 l-25,-26 -354,354 26,25 353,-353z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M912,557 l-25,-24 -354,354 24,25 355,-355z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M963,608 l-27,-24 -352,352 24,27 355,-355z" />
+
+</svg>

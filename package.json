@@ -1,0 +1,21 @@
+{
+  "name": "low-code-view-tingsboard",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "dev:ui": "pnpm -F low-code-view run dev",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "turbo": "^2.1.2",
+    "typescript": "^5.4.5"
+  },
+  "packageManager": "pnpm@8.15.6",
+  "engines": {
+    "node": ">=18"
+  }
+}

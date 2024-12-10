@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 136.52">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: none;
+            }
+
+            .cls-2 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-3 {
+                clip-path: url(#clip-path-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_105-3);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_105-4);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_105-5);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_105-6);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_105-7);
+            }
+
+            .cls-11 {
+                fill: url(#未命名的渐变_105-8);
+            }
+
+            .cls-12 {
+                fill: url(#未命名的渐变_105-9);
+            }
+
+            .cls-13 {
+                fill: url(#未命名的渐变_105-10);
+            }
+
+            .cls-14 {
+                fill: url(#未命名的渐变_105-11);
+            }
+
+            .cls-15 {
+                fill: url(#未命名的渐变_105-12);
+            }
+
+            .cls-16 {
+                fill: url(#未命名的渐变_105-13);
+            }
+
+            .cls-17 {
+                fill: url(#未命名的渐变_105-14);
+            }
+
+            .cls-18 {
+                fill: url(#未命名的渐变_105-15);
+            }
+
+            .cls-19 {
+                fill: url(#未命名的渐变_105-16);
+            }
+
+            .cls-20 {
+                fill: url(#未命名的渐变_105-17);
+            }
+
+            .cls-21 {
+                fill: url(#未命名的渐变_105-18);
+            }
+
+            .cls-22 {
+                fill: url(#未命名的渐变_105-19);
+            }
+
+            .cls-23 {
+                fill: url(#未命名的渐变_105-20);
+            }
+
+            .cls-24 {
+                fill: url(#未命名的渐变_105-21);
+            }
+
+            .cls-25 {
+                fill: url(#未命名的渐变_105-22);
+            }
+
+            .cls-26 {
+                fill: url(#未命名的渐变_105-23);
+            }
+
+            .cls-27 {
+                opacity: 0.2;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <path class="cls-1" d="M8.31,18.68H8a7.5,7.5,0,0,1,0-15h.33Z" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path class="cls-1" d="M141.76,3.68h.32a7.5,7.5,0,0,1,0,15h-.32Z" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_105" x1="12.53" y1="22.1" x2="12.53" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="134.7" y1="22.1" x2="134.7" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-3" x1="75.03" y1="136.52" x2="75.03" y2="114.42" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-4" x1="34.14" y1="70.59" x2="36.15" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-5" x1="37.6" y1="70.59" x2="39.61" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-6" x1="41.47" y1="70.59" x2="43.48" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-7" x1="45.35" y1="70.59" x2="47.36" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-8" x1="49.22" y1="70.59" x2="51.23" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-9" x1="53.09" y1="70.59" x2="55.1" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-10" x1="33.36" y1="46.21" x2="55.74" y2="46.21" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-11" x1="31.45" y1="50.7" x2="57.61" y2="50.7" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-12" x1="33.36" y1="64.13" x2="55.74" y2="64.13"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 159.1)" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-13" x1="31.45" y1="68.62" x2="57.61" y2="68.62"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 159.1)" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-14" x1="97.76" y1="70.59" x2="99.77" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-15" x1="101.22" y1="70.59" x2="103.23" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-16" x1="105.1" y1="70.59" x2="107.11" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-17" x1="108.97" y1="70.59" x2="110.98" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-18" x1="112.84" y1="70.59" x2="114.85" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-19" x1="116.72" y1="70.59" x2="118.73" y2="70.59" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-20" x1="96.98" y1="46.21" x2="119.36" y2="46.21" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-21" x1="95.08" y1="50.7" x2="121.24" y2="50.7" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-22" x1="96.98" y1="64.13" x2="119.36" y2="64.13"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 159.1)" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-23" x1="95.08" y1="68.62" x2="121.24" y2="68.62"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 159.1)" xlink:href="#未命名的渐变_105" />
+    </defs>
+    <title>IoT-process heating(制程加热)</title>
+    <g id="图层_17" data-name="图层 17">
+        <g class="cls-2">
+            <image width="32" height="16" transform="translate(-23 3.3)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAACXBIWXMAAAsSAAALEgHS3X78AAABPElEQVRIS8VVwY6FIAwcSjUkevD/v8mf8GjyEr1oJCLsYQMLiOu+ZHfthTKd0hGwiL7vHQA45+CcQ8kXQgS/qirE5nnv+lVVYd938DiOyM0XLGHW2lOsxLuLWWtBROC6rkMgHq98rXWRX+LGmBfuca01lFLgpmkCiYiS0RgTYj6xbVts25bgJcFCCBzHcSmUmT8FdF2XJOVb7JNiXyl1KhTzSrk5rpSClBIspUwWY+bi1xFROLdlWZJYvIYv8J3vnMO6rmiaBmKe568r+oBxXdd3nD81BtL/9L/MHwVba58VYIy57FqlOQAQ0QkDrneyhEspcRwHWGt9WzSf/6qAaZqePYLX6xUen7xxXAnzyVeNBri/2L6v8DAMycvnRyIq3g0pZbLQO9seY+EIfL/Oi8d4LjD3S/OfcIwx+ACTE/FAgm/nXgAAAABJRU5ErkJggg==" />
+        </g>
+        <image width="136" height="130" transform="translate(7 3.3)"
+            xlink:href="data:image/png;base64,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" />
+        <g class="cls-3">
+            <image width="32" height="16" transform="translate(141 3.3)"
+                xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAACXBIWXMAAAsSAAALEgHS3X78AAABCklEQVRIS8VVSwqEMAxN0iiILrz/mbyES0HQlVCodRZDOmltR5yF86AkfUmaNPSDwzAckOA4jp/0qqrCXLhUR8QohqdpgitI0JXNe//VnuO4ruuIzMkSJwmFt9YGW2noGEQEbtsWBLmAlN/3/VSMyK7rQhFEFEnnXHZd7vv+MolGjtN80zSn3aY+WmdjTEQiIgiX60JJlwO2bVvgmDnamAwiAu/9uzvrup5uwZMIh/BfYFH0vX4SLAflbwU45wCgXMBdnoiKPrkYttYWjb/wtwtYlqVofAI8zzMAfD6N0kMjPlfQb4JGKZbHcTyRd9quOWNM9POJJKLIT+ssz25qyM3v+khyySFd1j4vB+/QB5Vs3xQAAAAASUVORK5CYII=" />
+        </g>
+        <rect class="cls-4" x="11.26" width="2.54" height="22.1" />
+        <rect class="cls-5" x="133.43" width="2.54" height="22.1" />
+        <rect class="cls-6" x="73.76" y="114.42" width="2.54" height="22.1" />
+        <rect class="cls-7" x="34.14" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-8" x="37.6" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-9" x="41.47" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-10" x="45.35" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-11" x="49.22" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-12" x="53.09" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-13" x="33.36" y="45.02" width="22.38" height="2.38" />
+        <rect class="cls-14" x="31.45" y="49.21" width="26.16" height="2.98" />
+        <rect class="cls-15" x="33.36" y="93.78" width="22.38" height="2.38" />
+        <rect class="cls-16" x="31.45" y="88.99" width="26.16" height="2.98" />
+        <rect class="cls-17" x="97.76" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-18" x="101.22" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-19" x="105.1" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-20" x="108.97" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-21" x="112.84" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-22" x="116.72" y="52.19" width="2.01" height="36.8" />
+        <rect class="cls-23" x="96.98" y="45.02" width="22.38" height="2.38" />
+        <rect class="cls-24" x="95.08" y="49.21" width="26.16" height="2.98" />
+        <rect class="cls-25" x="96.98" y="93.78" width="22.38" height="2.38" />
+        <rect class="cls-26" x="95.08" y="88.99" width="26.16" height="2.98" />
+        
+    </g>
+</svg>

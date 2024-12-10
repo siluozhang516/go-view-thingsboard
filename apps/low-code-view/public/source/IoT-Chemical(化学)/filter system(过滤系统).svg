@@ -1,0 +1,401 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 139.37">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: none;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_59);
+            }
+
+            .cls-19,
+            .cls-26,
+            .cls-3 {
+                stroke: #505458;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-3 {
+                stroke-width: 0.08px;
+                fill: url(#未命名的渐变_303);
+            }
+
+            .cls-4 {
+                fill: #505458;
+            }
+
+            .cls-5 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-6 {
+                clip-path: url(#clip-path-2);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_263);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_114);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_263-2);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_260);
+            }
+
+            .cls-11 {
+                opacity: 0.8;
+                fill: url(#未命名的渐变_251);
+            }
+
+            .cls-12 {
+                fill: url(#未命名的渐变_114-2);
+            }
+
+            .cls-13 {
+                fill: #fff;
+            }
+
+            .cls-13,
+            .cls-14,
+            .cls-34,
+            .cls-36 {
+                opacity: 0.3;
+            }
+
+            .cls-15 {
+                fill: url(#未命名的渐变_114-3);
+            }
+
+            .cls-16 {
+                fill: url(#未命名的渐变_241);
+            }
+
+            .cls-17 {
+                fill: url(#未命名的渐变_323);
+            }
+
+            .cls-18 {
+                fill: url(#未命名的渐变_59-2);
+            }
+
+            .cls-19,
+            .cls-26 {
+                stroke-width: 0.11px;
+            }
+
+            .cls-19 {
+                fill: url(#未命名的渐变_303-2);
+            }
+
+            .cls-20 {
+                fill: url(#未命名的渐变_274);
+            }
+
+            .cls-21 {
+                fill: url(#未命名的渐变_274-2);
+            }
+
+            .cls-22 {
+                fill: url(#未命名的渐变_274-3);
+            }
+
+            .cls-23 {
+                fill: url(#未命名的渐变_322);
+            }
+
+            .cls-24 {
+                fill: url(#未命名的渐变_222);
+            }
+
+            .cls-25 {
+                fill: url(#未命名的渐变_274-4);
+            }
+
+            .cls-26 {
+                fill: url(#未命名的渐变_303-3);
+            }
+
+            .cls-27 {
+                fill: url(#未命名的渐变_274-5);
+            }
+
+            .cls-28 {
+                fill: url(#未命名的渐变_322-2);
+            }
+
+            .cls-29 {
+                fill: url(#未命名的渐变_274-6);
+            }
+
+            .cls-30 {
+                fill: url(#未命名的渐变_274-7);
+            }
+
+            .cls-31 {
+                fill: url(#未命名的渐变_274-8);
+            }
+
+            .cls-32,
+            .cls-37,
+            .cls-38 {
+                opacity: 0.5;
+            }
+
+            .cls-33 {
+                fill: url(#未命名的渐变_114-4);
+            }
+
+            .cls-34 {
+                fill: url(#未命名的渐变_327);
+            }
+
+            .cls-35 {
+                fill: url(#未命名的渐变_114-5);
+            }
+
+            .cls-36 {
+                fill: url(#未命名的渐变_263-3);
+            }
+
+            .cls-37 {
+                fill: url(#未命名的渐变_263-4);
+            }
+
+            .cls-38 {
+                fill: url(#未命名的渐变_263-5);
+            }
+
+            .cls-39 {
+                fill: url(#未命名的渐变_274-9);
+            }
+
+            .cls-40 {
+                fill: url(#未命名的渐变_274-10);
+            }
+
+            .cls-41 {
+                fill: url(#未命名的渐变_274-11);
+            }
+
+            .cls-42 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_59" x1="-290.03" y1="-1773.04" x2="-294.57" y2="-1773.04"
+            gradientTransform="translate(1893.31 -246.06) rotate(-90)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#d7dce0" />
+            <stop offset="1" stop-color="#8a9099" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_303" x1="94.88" y1="60.7" x2="94.88" y2="62.27"
+            gradientTransform="translate(9.71 69.86) rotate(-45)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#9ba1ab" />
+            <stop offset="0" stop-color="#abb1ba" />
+            <stop offset="0.09" stop-color="#abb1ba" />
+            <stop offset="0.46" stop-color="#f5faff" />
+            <stop offset="1" stop-color="#a9b1bb" />
+        </linearGradient>
+        <clipPath id="clip-path">
+            <path class="cls-1"
+                d="M39.3,71.77H30.06c0-22.38,6.22-36.34,11.44-44.12C48,18,56.83,12.18,65.1,12.18V22C56.1,22,39.3,36.57,39.3,71.77Z" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect class="cls-1" x="25.06" y="7.18" width="45.04" height="69.6" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_263" x1="224" y1="-1860.04" x2="144.51" y2="-1860.04"
+            gradientTransform="matrix(1, 0, 0, -1, -74, -1771.58)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5d6166" />
+            <stop offset="0.07" stop-color="#747880" />
+            <stop offset="0.25" stop-color="#eef7ff" />
+            <stop offset="0.29" stop-color="#e4edf5" />
+            <stop offset="0.49" stop-color="#b4bcc3" />
+            <stop offset="0.67" stop-color="#91989e" />
+            <stop offset="0.81" stop-color="#7c8288" />
+            <stop offset="0.91" stop-color="#747a80" />
+            <stop offset="1" stop-color="#b8c1cc" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_114" x1="202.78" y1="-1799.47" x2="165.73" y2="-1799.47"
+            gradientTransform="matrix(1, 0, 0, -1, -74, -1771.58)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5c6067" />
+            <stop offset="0.07" stop-color="#6d7177" />
+            <stop offset="0.38" stop-color="#b0b7bc" />
+            <stop offset="0.44" stop-color="#9da3a8" />
+            <stop offset="0.59" stop-color="#6d7176" />
+            <stop offset="0.73" stop-color="#4a4d51" />
+            <stop offset="0.84" stop-color="#35373b" />
+            <stop offset="0.91" stop-color="#2d2f33" />
+            <stop offset="1" stop-color="#7a8088" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_263-2" x1="138.57" y1="37.29" x2="78.06" y2="72.23"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_263" />
+        <linearGradient id="未命名的渐变_260" x1="131.07" y1="-736.45" x2="89.44" y2="-694.82"
+            gradientTransform="matrix(1, 0, 0, -1, 0, -595.97)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5d6166" />
+            <stop offset="0.07" stop-color="#747880" />
+            <stop offset="0.29" stop-color="#eef7ff" />
+            <stop offset="0.32" stop-color="#e4edf5" />
+            <stop offset="0.52" stop-color="#b4bcc3" />
+            <stop offset="0.68" stop-color="#91989e" />
+            <stop offset="0.82" stop-color="#7c8288" />
+            <stop offset="0.91" stop-color="#747a80" />
+            <stop offset="1" stop-color="#b8c1cc" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_251" x1="110.26" y1="-735.33" x2="110.26" y2="-713.75"
+            gradientTransform="matrix(1, 0, 0, -1, 0, -595.97)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2e3033" />
+            <stop offset="0.28" stop-color="#414448" stop-opacity="0.82" />
+            <stop offset="0.73" stop-color="#757981" stop-opacity="0.35" />
+            <stop offset="1" stop-color="#9ba1ab" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_114-2" x1="-277.92" y1="-1783.06" x2="-283.92" y2="-1783.06"
+            gradientTransform="translate(1893.31 -246.06) rotate(-90)" xlink:href="#未命名的渐变_114" />
+        <linearGradient id="未命名的渐变_114-3" x1="127.16" y1="89.53" x2="159.21" y2="89.53"
+            gradientTransform="translate(-32.93 -72.74)" xlink:href="#未命名的渐变_114" />
+        <linearGradient id="未命名的渐变_241" x1="110.26" y1="23.37" x2="110.26" y2="10.78" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#494a4d" />
+            <stop offset="1" stop-color="#17181a" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_323" x1="110.26" y1="23.37" x2="110.26" y2="10.78" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5c6066" />
+            <stop offset="1" stop-color="#f5faff" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_59-2" x1="-277.91" y1="-1809.4" x2="-283.92" y2="-1809.4" xlink:href="#未命名的渐变_59" />
+        <linearGradient id="未命名的渐变_303-2" x1="77.22" y1="26.68" x2="77.22" y2="28.75" xlink:href="#未命名的渐变_303" />
+        <linearGradient id="未命名的渐变_274" x1="-256.83" y1="-1862.31" x2="-269.43" y2="-1862.31"
+            gradientTransform="matrix(0, -1, -1, 0, -1734.54, -246.06)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5c6067" />
+            <stop offset="0.07" stop-color="#6d7177" />
+            <stop offset="0.38" stop-color="#eff8ff" />
+            <stop offset="0.42" stop-color="#dae2e9" />
+            <stop offset="0.55" stop-color="#9da3a9" />
+            <stop offset="0.67" stop-color="#6d7176" />
+            <stop offset="0.77" stop-color="#4a4d51" />
+            <stop offset="0.85" stop-color="#35373b" />
+            <stop offset="0.91" stop-color="#2d2f33" />
+            <stop offset="1" stop-color="#7a8088" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_274-2" x1="-259.43" y1="-1873.37" x2="-266.82" y2="-1873.37"
+            xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_274-3" x1="-260.2" y1="-1878.82" x2="-266.06" y2="-1878.82"
+            xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_322" x1="334.25" y1="186.4" x2="334.25" y2="175.41"
+            gradientTransform="translate(-199.43 -163.83)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#676b70" />
+            <stop offset="0.05" stop-color="#303233" />
+            <stop offset="0.26" stop-color="#5d6166" />
+            <stop offset="0.3" stop-color="#d1d5db" />
+            <stop offset="0.44" stop-color="#cad1db" />
+            <stop offset="0.7" stop-color="#c7cfdb" />
+            <stop offset="0.73" stop-color="#edf5ff" />
+            <stop offset="0.77" stop-color="#c3c7cc" />
+            <stop offset="1" stop-color="#929599" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_222" x1="-78.93" y1="7.16" x2="-78.93"
+            gradientTransform="matrix(-1, 0, 0, 1, 44.17, 0)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#616366" />
+            <stop offset="1" stop-color="#2d2f33" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_274-4" x1="115.86" y1="6.34" x2="104.65" y2="6.34"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_303-3" x1="115.28" y1="25.87" x2="115.28" y2="27.95" xlink:href="#未命名的渐变_303" />
+        <linearGradient id="未命名的渐变_274-5" x1="-256.83" y1="-1800.65" x2="-269.43" y2="-1800.65"
+            gradientTransform="translate(1893.31 -246.06) rotate(-90)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_322-2" x1="285.12" y1="186.4" x2="285.12" y2="175.41" xlink:href="#未命名的渐变_322" />
+        <linearGradient id="未命名的渐变_274-6" x1="80.84" y1="11.04" x2="80.84" y2="23.11"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_274-7" x1="70.97" y1="11.79" x2="70.97" y2="22.35"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_274-8" x1="78.51" y1="7.88" x2="78.51" y2="26.27"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_114-4" x1="125.66" y1="-1879.14" x2="91.7" y2="-1879.14" xlink:href="#未命名的渐变_114" />
+        <linearGradient id="未命名的渐变_327" x1="108.68" y1="-1857.89" x2="108.68" y2="-1847.34"
+            gradientTransform="matrix(1, 0, 0, -1, -74, -1771.58)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#9ba1ab" stop-opacity="0" />
+            <stop offset="1" stop-color="#2e3033" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_114-5" x1="121.33" y1="-1839.85" x2="95.87" y2="-1854.56" xlink:href="#未命名的渐变_114" />
+        <linearGradient id="未命名的渐变_263-3" x1="127.1" y1="-1850.66" x2="90.27" y2="-1850.66" xlink:href="#未命名的渐变_263" />
+        <linearGradient id="未命名的渐变_263-4" x1="125.66" y1="-1850.66" x2="91.7" y2="-1850.66" xlink:href="#未命名的渐变_263" />
+        <linearGradient id="未命名的渐变_263-5" x1="113.56" y1="-1838.21" x2="104.43" y2="-1854.02"
+            xlink:href="#未命名的渐变_263" />
+        <linearGradient id="未命名的渐变_274-9" x1="13.29" y1="85.2" x2="13.29" y2="103.11"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_274-10" x1="4.22" y1="86.32" x2="4.22" y2="101.99"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+        <linearGradient id="未命名的渐变_274-11" x1="11.44" y1="80.5" x2="11.44" y2="107.81"
+            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#未命名的渐变_274" />
+    </defs>
+    <title>filter system(过滤系统)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_16" data-name="图层 16">
+            <g id="filter_system_过滤系统_" data-name="filter system(过滤系统)">
+                <rect class="cls-2" x="118.43" y="43.97" width="3.68" height="4.55" />
+                <circle class="cls-3" cx="120.27" cy="46.25" r="0.79" />
+                <path class="cls-4"
+                    d="M119.89,46.54l.31-.3-.31-.31.07-.06.3.3.31-.3.05.05-.3.31.33.33-.06.07-.34-.34-.3.31Z" />
+                <g class="cls-5">
+                    <g class="cls-6">
+                        <image width="95" height="146" transform="translate(24.6 7.12) scale(0.48)"
+                            xlink:href="data:image/png;base64,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" />
+                    </g>
+                </g>
+                <path class="cls-7"
+                    d="M150,117.79V106.5s-.48-.2-.48-.54V104.9c0-.36.48-.54.48-.54V75.07a1.15,1.15,0,0,1-.47-.76v-.76c0-.36.47-.62.47-.62V59.15H70.51V72.83s.61.29.61.7v.92c0,.38-.61.66-.61.66v29.25s.56.22.56.64v.83c0,.48-.56.67-.56.67v11.29Z" />
+                <rect class="cls-8" x="91.73" y="23.92" width="37.05" height="7.94" />
+                <path class="cls-9" d="M150,59.15s-5.53-25.88-39.75-25.88S70.51,59.15,70.51,59.15Z" />
+                <path class="cls-10" d="M150,117.79s-5.53,21.58-39.75,21.58-39.74-21.58-39.74-21.58Z" />
+                <path class="cls-11" d="M150,117.79s-5.53,21.58-39.75,21.58-39.74-21.58-39.74-21.58Z" />
+                <rect class="cls-12" x="86.34" y="31.86" width="47.83" height="6" />
+                <rect class="cls-13" x="70.51" y="106.49" width="79.49" height="1.32" />
+                <rect class="cls-13" x="70.51" y="75.11" width="79.49" height="1.32" />
+                <rect class="cls-14" x="70.51" y="71.51" width="79.49" height="1.32" />
+                <rect class="cls-14" x="70.51" y="103.07" width="79.49" height="1.32" />
+                <rect class="cls-15" x="94.23" y="9.68" width="32.05" height="14.24"
+                    transform="translate(220.51 33.59) rotate(180)" />
+                <circle class="cls-16" cx="110.26" cy="17.07" r="6.3" />
+                <path class="cls-17"
+                    d="M110.26,11.77a5.31,5.31,0,1,1-5.31,5.3,5.31,5.31,0,0,1,5.31-5.3m0-1a6.3,6.3,0,1,0,6.29,6.29,6.3,6.3,0,0,0-6.29-6.29Z" />
+                <rect class="cls-18" x="81.48" y="31.86" width="4.86" height="6" />
+                <circle class="cls-19" cx="83.91" cy="34.86" r="1.04" />
+                <path class="cls-4"
+                    d="M83.41,35.25l.4-.4-.4-.41.09-.08.4.4.4-.4.07.07-.4.4.44.45-.08.08-.45-.44-.4.4Z" />
+                <path class="cls-20" d="M133.55,10.77h-7.36c-2.16,0-4.21,2.82-4.21,6.3h0c0,3.48,2,6.3,4.21,6.3h7.36Z" />
+                <rect class="cls-21" x="136.1" y="13.38" width="5.45" height="7.39" />
+                <rect class="cls-22" x="141.55" y="14.14" width="5.45" height="5.86" />
+                <rect class="cls-23" x="133.55" y="11.58" width="2.55" height="10.99" />
+                <polygon class="cls-24"
+                    points="110.26 6.34 116.47 7.16 123.59 3.48 135.94 1.98 135.94 0 123.59 1.32 116.47 4.88 110.26 4.06 110.26 6.34" />
+                <path class="cls-25" d="M108,4.26l-3.35,5.42h11.21l-3.35-5.42A2.65,2.65,0,0,0,108,4.26Z" />
+                <circle class="cls-26" cx="110.26" cy="7.38" r="1.04" />
+                <path class="cls-4"
+                    d="M109.75,7.77l.41-.41-.4-.4.08-.09.4.41.4-.41.08.08-.4.4.44.44-.09.09-.44-.45-.4.41Z" />
+                <path class="cls-27"
+                    d="M86.87,10.77h7.36c2.16,0,4.22,2.82,4.22,6.3h0c0,3.48-2.06,6.3-4.22,6.3H86.87Z" />
+                <rect class="cls-28" x="84.41" y="11.58" width="2.55" height="10.99" />
+                <rect class="cls-29" x="77.27" y="11.04" width="7.15" height="12.07" />
+                <rect class="cls-30" x="65.1" y="11.79" width="11.74" height="10.56" />
+                <polygon class="cls-31"
+                    points="83.61 26.27 76.11 26.27 73.42 24.14 73.42 10.01 76.11 7.88 83.61 7.88 83.61 26.27" />
+                <polygon class="cls-32" points="76.12 7.88 76.12 26.27 73.42 24.14 73.42 10.01 76.12 7.88" />
+                <rect class="cls-33" x="17.7" y="75.77" width="33.95" height="63.6" />
+                <rect class="cls-34" x="17.7" y="75.77" width="33.95" height="10.55" />
+                <path class="cls-35" d="M51.66,75.77s-3-4.26-17-4.26-17,4.26-17,4.26Z" />
+                <rect class="cls-36" x="16.27" y="76.29" width="36.83" height="5.59" />
+                <rect class="cls-37" x="17.7" y="75.09" width="33.95" height="7.99" />
+                <path class="cls-38" d="M51.66,75.09s-3-6.64-17-6.64-17,6.64-17,6.64Z" />
+                <rect class="cls-39" x="8.88" y="85.2" width="8.83" height="17.92" />
+                <rect class="cls-40" y="86.32" width="8.44" height="15.68" />
+                <polygon class="cls-41"
+                    points="16.54 107.81 9.04 107.81 6.35 104.64 6.35 83.67 9.04 80.5 16.54 80.5 16.54 107.81" />
+                <polygon class="cls-32" points="9.05 80.51 9.05 107.81 6.35 104.64 6.35 83.67 9.05 80.51" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

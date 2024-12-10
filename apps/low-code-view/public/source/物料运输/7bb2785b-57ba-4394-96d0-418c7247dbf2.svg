@@ -1,0 +1,31 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="0.3142in" height="1.0750in" viewBox="0 0 292 999">
+
+<path style="fill:#7387a6" d="M263,853 l0,-354 -235,0 0,354 235,0z" />
+<path style="fill:#263a59;stroke:#000;stroke-width:2" d="M28,852 l235,0 0,118 -235,0 0,-118z" />
+<path style="fill:#6b7f9e" d="M264,852 l0,-147 -236,-78 0,225 236,0z" />
+<path style="fill:#617594" d="M264,852 l0,-108 -236,-78 0,186 236,0z" />
+<path style="fill:#596d8c" d="M264,852 l0,-88 -236,-78 0,166 236,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M263,853 l0,-354 -235,0 0,354 235,0" />
+<path style="fill:none;stroke:#7387a6;stroke-width:2" d="M28,970 l235,0 0,-118" />
+<path style="fill:none;stroke:#bfd3f2;stroke-width:2" d="M263,853 l0,-354 -235,0" />
+<path style="fill:#ccc" d="M38,862 l216,0 0,87 -216,0 0,-87z" />
+<path style="fill:#e5e5e5" d="M111,862 l-73,0 0,25 142,63 74,0 0,-24 -143,-64z" />
+<path style="fill:#fff" d="M67,862 l-29,0 0,5 186,83 30,0 0,-4 -187,-84z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M38,862 l216,0 0,87 -216,0 0,-87" />
+<path style="fill:none;stroke:#fff;stroke-width:2" d="M254,949 l0,-87 -216,0" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M87,440 l-29,0 0,-353 29,0 0,353z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M234,440 l-29,0 0,-353 29,0 0,353z" />
+<path style="fill:#e5e5e5" d="M224,440 l-9,0 0,-353 9,0 0,353z" />
+<path style="fill:#e5e5e5" d="M77,440 l-10,0 0,-353 10,0 0,353z" />
+<path style="fill:#ff0;stroke:#000;stroke-width:2" d="M28,87 l236,0 0,-59 -236,0 0,59z" />
+<path style="fill:#ff0;stroke:#000;stroke-width:2" d="M28,499 l236,0 0,-59 -236,0 0,59z" />
+<path style="fill:#000" d="M264,87 l-60,0 60,-59 0,59z" />
+<path style="fill:#000" d="M205,28 l-59,59 -59,0 59,-59 59,0z" />
+<path style="fill:#000" d="M87,28 l-59,59 0,-59 59,0z" />
+<path style="fill:#000" d="M264,499 l-60,0 60,-59 0,59z" />
+<path style="fill:#000" d="M205,440 l-59,59 -59,0 59,-59 59,0z" />
+<path style="fill:#000" d="M87,440 l-59,59 0,-59 59,0z" />
+
+</svg>

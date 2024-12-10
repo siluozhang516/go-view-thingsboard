@@ -1,0 +1,97 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="0 0 37 63" xmlns:agg="http://www.example.com" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<defs>
+	<linearGradient id="baseGradient" gradientUnits="userSpaceOnUse" x1="1" y1="50" x2="36" y2="50">
+		<stop  offset="0" style="stop-color:#A0A0A0"/>
+		<stop  offset="0.0498" style="stop-color:#B5B4B4"/>
+		<stop  offset="0.1132" style="stop-color:#CAC9C9"/>
+		<stop  offset="0.1802" style="stop-color:#D9D9D9"/>
+		<stop  offset="0.2525" style="stop-color:#E4E4E3"/>
+		<stop  offset="0.3394" style="stop-color:#E7E7E7"/>
+		<stop  offset="0.4572" style="stop-color:#DBDADA"/>
+		<stop  offset="0.6647" style="stop-color:#BEBDBC"/>
+		<stop  offset="0.936" style="stop-color:#959494"/>
+		<stop  offset="1" style="stop-color:#8B8B8B"/>
+	</linearGradient>
+	
+	<linearGradient id="topGradient" xlink:href="#baseGradient" gradientUnits="userSpaceOnUse" x1="11.839" y1="50" x2="25.152" y2="50"/>
+	<linearGradient id="flangeGradient" xlink:href="#baseGradient" gradientUnits="userSpaceOnUse" x1="8.975" y1="50" x2="28.016" y2="50"/>
+	<linearGradient id="bottomGradient" xlink:href="#baseGradient" gradientUnits="userSpaceOnUse" x1="5.734" y1="50" x2="31.276" y2="50"/>
+	
+	<path id="boundary" d="M25.163,6.21h-0.02V3.52h2.869V1.65H8.968v1.87h2.869v2.69C5.688,6.21,1,11.61,1,17.88v27.47
+		c0,1.811,0.27,3.45,1.009,5.121c0.67,1.469,1.88,3.159,3.719,3.159V62h25.542v-8.37c1.83,0,3.05-1.69,3.71-3.159
+		c0.75-1.671,1.009-3.311,1.009-5.121V17.88C35.99,11.61,31.312,6.21,25.163,6.21z M14.489,59.931h-4.255
+		c-1.165,0-1.581-1.005-1.581-2.242c0-1.238,0.416-2.243,1.581-2.243h4.255c1.165,0,2.109,1.005,2.109,2.243
+		C16.598,58.926,15.654,59.931,14.489,59.931z M26.772,60.057h-4.256c-1.165,0-2.107-1.003-2.107-2.242s0.942-2.242,2.107-2.242
+		h4.256c1.165,0,1.581,1.003,1.581,2.242S27.937,60.057,26.772,60.057z"/>
+</defs>
+
+<path fill="url(#baseGradient)" d="M36,17.879
+	v27.466c0,1.813-0.266,3.457-1.013,5.121c-0.66,1.473-1.875,3.162-3.711,3.162H5.734c-1.837,0-3.052-1.689-3.713-3.162
+	c-0.747-1.664-1.011-3.309-1.011-5.121V17.879c0-6.27,4.682-11.674,10.83-11.674h13.332C31.316,6.206,36,11.61,36,17.879z"/>
+ 
+<rect id="top" fill="url(#topGradient)" x="11.839" y="3.522"  />
+		
+<g id="nuts" fill="#606060">
+	<rect x="25.151" y="1"  />
+	<rect x="25.151" y="1"  />
+	<rect x="22.732" y="1"  />
+	<rect x="22.732" y="1"  />
+	<rect x="20.314" y="1"  />
+	<rect x="20.314" y="1"  />
+	<rect x="17.895" y="1"  />
+	<rect x="17.895" y="1"  />
+	<rect x="15.476" y="1"  />
+	<rect x="15.476" y="1"  />
+	<rect x="13.058" y="1"  />
+	<rect x="13.058" y="1"  />
+	<rect x="10.639" y="1"  />
+	<rect x="10.639" y="1"  />
+</g>
+
+<use xlink:href="#nuts" transform="translate(0 2.522)"/>
+
+<rect id="flange" fill="url(#flangeGradient)" x="8.975" y="1.646"  />
+
+<path id="bottom" fill="url(#bottomGradient)" d="M5.734,53.629V62
+	h25.542v-8.371H5.734z M14.489,59.931h-4.255c-1.165,0-1.581-1.005-1.581-2.242c0-1.238,0.416-2.243,1.581-2.243h4.255
+	c1.165,0,2.109,1.005,2.109,2.243C16.598,58.926,15.654,59.931,14.489,59.931z M26.772,60.057h-4.256
+	c-1.165,0-2.107-1.003-2.107-2.242s0.942-2.242,2.107-2.242h4.256c1.165,0,1.581,1.003,1.581,2.242S27.937,60.057,26.772,60.057z"
+	/>
+	
+<g class="stroke">
+	<use xlink:href="#boundary"/>
+	<line x1="11.839" y1="3.522" x2="25.152" y2="3.522"/>
+	<line x1="11.839" y1="6.206" x2="25.171" y2="6.206"/>
+	<line x1="5.734" y1="53.629" x2="31.276" y2="53.629"/>
+</g>
+
+<use xlink:href="#boundary" class="color"/>
+
+</svg>

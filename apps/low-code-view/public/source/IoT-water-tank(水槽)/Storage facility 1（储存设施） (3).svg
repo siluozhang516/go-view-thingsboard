@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 87.76">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_105-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-5 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_105" x1="2.24" y1="45.82" x2="147.89" y2="45.82" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" x1="68.8" y1="4.64" x2="81.82" y2="4.64" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-3" x1="0" y1="-1548.48" x2="150" y2="-1548.48"
+            gradientTransform="matrix(1, 0, 0, -0.72, 0, -1029.84)" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_67" x1="2.24" y1="-1542.7" x2="147.89" y2="-1542.7"
+            gradientTransform="matrix(1, 0, 0, -0.72, 0, -1029.84)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+    </defs>
+    <title>Storage facility 1（储存设施） (3)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_104" data-name="图层 104">
+            <g id="Storage_facility_1_储存设施_" data-name="Storage facility 1（储存设施）">
+                <path class="cls-1" d="M147.87,82.36c0-.09,0-.17,0-.25a72.83,72.83,0,0,0-145.65,0c0,.08,0,.16,0,.25Z" />
+                <polygon class="cls-2" points="78.77 9.29 71.49 9.29 68.8 0 81.82 0 78.77 9.29" />
+                <rect class="cls-3" y="82.36" width="150" height="5.41" rx="0.41" />
+                <rect class="cls-4" x="2.24" y="79.44" width="145.65" height="2.91" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

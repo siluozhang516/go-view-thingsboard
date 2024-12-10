@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 178.56 150.24">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_67);
+            }
+
+            .cls-2 {
+                fill: #909191;
+            }
+
+            .cls-3 {
+                fill: none;
+                stroke: #bababa;
+                stroke-miterlimit: 10;
+                stroke-width: 0.25px;
+            }
+
+            .cls-4 {
+                fill: #bababa;
+            }
+
+            .cls-5 {
+                fill: #dbdbdb;
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_67-2);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_67-3);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_67-4);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_67-5);
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_67" x1="34.17" y1="75.12" x2="46.94" y2="75.12" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.56" stop-color="#ccc" />
+            <stop offset="0.71" stop-color="#eaeaea" />
+            <stop offset="0.8" stop-color="#f6f6f6" />
+            <stop offset="0.83" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#d4d4d4" />
+            <stop offset="0.92" stop-color="#ababab" />
+            <stop offset="0.98" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_67-2" x1="7.71" y1="26.68" x2="13.79" y2="26.68" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-3" x1="66.32" y1="18.52" x2="72.4" y2="18.52" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-4" x1="8.38" y1="47.01" x2="14.46" y2="47.01" xlink:href="#未命名的渐变_67" />
+        <linearGradient id="未命名的渐变_67-5" x1="67" y1="38.85" x2="73.08" y2="38.85" xlink:href="#未命名的渐变_67" />
+    </defs>
+    <title>Utility pole with two sets of cables（带两组电缆的电线杆）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_59" data-name="图层 59">
+            <g id="Utility_pole_with_two_sets_of_cables_带两组电缆的电线杆_"
+                data-name="Utility pole with two sets of cables（带两组电缆的电线杆）">
+                <rect class="cls-1" x="34.17" width="12.76" height="150.24" rx="0.94" />
+                <polygon class="cls-2" points="6.87 34.11 0 31.01 0 27.08 6.87 30.18 6.87 34.11" />
+                <polygon class="cls-2" points="7.54 54.44 0.67 51.34 0.67 47.42 7.54 50.52 7.54 54.44" />
+                <path class="cls-3" d="M70.57,20.45s29.67,18.21,108,24" />
+                <polygon class="cls-4" points="79.76 20.45 6.87 30.18 0 27.08 72.9 17.35 79.76 20.45" />
+                <polygon class="cls-5" points="79.76 24.38 6.87 34.11 6.87 30.18 79.76 20.45 79.76 24.38" />
+                <path class="cls-6" d="M7.71,23.63v5h0c.13.6,1.4,1.07,3,1.07s2.87-.47,3-1.07h0v-5Z" />
+                <ellipse class="cls-4" cx="10.75" cy="23.63" rx="3.04" ry="1.29" />
+                <path class="cls-7" d="M66.32,15.47v5h.05c.13.6,1.4,1.07,3,1.07s2.87-.47,3-1.07h0v-5Z" />
+                <ellipse class="cls-4" cx="69.36" cy="15.47" rx="3.04" ry="1.29" />
+                <polygon class="cls-4" points="80.46 40.79 7.56 50.52 0.69 47.42 73.59 37.69 80.46 40.79" />
+                <polygon class="cls-5" points="80.44 44.71 7.54 54.44 7.54 50.52 80.44 40.79 80.44 44.71" />
+                <path class="cls-8" d="M8.38,44v5h0c.12.59,1.4,1.06,3,1.06s2.87-.47,3-1.06h0V44Z" />
+                <ellipse class="cls-4" cx="11.42" cy="43.96" rx="3.04" ry="1.29" />
+                <path class="cls-9" d="M67,35.8v5h0c.13.59,1.4,1.06,3,1.06s2.86-.47,3-1.06h0v-5Z" />
+                <ellipse class="cls-4" cx="70.04" cy="35.8" rx="3.04" ry="1.29" />
+                <path class="cls-3" d="M12.87,29.38s69.95,46.94,156.27,48" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

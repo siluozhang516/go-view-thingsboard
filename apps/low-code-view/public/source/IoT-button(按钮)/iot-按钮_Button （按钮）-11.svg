@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 83.31">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #01a14d;
+                stroke: #057035;
+                stroke-miterlimit: 10;
+                stroke-width: 0.25px;
+            }
+
+            .cls-2 {
+                fill: #4cbc81;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_11" data-name="图层 11">
+        <polygon class="cls-1" points="75 0 0 83.31 150 83.31 75 0" />
+        <polygon class="cls-2" points="75 5.46 7.38 80.58 142.62 80.58 75 5.46" />
+    </g>
+    
+</svg>

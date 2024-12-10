@@ -1,0 +1,1202 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 122.82 150.25">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-100,
+            .cls-101,
+            .cls-103,
+            .cls-104,
+            .cls-105,
+            .cls-11,
+            .cls-12,
+            .cls-13,
+            .cls-14,
+            .cls-140,
+            .cls-141,
+            .cls-142,
+            .cls-143,
+            .cls-145,
+            .cls-146,
+            .cls-147,
+            .cls-15,
+            .cls-16,
+            .cls-17,
+            .cls-18,
+            .cls-19,
+            .cls-2,
+            .cls-20,
+            .cls-21,
+            .cls-22,
+            .cls-23,
+            .cls-24,
+            .cls-25,
+            .cls-26,
+            .cls-29,
+            .cls-3,
+            .cls-30,
+            .cls-31,
+            .cls-32,
+            .cls-33,
+            .cls-34,
+            .cls-35,
+            .cls-36,
+            .cls-37,
+            .cls-38,
+            .cls-39,
+            .cls-4,
+            .cls-40,
+            .cls-41,
+            .cls-45,
+            .cls-5,
+            .cls-6,
+            .cls-7,
+            .cls-8,
+            .cls-98,
+            .cls-99 {
+                stroke: #5ac8f7;
+            }
+
+            .cls-1,
+            .cls-10,
+            .cls-100,
+            .cls-101,
+            .cls-102,
+            .cls-103,
+            .cls-104,
+            .cls-105,
+            .cls-11,
+            .cls-12,
+            .cls-122,
+            .cls-125,
+            .cls-13,
+            .cls-14,
+            .cls-140,
+            .cls-141,
+            .cls-142,
+            .cls-143,
+            .cls-144,
+            .cls-145,
+            .cls-146,
+            .cls-147,
+            .cls-15,
+            .cls-16,
+            .cls-17,
+            .cls-18,
+            .cls-19,
+            .cls-2,
+            .cls-20,
+            .cls-21,
+            .cls-22,
+            .cls-23,
+            .cls-24,
+            .cls-25,
+            .cls-26,
+            .cls-27,
+            .cls-28,
+            .cls-29,
+            .cls-3,
+            .cls-30,
+            .cls-31,
+            .cls-32,
+            .cls-33,
+            .cls-34,
+            .cls-35,
+            .cls-36,
+            .cls-37,
+            .cls-38,
+            .cls-39,
+            .cls-4,
+            .cls-40,
+            .cls-41,
+            .cls-45,
+            .cls-5,
+            .cls-6,
+            .cls-7,
+            .cls-79,
+            .cls-8,
+            .cls-82,
+            .cls-9,
+            .cls-98,
+            .cls-99 {
+                stroke-linejoin: round;
+                stroke-width: 0.25px;
+            }
+
+            .cls-1,
+            .cls-43 {
+                fill: url(#未命名的渐变_233);
+            }
+
+            .cls-2,
+            .cls-46 {
+                fill: url(#未命名的渐变_235);
+            }
+
+            .cls-3,
+            .cls-65 {
+                fill: url(#未命名的渐变_235-2);
+            }
+
+            .cls-4,
+            .cls-67 {
+                fill: url(#未命名的渐变_235-3);
+            }
+
+            .cls-5,
+            .cls-69 {
+                fill: url(#未命名的渐变_235-4);
+            }
+
+            .cls-6,
+            .cls-71 {
+                fill: url(#未命名的渐变_235-5);
+            }
+
+            .cls-7,
+            .cls-73 {
+                fill: url(#未命名的渐变_235-6);
+            }
+
+            .cls-75,
+            .cls-8 {
+                fill: url(#未命名的渐变_235-7);
+            }
+
+            .cls-77,
+            .cls-9 {
+                fill: url(#未命名的渐变_235-8);
+            }
+
+            .cls-79,
+            .cls-9 {
+                stroke: url(#未命名的渐变_226);
+            }
+
+            .cls-10,
+            .cls-80 {
+                fill: url(#未命名的渐变_235-9);
+            }
+
+            .cls-10,
+            .cls-82 {
+                stroke: url(#未命名的渐变_226-2);
+            }
+
+            .cls-11,
+            .cls-83 {
+                fill: url(#未命名的渐变_235-10);
+            }
+
+            .cls-12,
+            .cls-86 {
+                fill: url(#未命名的渐变_233-2);
+            }
+
+            .cls-13,
+            .cls-48 {
+                fill: url(#未命名的渐变_235-11);
+            }
+
+            .cls-14,
+            .cls-88 {
+                fill: url(#未命名的渐变_235-12);
+            }
+
+            .cls-15,
+            .cls-90 {
+                fill: url(#未命名的渐变_235-13);
+            }
+
+            .cls-16,
+            .cls-92 {
+                fill: url(#未命名的渐变_235-14);
+            }
+
+            .cls-17,
+            .cls-94 {
+                fill: url(#未命名的渐变_235-15);
+            }
+
+            .cls-18,
+            .cls-96 {
+                fill: url(#未命名的渐变_233-3);
+            }
+
+            .cls-106,
+            .cls-19 {
+                fill: url(#未命名的渐变_235-16);
+            }
+
+            .cls-108,
+            .cls-20 {
+                fill: url(#未命名的渐变_235-17);
+            }
+
+            .cls-110,
+            .cls-21 {
+                fill: url(#未命名的渐变_235-18);
+            }
+
+            .cls-112,
+            .cls-22 {
+                fill: url(#未命名的渐变_235-19);
+            }
+
+            .cls-114,
+            .cls-23 {
+                fill: url(#未命名的渐变_235-20);
+            }
+
+            .cls-24,
+            .cls-51 {
+                fill: url(#未命名的渐变_233-4);
+            }
+
+            .cls-116,
+            .cls-25 {
+                fill: url(#未命名的渐变_235-21);
+            }
+
+            .cls-118,
+            .cls-26 {
+                fill: url(#未命名的渐变_235-22);
+            }
+
+            .cls-120,
+            .cls-27 {
+                fill: url(#未命名的渐变_235-23);
+            }
+
+            .cls-122,
+            .cls-27 {
+                stroke: url(#未命名的渐变_226-3);
+            }
+
+            .cls-123,
+            .cls-28 {
+                fill: url(#未命名的渐变_235-24);
+            }
+
+            .cls-125,
+            .cls-28 {
+                stroke: url(#未命名的渐变_226-4);
+            }
+
+            .cls-126,
+            .cls-29 {
+                fill: url(#未命名的渐变_235-25);
+            }
+
+            .cls-128,
+            .cls-30 {
+                fill: url(#未命名的渐变_233-5);
+            }
+
+            .cls-130,
+            .cls-31 {
+                fill: url(#未命名的渐变_235-26);
+            }
+
+            .cls-132,
+            .cls-32 {
+                fill: url(#未命名的渐变_235-27);
+            }
+
+            .cls-134,
+            .cls-33 {
+                fill: url(#未命名的渐变_235-28);
+            }
+
+            .cls-136,
+            .cls-34 {
+                fill: url(#未命名的渐变_235-29);
+            }
+
+            .cls-35,
+            .cls-53 {
+                fill: url(#未命名的渐变_235-30);
+            }
+
+            .cls-138,
+            .cls-36 {
+                fill: url(#未命名的渐变_233-6);
+            }
+
+            .cls-37,
+            .cls-55 {
+                fill: url(#未命名的渐变_235-31);
+            }
+
+            .cls-38,
+            .cls-57 {
+                fill: url(#未命名的渐变_235-32);
+            }
+
+            .cls-39,
+            .cls-59 {
+                fill: url(#未命名的渐变_235-33);
+            }
+
+            .cls-40,
+            .cls-61 {
+                fill: url(#未命名的渐变_235-34);
+            }
+
+            .cls-41,
+            .cls-63 {
+                fill: url(#未命名的渐变_235-35);
+            }
+
+            .cls-140,
+            .cls-42,
+            .cls-85,
+            .cls-98 {
+                opacity: 0.2;
+            }
+
+            .cls-42,
+            .cls-50 {
+                isolation: isolate;
+            }
+
+            .cls-44 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-122,
+            .cls-125,
+            .cls-45,
+            .cls-79,
+            .cls-82 {
+                fill: none;
+            }
+
+            .cls-47 {
+                clip-path: url(#clip-path-2);
+            }
+
+            .cls-49 {
+                clip-path: url(#clip-path-3);
+            }
+
+            .cls-52 {
+                clip-path: url(#clip-path-4);
+            }
+
+            .cls-54 {
+                clip-path: url(#clip-path-5);
+            }
+
+            .cls-56 {
+                clip-path: url(#clip-path-6);
+            }
+
+            .cls-58 {
+                clip-path: url(#clip-path-7);
+            }
+
+            .cls-60 {
+                clip-path: url(#clip-path-8);
+            }
+
+            .cls-62 {
+                clip-path: url(#clip-path-9);
+            }
+
+            .cls-64 {
+                clip-path: url(#clip-path-10);
+            }
+
+            .cls-66 {
+                clip-path: url(#clip-path-11);
+            }
+
+            .cls-68 {
+                clip-path: url(#clip-path-12);
+            }
+
+            .cls-70 {
+                clip-path: url(#clip-path-13);
+            }
+
+            .cls-72 {
+                clip-path: url(#clip-path-14);
+            }
+
+            .cls-74 {
+                clip-path: url(#clip-path-15);
+            }
+
+            .cls-76 {
+                clip-path: url(#clip-path-16);
+            }
+
+            .cls-78 {
+                clip-path: url(#clip-path-17);
+            }
+
+            .cls-81 {
+                clip-path: url(#clip-path-18);
+            }
+
+            .cls-84 {
+                clip-path: url(#clip-path-19);
+            }
+
+            .cls-87 {
+                clip-path: url(#clip-path-20);
+            }
+
+            .cls-89 {
+                clip-path: url(#clip-path-21);
+            }
+
+            .cls-91 {
+                clip-path: url(#clip-path-22);
+            }
+
+            .cls-93 {
+                clip-path: url(#clip-path-23);
+            }
+
+            .cls-95 {
+                clip-path: url(#clip-path-24);
+            }
+
+            .cls-97 {
+                clip-path: url(#clip-path-25);
+            }
+
+            .cls-98 {
+                fill: url(#未命名的渐变_235-78);
+            }
+
+            .cls-99 {
+                fill: url(#未命名的渐变_235-79);
+            }
+
+            .cls-100 {
+                fill: url(#未命名的渐变_235-80);
+            }
+
+            .cls-101 {
+                fill: url(#未命名的渐变_235-81);
+            }
+
+            .cls-102 {
+                fill: url(#未命名的渐变_235-82);
+                stroke: url(#未命名的渐变_256);
+            }
+
+            .cls-103 {
+                fill: url(#未命名的渐变_235-83);
+            }
+
+            .cls-104 {
+                fill: url(#未命名的渐变_233-15);
+            }
+
+            .cls-105 {
+                fill: url(#未命名的渐变_235-84);
+            }
+
+            .cls-107 {
+                clip-path: url(#clip-path-26);
+            }
+
+            .cls-109 {
+                clip-path: url(#clip-path-27);
+            }
+
+            .cls-111 {
+                clip-path: url(#clip-path-28);
+            }
+
+            .cls-113 {
+                clip-path: url(#clip-path-29);
+            }
+
+            .cls-115 {
+                clip-path: url(#clip-path-30);
+            }
+
+            .cls-117 {
+                clip-path: url(#clip-path-31);
+            }
+
+            .cls-119 {
+                clip-path: url(#clip-path-32);
+            }
+
+            .cls-121 {
+                clip-path: url(#clip-path-33);
+            }
+
+            .cls-124 {
+                clip-path: url(#clip-path-34);
+            }
+
+            .cls-127 {
+                clip-path: url(#clip-path-35);
+            }
+
+            .cls-129 {
+                clip-path: url(#clip-path-36);
+            }
+
+            .cls-131 {
+                clip-path: url(#clip-path-37);
+            }
+
+            .cls-133 {
+                clip-path: url(#clip-path-38);
+            }
+
+            .cls-135 {
+                clip-path: url(#clip-path-39);
+            }
+
+            .cls-137 {
+                clip-path: url(#clip-path-40);
+            }
+
+            .cls-139 {
+                clip-path: url(#clip-path-41);
+            }
+
+            .cls-140 {
+                fill: url(#未命名的渐变_235-113);
+            }
+
+            .cls-141 {
+                fill: url(#未命名的渐变_235-114);
+            }
+
+            .cls-142 {
+                fill: url(#未命名的渐变_235-115);
+            }
+
+            .cls-143 {
+                fill: url(#未命名的渐变_235-116);
+            }
+
+            .cls-144 {
+                fill: url(#未命名的渐变_235-117);
+                stroke: url(#未命名的渐变_256-2);
+            }
+
+            .cls-145 {
+                fill: url(#未命名的渐变_235-118);
+            }
+
+            .cls-146 {
+                fill: url(#未命名的渐变_233-20);
+            }
+
+            .cls-147 {
+                fill: url(#未命名的渐变_235-119);
+            }
+        </style>
+        <linearGradient id="未命名的渐变_233" x1="98.49" y1="151.9" x2="24.15" y2="77.56" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5ac8f7" stop-opacity="0.6" />
+            <stop offset="1" stop-color="#2a6aaf" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_235" x1="-15.62" y1="85.84" x2="54.34" y2="15.87" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2a6aaf" stop-opacity="0" />
+            <stop offset="1" stop-color="#5ac8f7" stop-opacity="0.6" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_235-2" x1="64.83" y1="51.66" x2="83.78" y2="32.71" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-3" x1="74.33" y1="61.17" x2="96.72" y2="38.78" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-4" x1="86.91" y1="62.26" x2="103.14" y2="46.04" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-5" x1="73.44" y1="56.81" x2="78.77" y2="51.49" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-6" x1="87.28" y1="64.62" x2="106.23" y2="45.67" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-7" x1="71.34" y1="58.18" x2="77.4" y2="52.12" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-8" x1="92.3" y1="45.85" x2="97.63" y2="40.52" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_226" x1="94.97" y1="50.1" x2="94.97" y2="36.27" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2a6aaf" stop-opacity="0" />
+            <stop offset="1" stop-color="#5ac8f7" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_235-9" x1="67.93" y1="51.3" x2="84.15" y2="35.07" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_226-2" x1="67.84" y1="51.39" x2="84.24" y2="34.98" xlink:href="#未命名的渐变_226" />
+        <linearGradient id="未命名的渐变_235-10" x1="63.15" y1="47.35" x2="107.91" y2="47.35" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-2" x1="95.28" y1="66.35" x2="76.2" y2="47.27" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-11" x1="51.82" y1="92.73" x2="109.29" y2="35.26" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-12" x1="66.91" y1="57.06" x2="85.49" y2="38.47" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-13" x1="91.49" y1="51.56" x2="99.08" y2="43.97" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-14" x1="86.05" y1="68.11" x2="104.64" y2="49.53" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-15" x1="72.47" y1="62.61" x2="80.06" y2="55.02" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-3" x1="95.35" y1="59.31" x2="76.27" y2="40.24" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-16" x1="62.73" y1="27.32" x2="68.79" y2="21.26" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-17" x1="33.9" y1="33.77" x2="52.86" y2="14.82" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-18" x1="43.41" y1="43.28" x2="65.79" y2="20.89" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-19" x1="55.99" y1="44.37" x2="72.22" y2="28.14" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-20" x1="42.51" y1="38.92" x2="47.84" y2="33.59" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-4" x1="98.66" y1="72.69" x2="24.33" y2="-1.65" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-21" x1="56.35" y1="46.73" x2="75.31" y2="27.78" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-22" x1="40.42" y1="40.29" x2="46.48" y2="34.23" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-23" x1="61.38" y1="27.96" x2="66.71" y2="22.63" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_226-3" x1="64.04" y1="32.21" x2="64.04" y2="18.38" xlink:href="#未命名的渐变_226" />
+        <linearGradient id="未命名的渐变_235-24" x1="37" y1="33.41" x2="53.23" y2="17.18" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_226-4" x1="36.91" y1="33.5" x2="53.32" y2="17.09" xlink:href="#未命名的渐变_226" />
+        <linearGradient id="未命名的渐变_235-25" x1="32.23" y1="29.46" x2="76.99" y2="29.46" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-5" x1="64.36" y1="48.46" x2="45.28" y2="29.38" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-26" x1="35.99" y1="39.16" x2="54.57" y2="20.58" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-27" x1="60.56" y1="33.67" x2="68.16" y2="26.08" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-28" x1="55.13" y1="50.22" x2="73.71" y2="31.63" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-29" x1="41.55" y1="44.72" x2="49.14" y2="37.13" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-30" x1="68.47" y1="134.38" x2="138.44" y2="64.41" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-6" x1="64.42" y1="41.42" x2="45.34" y2="22.34" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-31" x1="78.31" y1="114.66" x2="128.6" y2="64.37" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-32" x1="13.53" y1="114.99" x2="70.99" y2="57.52" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-33" x1="50.55" y1="105.85" x2="82.04" y2="74.35" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-34" x1="17.05" y1="86.67" x2="48.54" y2="55.17" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-35" x1="93.66" y1="45.21" x2="99.72" y2="39.15" xlink:href="#未命名的渐变_235" />
+        <clipPath id="clip-path">
+            <polygon class="cls-1" points="122.51 127.87 84.22 150.13 0.13 101.58 38.42 79.33 122.51 127.87" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <polygon class="cls-2" points="0.3 22.38 38.6 0.13 38.42 79.33 0.13 101.58 0.3 22.38" />
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <polygon class="cls-13" points="38.6 0.13 122.69 48.66 122.51 127.87 38.42 79.33 38.6 0.13" />
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <polygon class="cls-24" points="122.69 48.66 84.4 70.92 0.3 22.38 38.6 0.13 122.69 48.66" />
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <polygon class="cls-35" points="122.69 48.66 122.51 127.87 84.22 150.13 84.4 70.92 122.69 48.66" />
+        </clipPath>
+        <clipPath id="clip-path-6">
+            <polygon class="cls-37" points="119.39 55.15 119.24 105.45 87.52 123.88 87.67 73.58 119.39 55.15" />
+        </clipPath>
+        <clipPath id="clip-path-7">
+            <polygon class="cls-38" points="84.4 70.92 84.22 150.13 0.13 101.58 0.3 22.38 84.4 70.92" />
+        </clipPath>
+        <clipPath id="clip-path-8">
+            <polygon class="cls-39" points="81.34 73.65 81.28 123.88 51.25 106.55 51.31 56.31 81.34 73.65" />
+        </clipPath>
+        <clipPath id="clip-path-9">
+            <polygon class="cls-40" points="47.84 54.47 47.78 104.7 17.75 87.37 17.81 37.14 47.84 54.47" />
+        </clipPath>
+        <clipPath id="clip-path-10">
+            <polygon class="cls-41" points="85.47 34.39 107.92 47.35 107.91 49.97 85.46 37.01 85.47 34.39" />
+        </clipPath>
+        <clipPath id="clip-path-11">
+            <polygon class="cls-3" points="63.15 47.36 85.47 34.39 85.46 37.01 63.14 49.98 63.15 47.36" />
+        </clipPath>
+        <clipPath id="clip-path-12">
+            <path class="cls-4" d="M85.46,37l22.45,13-22.32,13L63.14,50Zm.13,23.93,18.87-11-19-11L66.6,50l19,11" />
+        </clipPath>
+        <clipPath id="clip-path-13">
+            <polygon class="cls-5" points="85.6 58.32 104.47 47.36 104.46 49.98 85.59 60.94 85.6 58.32" />
+        </clipPath>
+        <clipPath id="clip-path-14">
+            <polygon class="cls-6" points="66.61 47.36 85.6 58.32 85.59 60.94 66.6 49.98 66.61 47.36" />
+        </clipPath>
+        <clipPath id="clip-path-15">
+            <polygon class="cls-7" points="107.92 47.35 107.91 49.97 85.59 62.94 85.6 60.32 107.92 47.35" />
+        </clipPath>
+        <clipPath id="clip-path-16">
+            <polygon class="cls-8" points="85.6 60.32 85.59 62.94 63.14 49.98 63.15 47.36 85.6 60.32" />
+        </clipPath>
+        <clipPath id="clip-path-17">
+            <polygon class="cls-9" points="104.47 47.36 104.46 49.98 85.47 39.02 85.48 36.39 104.47 47.36" />
+        </clipPath>
+        <clipPath id="clip-path-18">
+            <polygon class="cls-10" points="85.48 36.39 85.47 39.02 66.6 49.98 66.61 47.36 85.48 36.39" />
+        </clipPath>
+        <clipPath id="clip-path-19">
+            <path class="cls-11" d="M85.46,34.39l22.45,13-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+        </clipPath>
+        <clipPath id="clip-path-20">
+            <polygon class="cls-12" points="104.82 56.81 85.81 67.86 66.66 56.81 85.68 45.76 104.82 56.81" />
+        </clipPath>
+        <clipPath id="clip-path-21">
+            <polygon class="cls-14" points="66.73 49.77 85.74 38.72 85.68 45.76 66.66 56.81 66.73 49.77" />
+        </clipPath>
+        <clipPath id="clip-path-22">
+            <polygon class="cls-15" points="85.74 38.72 104.89 49.77 104.82 56.81 85.68 45.76 85.74 38.72" />
+        </clipPath>
+        <clipPath id="clip-path-23">
+            <polygon class="cls-16" points="104.89 49.77 104.82 56.81 85.81 67.86 85.87 60.83 104.89 49.77" />
+        </clipPath>
+        <clipPath id="clip-path-24">
+            <polygon class="cls-17" points="85.87 60.83 85.81 67.86 66.66 56.81 66.73 49.77 85.87 60.83" />
+        </clipPath>
+        <clipPath id="clip-path-25">
+            <polygon class="cls-18" points="104.89 49.77 85.87 60.83 66.73 49.77 85.74 38.72 104.89 49.77" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_235-78" x1="80.18" y1="49.85" x2="90.73" y2="39.3" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-79" x1="91.92" y1="55.07" x2="78.98" y2="42.12"
+            gradientTransform="translate(133.8 -36.99) rotate(89.84)" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-80" x1="78.02" y1="52.32" x2="92.9" y2="37.44" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-81" x1="90.31" y1="50.3" x2="80.6" y2="40.59"
+            gradientTransform="translate(130.66 -40.15) rotate(89.84)" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-82" x1="80.19" y1="48.54" x2="90.74" y2="37.99" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_256" x1="85.46" y1="45.59" x2="85.46" y2="37.42" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#5d84af" stop-opacity="0" />
+            <stop offset="1" stop-color="#5ac8f7" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_235-83" x1="78.01" y1="54.07" x2="92.89" y2="39.19" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-15" x1="90.82" y1="47.75" x2="80.12" y2="37.05" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-84" x1="79.01" y1="49.37" x2="91.92" y2="36.46" xlink:href="#未命名的渐变_235" />
+        <clipPath id="clip-path-26">
+            <polygon class="cls-19" points="54.54 16.5 76.99 29.46 76.98 32.08 54.53 19.12 54.54 16.5" />
+        </clipPath>
+        <clipPath id="clip-path-27">
+            <polygon class="cls-20" points="32.23 29.46 54.54 16.5 54.53 19.12 32.22 32.09 32.23 29.46" />
+        </clipPath>
+        <clipPath id="clip-path-28">
+            <path class="cls-21"
+                d="M54.53,19.12,77,32.08l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+        </clipPath>
+        <clipPath id="clip-path-29">
+            <polygon class="cls-22" points="54.68 40.43 73.54 29.46 73.53 32.09 54.67 43.05 54.68 40.43" />
+        </clipPath>
+        <clipPath id="clip-path-30">
+            <polygon class="cls-23" points="35.69 29.47 54.68 40.43 54.67 43.05 35.68 32.09 35.69 29.47" />
+        </clipPath>
+        <clipPath id="clip-path-31">
+            <polygon class="cls-25" points="76.99 29.46 76.98 32.08 54.67 45.05 54.68 42.43 76.99 29.46" />
+        </clipPath>
+        <clipPath id="clip-path-32">
+            <polygon class="cls-26" points="54.68 42.43 54.67 45.05 32.22 32.09 32.23 29.46 54.68 42.43" />
+        </clipPath>
+        <clipPath id="clip-path-33">
+            <polygon class="cls-27" points="73.54 29.46 73.53 32.09 54.55 21.13 54.55 18.5 73.54 29.46" />
+        </clipPath>
+        <clipPath id="clip-path-34">
+            <polygon class="cls-28" points="54.55 18.5 54.55 21.13 35.68 32.09 35.69 29.47 54.55 18.5" />
+        </clipPath>
+        <clipPath id="clip-path-35">
+            <path class="cls-29" d="M54.54,16.5,77,29.46l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.86,11,19,11" />
+        </clipPath>
+        <clipPath id="clip-path-36">
+            <polygon class="cls-30" points="73.9 38.91 54.88 49.97 35.74 38.92 54.76 27.86 73.9 38.91" />
+        </clipPath>
+        <clipPath id="clip-path-37">
+            <polygon class="cls-31" points="35.8 31.88 54.82 20.83 54.76 27.86 35.74 38.92 35.8 31.88" />
+        </clipPath>
+        <clipPath id="clip-path-38">
+            <polygon class="cls-32" points="54.82 20.83 73.96 31.88 73.9 38.91 54.76 27.86 54.82 20.83" />
+        </clipPath>
+        <clipPath id="clip-path-39">
+            <polygon class="cls-33" points="73.96 31.88 73.9 38.91 54.88 49.97 54.94 42.94 73.96 31.88" />
+        </clipPath>
+        <clipPath id="clip-path-40">
+            <polygon class="cls-34" points="54.94 42.94 54.88 49.97 35.74 38.92 35.8 31.88 54.94 42.94" />
+        </clipPath>
+        <clipPath id="clip-path-41">
+            <polygon class="cls-36" points="73.96 31.88 54.94 42.94 35.8 31.88 54.82 20.83 73.96 31.88" />
+        </clipPath>
+        <linearGradient id="未命名的渐变_235-113" x1="49.26" y1="31.96" x2="59.81" y2="21.41" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-114" x1="61" y1="37.18" x2="48.05" y2="24.23"
+            gradientTransform="translate(85.08 -23.91) rotate(89.84)" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-115" x1="47.1" y1="34.43" x2="61.98" y2="19.55" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-116" x1="59.39" y1="32.4" x2="49.68" y2="22.7"
+            gradientTransform="translate(81.93 -27.06) rotate(89.84)" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_235-117" x1="49.27" y1="30.65" x2="59.82" y2="20.1" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_256-2" x1="54.54" y1="27.7" x2="54.54" y2="19.52" xlink:href="#未命名的渐变_256" />
+        <linearGradient id="未命名的渐变_235-118" x1="47.09" y1="36.18" x2="61.97" y2="21.3" xlink:href="#未命名的渐变_235" />
+        <linearGradient id="未命名的渐变_233-20" x1="59.89" y1="29.86" x2="49.19" y2="19.16" xlink:href="#未命名的渐变_233" />
+        <linearGradient id="未命名的渐变_235-119" x1="48.09" y1="31.48" x2="61" y2="18.57" xlink:href="#未命名的渐变_235" />
+    </defs>
+    <title>Radiator（散热器）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_27" data-name="图层 27">
+            <g id="Radiator_散热器_" data-name="Radiator（散热器）">
+                <g class="cls-42">
+                    <polygon class="cls-43" points="122.51 127.87 84.22 150.13 0.13 101.58 38.42 79.33 122.51 127.87" />
+                    <g class="cls-44">
+                        <polygon class="cls-1"
+                            points="122.51 127.87 84.22 150.13 0.13 101.58 38.42 79.33 122.51 127.87" />
+                    </g>
+                    <polygon class="cls-45" points="122.51 127.87 84.22 150.13 0.13 101.58 38.42 79.33 122.51 127.87" />
+                </g>
+                <g class="cls-42">
+                    <polygon class="cls-46" points="0.3 22.38 38.6 0.13 38.42 79.33 0.13 101.58 0.3 22.38" />
+                    <g class="cls-47">
+                        <polygon class="cls-2" points="0.3 22.38 38.6 0.13 38.42 79.33 0.13 101.58 0.3 22.38" />
+                    </g>
+                    <polygon class="cls-45" points="0.3 22.38 38.6 0.13 38.42 79.33 0.13 101.58 0.3 22.38" />
+                </g>
+                <g class="cls-42">
+                    <polygon class="cls-48" points="38.6 0.13 122.69 48.66 122.51 127.87 38.42 79.33 38.6 0.13" />
+                    <g class="cls-49">
+                        <polygon class="cls-13" points="38.6 0.13 122.69 48.66 122.51 127.87 38.42 79.33 38.6 0.13" />
+                    </g>
+                    <polygon class="cls-45" points="38.6 0.13 122.69 48.66 122.51 127.87 38.42 79.33 38.6 0.13" />
+                </g>
+                <g class="cls-50">
+                    <polygon class="cls-51" points="122.69 48.66 84.4 70.92 0.3 22.38 38.6 0.13 122.69 48.66" />
+                    <g class="cls-52">
+                        <polygon class="cls-24" points="122.69 48.66 84.4 70.92 0.3 22.38 38.6 0.13 122.69 48.66" />
+                    </g>
+                    <polygon class="cls-45" points="122.69 48.66 84.4 70.92 0.3 22.38 38.6 0.13 122.69 48.66" />
+                </g>
+                <g class="cls-50">
+                    <polygon class="cls-53" points="122.69 48.66 122.51 127.87 84.22 150.13 84.4 70.92 122.69 48.66" />
+                    <g class="cls-54">
+                        <polygon class="cls-35"
+                            points="122.69 48.66 122.51 127.87 84.22 150.13 84.4 70.92 122.69 48.66" />
+                    </g>
+                    <polygon class="cls-45" points="122.69 48.66 122.51 127.87 84.22 150.13 84.4 70.92 122.69 48.66" />
+                </g>
+                <g class="cls-50">
+                    <polygon class="cls-55" points="119.39 55.15 119.24 105.45 87.52 123.88 87.67 73.58 119.39 55.15" />
+                    <g class="cls-56">
+                        <polygon class="cls-37"
+                            points="119.39 55.15 119.24 105.45 87.52 123.88 87.67 73.58 119.39 55.15" />
+                    </g>
+                    <polygon class="cls-45" points="119.39 55.15 119.24 105.45 87.52 123.88 87.67 73.58 119.39 55.15" />
+                </g>
+                <g class="cls-50">
+                    <polygon class="cls-57" points="84.4 70.92 84.22 150.13 0.13 101.58 0.3 22.38 84.4 70.92" />
+                    <g class="cls-58">
+                        <polygon class="cls-38" points="84.4 70.92 84.22 150.13 0.13 101.58 0.3 22.38 84.4 70.92" />
+                    </g>
+                    <polygon class="cls-45" points="84.4 70.92 84.22 150.13 0.13 101.58 0.3 22.38 84.4 70.92" />
+                </g>
+                <g class="cls-50">
+                    <polygon class="cls-59" points="81.34 73.65 81.28 123.88 51.25 106.55 51.31 56.31 81.34 73.65" />
+                    <g class="cls-60">
+                        <polygon class="cls-39"
+                            points="81.34 73.65 81.28 123.88 51.25 106.55 51.31 56.31 81.34 73.65" />
+                    </g>
+                    <polygon class="cls-45" points="81.34 73.65 81.28 123.88 51.25 106.55 51.31 56.31 81.34 73.65" />
+                </g>
+                <polygon class="cls-61" points="47.84 54.47 47.78 104.7 17.75 87.37 17.81 37.14 47.84 54.47" />
+                <g class="cls-62">
+                    <polygon class="cls-40" points="47.84 54.47 47.78 104.7 17.75 87.37 17.81 37.14 47.84 54.47" />
+                </g>
+                <polygon class="cls-45" points="47.84 54.47 47.78 104.7 17.75 87.37 17.81 37.14 47.84 54.47" />
+                <g class="cls-50">
+                    <g class="cls-42">
+                        <polygon class="cls-63"
+                            points="85.47 34.39 107.92 47.35 107.91 49.97 85.46 37.01 85.47 34.39" />
+                        <g class="cls-64">
+                            <polygon class="cls-41"
+                                points="85.47 34.39 107.92 47.35 107.91 49.97 85.46 37.01 85.47 34.39" />
+                        </g>
+                        <polygon class="cls-45"
+                            points="85.47 34.39 107.92 47.35 107.91 49.97 85.46 37.01 85.47 34.39" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-65" points="63.15 47.36 85.47 34.39 85.46 37.01 63.14 49.98 63.15 47.36" />
+                        <g class="cls-66">
+                            <polygon class="cls-3"
+                                points="63.15 47.36 85.47 34.39 85.46 37.01 63.14 49.98 63.15 47.36" />
+                        </g>
+                        <polygon class="cls-45" points="63.15 47.36 85.47 34.39 85.46 37.01 63.14 49.98 63.15 47.36" />
+                    </g>
+                    <g class="cls-42">
+                        <path class="cls-67"
+                            d="M85.46,37l22.45,13-22.32,13L63.14,50Zm.13,23.93,18.87-11-19-11L66.6,50l19,11" />
+                        <g class="cls-68">
+                            <path class="cls-4"
+                                d="M85.46,37l22.45,13-22.32,13L63.14,50Zm.13,23.93,18.87-11-19-11L66.6,50l19,11" />
+                        </g>
+                        <path class="cls-45"
+                            d="M85.46,37l22.45,13-22.32,13L63.14,50Zm.13,23.93,18.87-11-19-11L66.6,50l19,11" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-69" points="85.6 58.32 104.47 47.36 104.46 49.98 85.59 60.94 85.6 58.32" />
+                        <g class="cls-70">
+                            <polygon class="cls-5"
+                                points="85.6 58.32 104.47 47.36 104.46 49.98 85.59 60.94 85.6 58.32" />
+                        </g>
+                        <polygon class="cls-45" points="85.6 58.32 104.47 47.36 104.46 49.98 85.59 60.94 85.6 58.32" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-71" points="66.61 47.36 85.6 58.32 85.59 60.94 66.6 49.98 66.61 47.36" />
+                        <g class="cls-72">
+                            <polygon class="cls-6" points="66.61 47.36 85.6 58.32 85.59 60.94 66.6 49.98 66.61 47.36" />
+                        </g>
+                        <polygon class="cls-45" points="66.61 47.36 85.6 58.32 85.59 60.94 66.6 49.98 66.61 47.36" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-73"
+                            points="107.92 47.35 107.91 49.97 85.59 62.94 85.6 60.32 107.92 47.35" />
+                        <g class="cls-74">
+                            <polygon class="cls-7"
+                                points="107.92 47.35 107.91 49.97 85.59 62.94 85.6 60.32 107.92 47.35" />
+                        </g>
+                        <polygon class="cls-45"
+                            points="107.92 47.35 107.91 49.97 85.59 62.94 85.6 60.32 107.92 47.35" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-75" points="85.6 60.32 85.59 62.94 63.14 49.98 63.15 47.36 85.6 60.32" />
+                        <g class="cls-76">
+                            <polygon class="cls-8" points="85.6 60.32 85.59 62.94 63.14 49.98 63.15 47.36 85.6 60.32" />
+                        </g>
+                        <polygon class="cls-45" points="85.6 60.32 85.59 62.94 63.14 49.98 63.15 47.36 85.6 60.32" />
+                    </g>
+                    <polygon class="cls-77" points="104.47 47.36 104.46 49.98 85.47 39.02 85.48 36.39 104.47 47.36" />
+                    <g class="cls-78">
+                        <polygon class="cls-9"
+                            points="104.47 47.36 104.46 49.98 85.47 39.02 85.48 36.39 104.47 47.36" />
+                    </g>
+                    <polygon class="cls-79" points="104.47 47.36 104.46 49.98 85.47 39.02 85.48 36.39 104.47 47.36" />
+                    <g class="cls-50">
+                        <polygon class="cls-80" points="85.48 36.39 85.47 39.02 66.6 49.98 66.61 47.36 85.48 36.39" />
+                        <g class="cls-81">
+                            <polygon class="cls-10"
+                                points="85.48 36.39 85.47 39.02 66.6 49.98 66.61 47.36 85.48 36.39" />
+                        </g>
+                        <polygon class="cls-82" points="85.48 36.39 85.47 39.02 66.6 49.98 66.61 47.36 85.48 36.39" />
+                    </g>
+                    <g class="cls-50">
+                        <path class="cls-83"
+                            d="M85.46,34.39l22.45,13-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+                        <g class="cls-84">
+                            <path class="cls-11"
+                                d="M85.46,34.39l22.45,13-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+                        </g>
+                        <path class="cls-45"
+                            d="M85.46,34.39l22.45,13-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+                    </g>
+                </g>
+                <g class="cls-85">
+                    <g class="cls-42">
+                        <polygon class="cls-86"
+                            points="104.82 56.81 85.81 67.86 66.66 56.81 85.68 45.76 104.82 56.81" />
+                        <g class="cls-87">
+                            <polygon class="cls-12"
+                                points="104.82 56.81 85.81 67.86 66.66 56.81 85.68 45.76 104.82 56.81" />
+                        </g>
+                        <polygon class="cls-45"
+                            points="104.82 56.81 85.81 67.86 66.66 56.81 85.68 45.76 104.82 56.81" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-88" points="66.73 49.77 85.74 38.72 85.68 45.76 66.66 56.81 66.73 49.77" />
+                        <g class="cls-89">
+                            <polygon class="cls-14"
+                                points="66.73 49.77 85.74 38.72 85.68 45.76 66.66 56.81 66.73 49.77" />
+                        </g>
+                        <polygon class="cls-45" points="66.73 49.77 85.74 38.72 85.68 45.76 66.66 56.81 66.73 49.77" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-90"
+                            points="85.74 38.72 104.89 49.77 104.82 56.81 85.68 45.76 85.74 38.72" />
+                        <g class="cls-91">
+                            <polygon class="cls-15"
+                                points="85.74 38.72 104.89 49.77 104.82 56.81 85.68 45.76 85.74 38.72" />
+                        </g>
+                        <polygon class="cls-45"
+                            points="85.74 38.72 104.89 49.77 104.82 56.81 85.68 45.76 85.74 38.72" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-92"
+                            points="104.89 49.77 104.82 56.81 85.81 67.86 85.87 60.83 104.89 49.77" />
+                        <g class="cls-93">
+                            <polygon class="cls-16"
+                                points="104.89 49.77 104.82 56.81 85.81 67.86 85.87 60.83 104.89 49.77" />
+                        </g>
+                        <polygon class="cls-45"
+                            points="104.89 49.77 104.82 56.81 85.81 67.86 85.87 60.83 104.89 49.77" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-94" points="85.87 60.83 85.81 67.86 66.66 56.81 66.73 49.77 85.87 60.83" />
+                        <g class="cls-95">
+                            <polygon class="cls-17"
+                                points="85.87 60.83 85.81 67.86 66.66 56.81 66.73 49.77 85.87 60.83" />
+                        </g>
+                        <polygon class="cls-45" points="85.87 60.83 85.81 67.86 66.66 56.81 66.73 49.77 85.87 60.83" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-96"
+                            points="104.89 49.77 85.87 60.83 66.73 49.77 85.74 38.72 104.89 49.77" />
+                        <g class="cls-97">
+                            <polygon class="cls-18"
+                                points="104.89 49.77 85.87 60.83 66.73 49.77 85.74 38.72 104.89 49.77" />
+                        </g>
+                        <polygon class="cls-45"
+                            points="104.89 49.77 85.87 60.83 66.73 49.77 85.74 38.72 104.89 49.77" />
+                    </g>
+                </g>
+                <g class="cls-50">
+                    <path class="cls-98"
+                        d="M91.31,45.89a13.05,13.05,0,0,1-11.86-.12,4.13,4.13,0,0,1-2.37-3.39c0,.91,0,2.13,0,3a4.17,4.17,0,0,0,2.37,3.4,13.08,13.08,0,0,0,11.86.12c1.69-.95,2.54-2.21,2.55-3.48v-3C93.85,43.69,93,45,91.31,45.89Z" />
+                    <g class="cls-85">
+                        <ellipse class="cls-99" cx="85.45" cy="48.6" rx="6.48" ry="11.18"
+                            transform="translate(36.61 133.91) rotate(-89.84)" />
+                    </g>
+                    <g class="cls-85">
+                        <path class="cls-100"
+                            d="M96.63,48.63c0-1.63-1-3.27-3.16-4.53-4.31-2.58-11.39-2.65-15.82-.16-2.25,1.26-3.38,2.94-3.38,4.63V42.88c0-1.68,1.14-3.36,3.39-4.62,4.43-2.49,11.51-2.42,15.81.16,2.12,1.26,3.17,2.9,3.17,4.53S96.64,46.92,96.63,48.63Z" />
+                    </g>
+                    <g class="cls-85">
+                        <ellipse class="cls-101" cx="85.46" cy="45.44" rx="4.86" ry="8.39"
+                            transform="matrix(0, -1, 1, 0, 39.77, 130.77)" />
+                    </g>
+                    <path class="cls-102"
+                        d="M93.85,42.42v3a4.15,4.15,0,0,0-2.38-3.4A13.05,13.05,0,0,0,79.61,42c-1.69.94-2.54,2.2-2.54,3.47v-3c0-1.27.85-2.53,2.54-3.48A13.08,13.08,0,0,1,91.48,39C93.07,40,93.86,41.2,93.85,42.42Z" />
+                    <path class="cls-103"
+                        d="M93.26,47.58c-4.43,2.48-11.51,2.41-15.81-.16-2.12-1.27-3.17-2.91-3.17-4.54v5.69c0,1.63,1,3.26,3.16,4.53,4.31,2.57,11.39,2.64,15.81.16,2.26-1.27,3.39-2.95,3.39-4.63l0-5.68C96.64,44.63,95.51,46.31,93.26,47.58Z" />
+                    <path class="cls-104"
+                        d="M91.91,46.25a14.44,14.44,0,0,1-13.07-.13C75.28,44,75.37,40.6,79,38.55a14.35,14.35,0,0,1,13.06.13C95.65,40.81,95.57,44.2,91.91,46.25Zm-.6-.36C94.63,44,94.71,41,91.48,39a13.08,13.08,0,0,0-11.86-.12c-3.32,1.87-3.4,4.94-.17,6.87a13.05,13.05,0,0,0,11.86.12" />
+                    <path class="cls-105"
+                        d="M93.48,38.42c-4.3-2.58-11.38-2.65-15.81-.16s-4.53,6.58-.22,9.16,11.38,2.64,15.81.16S97.79,41,93.48,38.42Zm-1.57,7.83a14.44,14.44,0,0,1-13.07-.13C75.28,44,75.37,40.6,79,38.55a14.35,14.35,0,0,1,13.06.13C95.65,40.81,95.57,44.2,91.91,46.25Z" />
+                </g>
+                <g class="cls-50">
+                    <g class="cls-42">
+                        <polygon class="cls-106" points="54.54 16.5 76.99 29.46 76.98 32.08 54.53 19.12 54.54 16.5" />
+                        <g class="cls-107">
+                            <polygon class="cls-19"
+                                points="54.54 16.5 76.99 29.46 76.98 32.08 54.53 19.12 54.54 16.5" />
+                        </g>
+                        <polygon class="cls-45" points="54.54 16.5 76.99 29.46 76.98 32.08 54.53 19.12 54.54 16.5" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-108" points="32.23 29.46 54.54 16.5 54.53 19.12 32.22 32.09 32.23 29.46" />
+                        <g class="cls-109">
+                            <polygon class="cls-20"
+                                points="32.23 29.46 54.54 16.5 54.53 19.12 32.22 32.09 32.23 29.46" />
+                        </g>
+                        <polygon class="cls-45" points="32.23 29.46 54.54 16.5 54.53 19.12 32.22 32.09 32.23 29.46" />
+                    </g>
+                    <g class="cls-42">
+                        <path class="cls-110"
+                            d="M54.53,19.12,77,32.08l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+                        <g class="cls-111">
+                            <path class="cls-21"
+                                d="M54.53,19.12,77,32.08l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+                        </g>
+                        <path class="cls-45"
+                            d="M54.53,19.12,77,32.08l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.87,11,19,11" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-112" points="54.68 40.43 73.54 29.46 73.53 32.09 54.67 43.05 54.68 40.43" />
+                        <g class="cls-113">
+                            <polygon class="cls-22"
+                                points="54.68 40.43 73.54 29.46 73.53 32.09 54.67 43.05 54.68 40.43" />
+                        </g>
+                        <polygon class="cls-45" points="54.68 40.43 73.54 29.46 73.53 32.09 54.67 43.05 54.68 40.43" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-114" points="35.69 29.47 54.68 40.43 54.67 43.05 35.68 32.09 35.69 29.47" />
+                        <g class="cls-115">
+                            <polygon class="cls-23"
+                                points="35.69 29.47 54.68 40.43 54.67 43.05 35.68 32.09 35.69 29.47" />
+                        </g>
+                        <polygon class="cls-45" points="35.69 29.47 54.68 40.43 54.67 43.05 35.68 32.09 35.69 29.47" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-116" points="76.99 29.46 76.98 32.08 54.67 45.05 54.68 42.43 76.99 29.46" />
+                        <g class="cls-117">
+                            <polygon class="cls-25"
+                                points="76.99 29.46 76.98 32.08 54.67 45.05 54.68 42.43 76.99 29.46" />
+                        </g>
+                        <polygon class="cls-45" points="76.99 29.46 76.98 32.08 54.67 45.05 54.68 42.43 76.99 29.46" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-118" points="54.68 42.43 54.67 45.05 32.22 32.09 32.23 29.46 54.68 42.43" />
+                        <g class="cls-119">
+                            <polygon class="cls-26"
+                                points="54.68 42.43 54.67 45.05 32.22 32.09 32.23 29.46 54.68 42.43" />
+                        </g>
+                        <polygon class="cls-45" points="54.68 42.43 54.67 45.05 32.22 32.09 32.23 29.46 54.68 42.43" />
+                    </g>
+                    <polygon class="cls-120" points="73.54 29.46 73.53 32.09 54.55 21.13 54.55 18.5 73.54 29.46" />
+                    <g class="cls-121">
+                        <polygon class="cls-27" points="73.54 29.46 73.53 32.09 54.55 21.13 54.55 18.5 73.54 29.46" />
+                    </g>
+                    <polygon class="cls-122" points="73.54 29.46 73.53 32.09 54.55 21.13 54.55 18.5 73.54 29.46" />
+                    <g class="cls-50">
+                        <polygon class="cls-123" points="54.55 18.5 54.55 21.13 35.68 32.09 35.69 29.47 54.55 18.5" />
+                        <g class="cls-124">
+                            <polygon class="cls-28"
+                                points="54.55 18.5 54.55 21.13 35.68 32.09 35.69 29.47 54.55 18.5" />
+                        </g>
+                        <polygon class="cls-125" points="54.55 18.5 54.55 21.13 35.68 32.09 35.69 29.47 54.55 18.5" />
+                    </g>
+                    <g class="cls-50">
+                        <path class="cls-126"
+                            d="M54.54,16.5,77,29.46l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.86,11,19,11" />
+                        <g class="cls-127">
+                            <path class="cls-29"
+                                d="M54.54,16.5,77,29.46l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.86,11,19,11" />
+                        </g>
+                        <path class="cls-45"
+                            d="M54.54,16.5,77,29.46l-22.31,13-22.45-13Zm.14,23.93,18.86-11-19-11-18.86,11,19,11" />
+                    </g>
+                </g>
+                <g class="cls-85">
+                    <g class="cls-42">
+                        <polygon class="cls-128" points="73.9 38.91 54.88 49.97 35.74 38.92 54.76 27.86 73.9 38.91" />
+                        <g class="cls-129">
+                            <polygon class="cls-30"
+                                points="73.9 38.91 54.88 49.97 35.74 38.92 54.76 27.86 73.9 38.91" />
+                        </g>
+                        <polygon class="cls-45" points="73.9 38.91 54.88 49.97 35.74 38.92 54.76 27.86 73.9 38.91" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-130" points="35.8 31.88 54.82 20.83 54.76 27.86 35.74 38.92 35.8 31.88" />
+                        <g class="cls-131">
+                            <polygon class="cls-31"
+                                points="35.8 31.88 54.82 20.83 54.76 27.86 35.74 38.92 35.8 31.88" />
+                        </g>
+                        <polygon class="cls-45" points="35.8 31.88 54.82 20.83 54.76 27.86 35.74 38.92 35.8 31.88" />
+                    </g>
+                    <g class="cls-42">
+                        <polygon class="cls-132" points="54.82 20.83 73.96 31.88 73.9 38.91 54.76 27.86 54.82 20.83" />
+                        <g class="cls-133">
+                            <polygon class="cls-32"
+                                points="54.82 20.83 73.96 31.88 73.9 38.91 54.76 27.86 54.82 20.83" />
+                        </g>
+                        <polygon class="cls-45" points="54.82 20.83 73.96 31.88 73.9 38.91 54.76 27.86 54.82 20.83" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-134" points="73.96 31.88 73.9 38.91 54.88 49.97 54.94 42.94 73.96 31.88" />
+                        <g class="cls-135">
+                            <polygon class="cls-33"
+                                points="73.96 31.88 73.9 38.91 54.88 49.97 54.94 42.94 73.96 31.88" />
+                        </g>
+                        <polygon class="cls-45" points="73.96 31.88 73.9 38.91 54.88 49.97 54.94 42.94 73.96 31.88" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-136" points="54.94 42.94 54.88 49.97 35.74 38.92 35.8 31.88 54.94 42.94" />
+                        <g class="cls-137">
+                            <polygon class="cls-34"
+                                points="54.94 42.94 54.88 49.97 35.74 38.92 35.8 31.88 54.94 42.94" />
+                        </g>
+                        <polygon class="cls-45" points="54.94 42.94 54.88 49.97 35.74 38.92 35.8 31.88 54.94 42.94" />
+                    </g>
+                    <g class="cls-50">
+                        <polygon class="cls-138" points="73.96 31.88 54.94 42.94 35.8 31.88 54.82 20.83 73.96 31.88" />
+                        <g class="cls-139">
+                            <polygon class="cls-36"
+                                points="73.96 31.88 54.94 42.94 35.8 31.88 54.82 20.83 73.96 31.88" />
+                        </g>
+                        <polygon class="cls-45" points="73.96 31.88 54.94 42.94 35.8 31.88 54.82 20.83 73.96 31.88" />
+                    </g>
+                </g>
+                <g class="cls-50">
+                    <path class="cls-140"
+                        d="M60.39,28a13.05,13.05,0,0,1-11.86-.12c-1.59-.95-2.38-2.17-2.37-3.4,0,.92,0,2.13,0,3.05a4.1,4.1,0,0,0,2.37,3.39A13.05,13.05,0,0,0,60.38,31c1.69-.94,2.54-2.2,2.54-3.47,0-.91,0-2.13,0-3C62.93,25.79,62.08,27.05,60.39,28Z" />
+                    <g class="cls-85">
+                        <ellipse class="cls-141" cx="54.53" cy="30.7" rx="6.48" ry="11.18"
+                            transform="translate(23.67 85.14) rotate(-89.84)" />
+                    </g>
+                    <g class="cls-85">
+                        <path class="cls-142"
+                            d="M65.71,30.74c0-1.63-1-3.27-3.16-4.54-4.31-2.57-11.39-2.64-15.82-.16-2.25,1.27-3.38,2.95-3.39,4.63l0-5.68c0-1.68,1.14-3.36,3.39-4.63,4.43-2.48,11.51-2.41,15.81.16,2.12,1.27,3.17,2.9,3.17,4.53S65.71,29,65.71,30.74Z" />
+                    </g>
+                    <g class="cls-85">
+                        <ellipse class="cls-143" cx="54.53" cy="27.55" rx="4.86" ry="8.39"
+                            transform="translate(26.83 82.01) rotate(-89.84)" />
+                    </g>
+                    <path class="cls-144"
+                        d="M62.93,24.53v3c0-1.22-.78-2.45-2.37-3.4a13,13,0,0,0-11.86-.11c-1.69.94-2.54,2.2-2.54,3.47V24.48c0-1.26.85-2.52,2.54-3.47a13.08,13.08,0,0,1,11.86.12A4.15,4.15,0,0,1,62.93,24.53Z" />
+                    <path class="cls-145"
+                        d="M62.34,29.68c-4.43,2.49-11.51,2.42-15.82-.16-2.11-1.26-3.17-2.9-3.16-4.53l0,5.68c0,1.63,1,3.27,3.17,4.53,4.3,2.58,11.38,2.65,15.81.16,2.25-1.26,3.38-2.94,3.39-4.62l0-5.69C65.72,26.74,64.59,28.42,62.34,29.68Z" />
+                    <path class="cls-146"
+                        d="M61,28.36a14.41,14.41,0,0,1-13.06-.13c-3.56-2.13-3.48-5.52.18-7.57a14.37,14.37,0,0,1,13.07.13C64.73,22.92,64.64,26.3,61,28.36ZM60.39,28c3.32-1.86,3.4-4.94.17-6.87A13.08,13.08,0,0,0,48.7,21c-3.32,1.87-3.4,4.94-.17,6.87A13.05,13.05,0,0,0,60.39,28" />
+                    <path class="cls-147"
+                        d="M62.56,20.52c-4.3-2.57-11.38-2.64-15.81-.16s-4.53,6.59-.23,9.16,11.39,2.65,15.82.16S66.87,23.1,62.56,20.52ZM61,28.36a14.41,14.41,0,0,1-13.06-.13c-3.56-2.13-3.48-5.52.18-7.57a14.37,14.37,0,0,1,13.07.13C64.73,22.92,64.64,26.3,61,28.36Z" />
+                </g>
+                
+            </g>
+        </g>
+    </g>
+</svg>

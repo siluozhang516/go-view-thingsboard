@@ -1,0 +1,29 @@
+
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.1303in" height="1.4792in" viewBox="0 0 337 441">
+
+<path style="fill:#7f7f7f" d="M39,38 l-27,0 0,-26 313,0 0,26 -26,0 0,365 26,0 0,26 -313,0 0,-26 27,0 0,-365z" />
+<path style="fill:#999" d="M60,38 l-21,0 0,-26 260,0 0,26 -22,0 0,365 22,0 0,26 -260,0 0,-26 21,0 0,-365z" />
+<path style="fill:#b2b2b2" d="M82,38 l-17,0 0,-26 208,0 0,26 -17,0 0,365 17,0 0,26 -208,0 0,-26 17,0 0,-365z" />
+<path style="fill:#ccc" d="M109,38 l-12,0 0,-26 143,0 0,26 -12,0 0,365 12,0 0,26 -143,0 0,-26 12,0 0,-365z" />
+<path style="fill:#e5e5e5" d="M136,38 l-6,0 0,-26 78,0 0,26 -7,0 0,365 7,0 0,26 -78,0 0,-26 6,0 0,-365z" />
+<path style="fill:#fff" d="M158,38 l-2,0 0,-26 26,0 0,26 -2,0 0,365 2,0 0,26 -26,0 0,-26 2,0 0,-365z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M110,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M162,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M214,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M110,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M162,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M214,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M299,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M266,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M26,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M58,377 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M299,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M266,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M26,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:#999;stroke:#000;stroke-width:2" d="M58,38 l13,0 0,26 -13,0 0,-26z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M39,403 l260,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M39,38 l260,0" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M39,38 l-27,0 0,-26 313,0 0,26 -26,0 0,365 26,0 0,26 -313,0 0,-26 27,0 0,-365" />
+
+</svg>

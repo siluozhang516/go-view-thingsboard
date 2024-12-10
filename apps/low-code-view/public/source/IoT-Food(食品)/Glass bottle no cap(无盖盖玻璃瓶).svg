@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 47.6 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_273);
+            }
+
+            .cls-2,
+            .cls-4 {
+                opacity: 0.7;
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_276);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_250);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_276-2);
+            }
+
+            .cls-5 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_273" x1="2.38" y1="76.57" x2="45.22" y2="76.57" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a9b1bb" />
+            <stop offset="0.09" stop-color="#61666b" />
+            <stop offset="0.29" stop-color="#686d73" />
+            <stop offset="0.59" stop-color="#7d8289" />
+            <stop offset="0.93" stop-color="#9ba1ab" />
+            <stop offset="1" stop-color="#767b82" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_276" x1="4.65" y1="74.43" x2="42.95" y2="74.43" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#61666b" />
+            <stop offset="0.09" stop-color="#696e73" />
+            <stop offset="0.22" stop-color="#7e8489" />
+            <stop offset="0.38" stop-color="#a1a7ae" />
+            <stop offset="0.5" stop-color="#bec5cc" />
+            <stop offset="0.93" stop-color="#9ba1ab" />
+            <stop offset="1" stop-color="#767b82" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_250" x1="31.65" y1="54.4" x2="38.93" y2="54.4" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" />
+            <stop offset="1" stop-color="#e2eaf2" stop-opacity="0.2" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_276-2" x1="13.7" y1="1.57" x2="33.65" y2="1.57" xlink:href="#未命名的渐变_276" />
+    </defs>
+    <title>Glass bottle no cap(无盖盖玻璃瓶)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_6" data-name="图层 6">
+            <g id="Glass_bottle_no_cap_无盖盖玻璃瓶_" data-name="Glass bottle no cap(无盖盖玻璃瓶)">
+                <path class="cls-1"
+                    d="M45.22,54.5v91.2a4.29,4.29,0,0,1-4.3,4.3H6.68a4.29,4.29,0,0,1-4.3-4.3V54.5c0-8.1,6.52-17.14,6.52-17.14l4.88-11.3L15.42,3.14H17L15.43,26,10.67,37.5c-.06.08-6,7.59-6,14.81v91.37a2,2,0,0,0,2,2H40.92a2,2,0,0,0,2-2V52.31c0-7.2-6-14.73-6-14.81L32.17,26,30.63,3.14h1.55l1.64,22.92,4.89,11.3S45.22,46.4,45.22,54.5Z" />
+                <path class="cls-2"
+                    d="M6.68,145.72a2,2,0,0,1-2-2V52.31c0-7.23,6-14.73,6-14.8L15.43,26,17,3.14H30.63L32.17,26l4.76,11.51c.06.07,6,7.61,6,14.8v91.37a2,2,0,0,1-2,2Z" />
+                <polygon class="cls-3" points="31.65 44.8 38.93 51.3 38.62 64 36.14 52.85 31.65 44.8" />
+                <polygon class="cls-4"
+                    points="32.76 0 14.58 0 13.7 0.92 13.7 2.22 14.58 3.14 32.76 3.14 33.65 2.22 33.65 0.92 32.76 0" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

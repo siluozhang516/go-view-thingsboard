@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 83.26">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #595651;
+            }
+
+            .cls-2 {
+                fill: #77736d;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Fiberglass square mesh grating（玻璃纤维方形网格格栅）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_17" data-name="图层 17">
+            <g id="Fiberglass_square_mesh_grating_玻璃纤维方形网格格栅_" data-name="Fiberglass square mesh grating（玻璃纤维方形网格格栅）">
+                <rect class="cls-1" x="4.9" y="10.55" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="19.01" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="27.46" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="35.91" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="44.36" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="52.81" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="61.27" width="142.2" height="3.88" />
+                <rect class="cls-1" x="4.9" y="69.72" width="142.2" height="3.88" />
+                <rect class="cls-1" x="10.63" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="20.98" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="31.33" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="41.68" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="52.03" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="62.38" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="72.73" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="83.07" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="93.42" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="103.77" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="114.12" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="124.47" y="5.23" width="4.66" height="72.79" />
+                <rect class="cls-1" x="134.82" y="5.23" width="4.66" height="72.79" />
+                <path class="cls-2" d="M150,83.26H0V0H150ZM4.84,78H145.16V5.23H4.84Z" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,132 @@
+ 
+<svg version="1.1" id="Layer_01" xmlns="http://www.w3.org/2000/svg"   x="0px" y="0px"
+	   viewBox="0 0 59 202" xmlns:agg="http://www.example.com" xml:space="preserve">
+
+<agg:params>
+    <agg:param  type="C" name="vapourColor" classes="vapour" description="Vapour Color" cssAttributes="fill"/>
+    <agg:param  type="C" name="activeColor" classes="active" description="Active Volume Color" cssAttributes="fill"/>
+    <agg:param  type="C" name="settlingColor" classes="settling" description="Settling Color" cssAttributes="fill"/>
+</agg:params>
+
+<style type="text/css" >
+	<![CDATA[
+		.stroke,.thin,.thick,.dash{
+			stroke-linecap:butt;
+			stroke-linejoin:round;
+			stroke: black;
+			fill:none;
+		}
+
+		.stroke,.dash{stroke-width:0.75;}
+
+		.thin {stroke-width:0.35;}
+
+		.thick {stroke-width:1;}
+		
+		.dash {
+			stroke-dasharray:4,3;
+		}
+	
+		.settling {
+			fill:#EC6683;
+		}
+		
+		.vapour {
+			fill:#FFCE00;
+		}
+		
+		.active {
+			fill:#7FE57F;
+		}
+	]]>
+</style>	
+
+<defs>
+	<linearGradient id="base" gradientUnits="userSpaceOnUse" x1="6.3013" y1="101" x2="53.0611" y2="101">
+		<stop  offset="0" style="stop-color:#010101"/>
+		<stop  offset="0.0551" style="stop-color:#343434"/>
+		<stop  offset="0.1195" style="stop-color:#6A6A6A"/>
+		<stop  offset="0.1848" style="stop-color:#979797"/>
+		<stop  offset="0.2496" style="stop-color:#BCBCBC"/>
+		<stop  offset="0.3138" style="stop-color:#DBDADA"/>
+		<stop  offset="0.3773" style="stop-color:#EFEEEE"/>
+		<stop  offset="0.4398" style="stop-color:#FBFCFC"/>
+		<stop  offset="0.5" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.5602" style="stop-color:#FBFCFC"/>
+		<stop  offset="0.6227" style="stop-color:#EFEEEE"/>
+		<stop  offset="0.6862" style="stop-color:#DBDADA"/>
+		<stop  offset="0.7504" style="stop-color:#BCBCBC"/>
+		<stop  offset="0.8152" style="stop-color:#979797"/>
+		<stop  offset="0.8805" style="stop-color:#6A6A6A"/>
+		<stop  offset="0.9449" style="stop-color:#343434"/>
+		<stop  offset="1" style="stop-color:#010101"/>
+	</linearGradient>
+</defs>
+ 	
+<path class="active" d="M52.55,107.107c0-10.417,0-20.834,0-31.251H6.45v31.251l6.977,4.125v43.573H6.45v14.341
+	l8.652,12.151l-4.443,3.151l2.534,3.554l4.443-3.142l6.934,9.73V180.98v-5.923h9.86v5.923v13.611
+	c6.043-8.481,12.077-16.963,18.12-25.445c0-4.78,0-9.561,0-14.341h-6.977v-43.573L52.55,107.107z"/>
+<path class="vapour" d="M34.43,7.399c0-2.137,0-4.263,0-6.399h-9.86v6.399L6.45,32.854v43.001H52.55
+	c0-14.331,0-28.671,0-43.001C46.507,24.373,40.474,15.88,34.43,7.399z"/>
+	
+<path opacity="0.25" fill="url(#base)" d="M52.55,110.46c0-1.121,0-63.275,0-77.605C46.507,24.373,40.474,15.88,34.43,7.399
+	c0-2.137,0-4.263,0-6.399h-9.86v6.399L6.45,32.854v101.549H1v4.368h5.45v30.374l8.652,12.151l-4.443,3.151l2.534,3.554l4.443-3.142
+	l6.934,9.73V201h9.86c0-0.631,0-3.164,0-6.409c6.043-8.481,12.077-16.963,18.12-25.445c0-4.78,0-40.992,0-54.318
+	c1.813,0,3.626,0,5.45,0v-4.368C56.176,110.46,54.363,110.46,52.55,110.46z"/>
+
+<path class="settling" d="M34.43,175.057c0,0,0,23.807,0,25.943h-9.86v-25.943H34.43z M6.45,107.107v27.296H1v4.368
+	h5.45v16.033h6.977v-43.573L6.45,107.107z M52.55,110.46c0-1.121,0-2.231,0-3.353l-6.977,4.125v43.573h6.977
+	c0-13.326,0-26.651,0-39.977c1.813,0,3.626,0,5.45,0v-4.368C56.176,110.46,54.363,110.46,52.55,110.46z"/>
+	
+<g class="dash">
+	<polyline points="24.567,194.595 24.567,175.062 34.433,175.062 34.433,194.595 	"/>
+	<rect x="18.98" y="87.26"  />
+</g>
+
+<g id="demister" class="thin">
+	<polyline points="14.706,21.253 14.706,25.237 44.7,25.237 44.7,21.824 	"/>
+	<line x1="15.528" y1="20.098" x2="20.681" y2="25.237"/>
+	<line x1="38.035" y1="25.237" x2="43.353" y2="19.932"/>
+	<line x1="41.367" y1="19.277" x2="44.7" y2="22.602"/>
+	<line x1="38.035" y1="19.277" x2="44.009" y2="25.237"/>
+	<line x1="34.702" y1="19.277" x2="40.676" y2="25.237"/>
+	<line x1="31.369" y1="19.277" x2="37.343" y2="25.237"/>
+	<line x1="28.037" y1="19.277" x2="34.011" y2="25.237"/>
+	<line x1="24.704" y1="19.277" x2="30.679" y2="25.237"/>
+	<line x1="21.371" y1="19.277" x2="27.345" y2="25.237"/>
+	<line x1="18.039" y1="19.277" x2="24.013" y2="25.237"/>
+	<line x1="14.706" y1="25.237" x2="20.681" y2="19.277"/>
+	<line x1="18.039" y1="25.237" x2="24.013" y2="19.277"/>
+	<line x1="21.371" y1="25.237" x2="27.345" y2="19.277"/>
+	<line x1="24.704" y1="25.237" x2="30.679" y2="19.277"/>
+	<line x1="28.037" y1="25.237" x2="34.011" y2="19.277"/>
+	<line x1="31.369" y1="25.237" x2="37.343" y2="19.277"/>
+	<line x1="34.702" y1="25.237" x2="40.676" y2="19.277"/>
+	<line x1="41.367" y1="25.237" x2="44.7" y2="21.913"/>
+	<line x1="16.112" y1="19.277" x2="42.888" y2="19.277"/>
+</g>
+
+<g class="stroke">
+	<polyline points="1.001,134.402 6.45,134.402 6.45,32.852 24.567,7.399 24.567,1 	"/>
+	<polyline points="10.659,184.444 15.103,181.297 6.45,169.142 6.45,138.767 1.001,138.767 	"/>
+	<polyline points="24.567,200.994 24.567,194.595 17.636,184.857 13.193,188.004 	"/>
+	<path d="M57.999,114.822c-1.816,0-3.633,0-5.449,0c0,18.106,0,36.213,0,54.319
+		c-6.039,8.485-12.078,16.969-18.117,25.453c0,2.133,0,4.267,0,6.399"/>
+	<path d="M34.433,1c0,2.133,0,4.266,0,6.399c6.039,8.484,12.078,16.969,18.117,25.453c0,25.868,0,51.736,0,77.604
+		c1.816,0,3.633,0,5.449,0"/>
+	<polyline points="52.55,107.11 45.572,111.235 45.572,154.804 52.55,154.804 	"/>
+	<polyline points="6.45,107.11 13.428,111.235 13.428,154.804 6.45,154.804 	"/>
+	<line x1="6.45" y1="75.85" x2="52.55" y2="75.85"/>
+	<line x1="6.45" y1="169.142" x2="52.55" y2="169.142"/>
+	<line x1="36.905" y1="200.994" x2="22.095" y2="200.994"/>
+	<line x1="24.567" y1="7.399" x2="34.433" y2="7.399"/>
+	<line x1="6.45" y1="32.852" x2="52.55" y2="32.852"/>
+</g>
+
+<g class="thick">
+	<line fill="none" x1="9.487" y1="182.797" x2="14.365" y2="189.65"/>
+	<line fill="none" x1="57.999" y1="108.437" x2="57.999" y2="116.842"/>
+	<line fill="none" x1="1.001" y1="132.382" x2="1.001" y2="140.787"/>
+	<line fill="none" x1="36.905" y1="1" x2="22.095" y2="1"/>
+</g>
+</svg>

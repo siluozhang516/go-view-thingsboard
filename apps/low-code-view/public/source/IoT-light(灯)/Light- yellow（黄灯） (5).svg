@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 88 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_22);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_22-2);
+            }
+
+            .cls-4 {
+                fill: #f4efb0;
+            }
+
+            .cls-5 {
+                fill: #ead934;
+            }
+
+            .cls-6 {
+                fill: #fff1ca;
+                opacity: 0.72;
+            }
+
+            .cls-7 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_22" y1="75" x2="88" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#333" />
+            <stop offset="0.03" stop-color="#3e3e3e" />
+            <stop offset="0.08" stop-color="#5d5d5d" />
+            <stop offset="0.1" stop-color="#6c6c6c" />
+            <stop offset="0.9" stop-color="#666" />
+            <stop offset="1" stop-color="#3a3a3a" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74" x1="5" y1="75" x2="83" y2="75" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_22-2" x1="17" x2="71" xlink:href="#未命名的渐变_22" />
+    </defs>
+    <title>Light- yellow（黄灯） (5)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_20" data-name="图层 20">
+            <g id="Light-_yellow_黄灯_" data-name="Light- yellow（黄灯）">
+                <rect class="cls-1" width="88" height="150" rx="5.69" />
+                <rect class="cls-2" x="5" y="5" width="78" height="140" rx="5.51" />
+                <rect class="cls-3" x="17" y="21" width="54" height="108" rx="5.51" />
+                <rect class="cls-4" x="20" y="25" width="48" height="100" rx="5.51" />
+                <path class="cls-5"
+                    d="M62.49,25H39l28.22,97.31a5.53,5.53,0,0,0,.78-2.82v-89A5.51,5.51,0,0,0,62.49,25Z" />
+                <rect class="cls-6" x="22" y="27" width="44" height="95" rx="5.51" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

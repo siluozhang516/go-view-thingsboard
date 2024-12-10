@@ -1,0 +1,27 @@
+
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="0.8568in" height="1.4792in" viewBox="0 0 307 530">
+
+<circle style="fill:#7f7f7f" cx="152" cy="152" r="137" />
+<circle style="fill:#999" cx="151" cy="151" r="125" />
+<circle style="fill:#b2b2b2" cx="152" cy="151" r="107" />
+<circle style="fill:#ccc" cx="152" cy="151" r="79" />
+<circle style="fill:#e5e5e5" cx="152" cy="151" r="56" />
+<circle style="fill:none;stroke:#000;stroke-width:2" cx="152" cy="152" r="137" />
+<circle style="fill:#fff" cx="152" cy="151" r="33" />
+<path style="fill:#7f7f7f" d="M171,289 l0,160 -33,0 0,-160 33,0z" />
+<path style="fill:#b2b2b2" d="M168,289 l0,160 -27,0 0,-160 27,0z" />
+<path style="fill:#e5e5e5" d="M164,289 l0,160 -19,0 0,-160 19,0z" />
+<path style="fill:#fff" d="M157,289 l0,160 -6,0 0,-160 6,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M138,289 l0,160" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M171,449 l0,-160" />
+<path style="fill:#7f7f7f" d="M15,515 l0,-137 277,137 0,-137 -277,137z" />
+<path style="fill:#999" d="M15,508 l0,-123 277,123 0,-123 -277,123z" />
+<path style="fill:#b2b2b2" d="M15,494 l0,-95 277,95 0,-95 -277,95z" />
+<path style="fill:#ccc" d="M15,480 l0,-67 277,67 0,-67 -277,67z" />
+<path style="fill:#e5e5e5" d="M15,469 l0,-45 277,45 0,-45 -277,45z" />
+<path style="fill:#fff" d="M15,455 l0,-17 277,17 0,-17 -277,17z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M15,515 l0,-137 277,137 0,-137 -277,137" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M103,215 l0,-150 50,150 50,-150 0,150" />
+
+</svg>

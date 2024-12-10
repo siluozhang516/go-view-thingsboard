@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150.17 108.35">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-3 {
+                fill: #cecece;
+            }
+
+            .cls-2 {
+                fill: #5b5b5b;
+            }
+
+            .cls-3 {
+                opacity: 0.66;
+            }
+
+            .cls-4 {
+                fill: #f4f4f4;
+            }
+
+            .cls-5 {
+                fill: #b0b0b1;
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_143-4);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_143-5);
+            }
+
+            .cls-11 {
+                fill: url(#未命名的渐变_143-6);
+            }
+
+            .cls-12 {
+                fill: url(#未命名的渐变_143-7);
+            }
+
+            .cls-13 {
+                fill: url(#未命名的渐变_143-8);
+            }
+
+            .cls-14 {
+                fill: #a2b4c6;
+            }
+
+            .cls-15 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="78.94" y1="13.12" x2="90.25" y2="13.12" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" x1="81.7" y1="25.47" x2="87.73" y2="25.47" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-3" x1="82.97" y1="16.59" x2="86.23" y2="16.59" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-4" x1="83.41" y1="21.71" x2="85.76" y2="21.71" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-5" x1="29.99" y1="13.12" x2="41.3" y2="13.12" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-6" x1="32.75" y1="25.47" x2="38.77" y2="25.47" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-7" x1="34.02" y1="16.59" x2="37.27" y2="16.59" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-8" x1="34.46" y1="21.71" x2="36.81" y2="21.71" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>Simple wire stripper（简易剥线钳）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_14" data-name="图层 14">
+            <g id="Simple_wire_stripper_简易剥线钳_" data-name="Simple wire stripper（简易剥线钳）">
+                <rect class="cls-1" x="3.1" y="43.44" width="26.89" height="60.81" />
+                <rect class="cls-1" x="116.24" width="30.82" height="104.25" />
+                <rect class="cls-1" x="29.99" y="26.48" width="60.26" height="39.3" />
+                <rect class="cls-2" x="29.99" y="65.77" width="60.26" height="9.79" />
+                <rect class="cls-3" x="29.99" y="75.57" width="60.26" height="14.82" />
+                <rect class="cls-2" x="29.99" y="90.39" width="60.26" height="14.82" />
+                <rect class="cls-1" x="90.25" y="42.93" width="25.99" height="61.32" />
+                <rect class="cls-4" x="120.1" y="34.23" width="23.79" height="41.78" />
+                <rect class="cls-5" x="120.1" y="5.58" width="23.79" height="25.03" />
+                <rect class="cls-2" y="95.94" width="150.17" height="8.3" />
+                <rect class="cls-6" x="78.94" y="12" width="11.31" height="2.24" />
+                <rect class="cls-7" x="81.7" y="24.46" width="6.02" height="2.02" />
+                <rect class="cls-8" x="82.97" y="14.24" width="3.26" height="4.71" />
+                <rect class="cls-9" x="83.41" y="18.95" width="2.35" height="5.51" />
+                <rect class="cls-10" x="29.99" y="12" width="11.31" height="2.24" />
+                <rect class="cls-11" x="32.75" y="24.46" width="6.02" height="2.02" />
+                <rect class="cls-12" x="34.02" y="14.24" width="3.26" height="4.71" />
+                <rect class="cls-13" x="34.46" y="18.95" width="2.35" height="5.51" />
+                <rect class="cls-3" y="104.25" width="150.17" height="4.1" />
+                <rect class="cls-2" x="124.43" y="10.14" width="15.14" height="15.93" />
+                <circle class="cls-14" cx="132" cy="18.1" r="6.55" />
+                <rect class="cls-2" x="127.14" y="52.12" width="9.72" height="4.6" />
+                <rect class="cls-14" x="127.14" y="58.43" width="9.72" height="4.6" />
+                <rect class="cls-4" x="42.54" y="35.47" width="35.16" height="21.3" />
+                <rect class="cls-14" x="42.54" y="35.47" width="35.16" height="6.83" />
+                <rect class="cls-2" x="90.25" y="42.93" width="0.81" height="54.36" />
+                <rect class="cls-2" x="115.44" y="42.93" width="0.81" height="54.36" />
+                <rect class="cls-2" x="29.16" y="43.49" width="0.81" height="54.36" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,79 @@
+ 
+<svg version="1.1" id="_x30_" xmlns:agg="http://www.example.com"
+	 xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" 
+	  viewBox="1.415 1.415 64.137 64.469" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param name="color" description="Color" type="C" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		opacity:0.5;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<radialGradient id="radial" cx="16.685" cy="73.816" r="53.843" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#4D5C75"/>
+	<stop  offset="0.4918" style="stop-color:#4D5C75"/>
+	<stop  offset="0.5077" style="stop-color:#616F85"/>
+	<stop  offset="0.5481" style="stop-color:#8E99A9"/>
+	<stop  offset="0.5888" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.629" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.6689" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.7081" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.7459" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.7837" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.8229" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.8628" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.903" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.9437" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9841" style="stop-color:#616F85"/>
+	<stop  offset="1" style="stop-color:#4D5C75"/>
+</radialGradient>
+
+<path fill="url(#radial)"  d="M54.754,35.74c-10.09-10.09-23.789-15.77-38.069-15.77H1.415v27.36h15.27c7.021,0,13.759,2.791,18.729,7.75l-0.006,0.006l10.797,10.798l19.347-19.347L54.754,35.74z"/>
+
+<linearGradient id="horizontal" gradientUnits="userSpaceOnUse" x1="0" y1="19.97" x2="0" y2="47.33">
+	<stop  offset="0" style="stop-color:#4D5C75"/>
+	<stop  offset="0.0313" style="stop-color:#616F85"/>
+	<stop  offset="0.1108" style="stop-color:#8E99A9"/>
+	<stop  offset="0.1908" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.27" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.3485" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.4256" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.5" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.5744" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.6515" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.73" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.8092" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.8892" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9687" style="stop-color:#616F85"/>
+	<stop  offset="1" style="stop-color:#4D5C75"/>
+</linearGradient>
+
+<rect id="segment" fill="url(#horizontal)" x="1.415" y="19.97"  />
+<g transform="translate(67.875,20.618)">
+	<use xlink:href="#segment" transform="rotate(45)" />
+</g>
+
+<path class="color" d="M54.754,35.74c-10.09-10.09-23.789-15.77-38.069-15.77H1.415v27.36h15.27c7.021,0,13.759,2.791,18.729,7.75l-0.006,0.006l10.797,10.798l19.347-19.347L54.754,35.74z"/>
+<path class="stroke" d="M65.552,46.537L54.754,35.74c-10.09-10.09-23.789-15.77-38.069-15.77H1.415"/>
+<path class="stroke" d="M1.415,47.33h15.27c7.021,0,13.759,2.791,18.729,7.75l-0.006,0.006l10.797,10.798"/>
+	
+</svg>

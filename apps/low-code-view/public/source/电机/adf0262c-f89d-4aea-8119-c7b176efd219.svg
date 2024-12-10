@@ -1,0 +1,102 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="-1 -1 132 62" xmlns:agg="http://www.example.com" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.5px;
+		opacity:0.5;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<defs>
+	<linearGradient id="rib" gradientUnits="userSpaceOnUse" x1="-9.7022" y1="23.3262" x2="107.278" y2="23.3262">
+		<stop  offset="0" style="stop-color:#757575"/>
+		<stop  offset="0.1479" style="stop-color:#848484"/>
+		<stop  offset="0.4321" style="stop-color:#a7a7a7"/>
+		<stop  offset="0.8273" style="stop-color:#e0e0e0"/>
+		<stop  offset="1" style="stop-color:#fcfcfc"/>
+	</linearGradient>
+	<linearGradient id="base" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="59.6903">
+		<stop  offset="0" style="stop-color:#767676"/>
+		<stop  offset="0.06" style="stop-color:#919191"/>
+		<stop  offset="0.14" style="stop-color:#B1B1B1"/>
+		<stop  offset="0.21" style="stop-color:#CECECE"/>
+		<stop  offset="0.28" style="stop-color:#E4E4E4"/>
+		<stop  offset="0.35" style="stop-color:#F6F6F6"/>
+		<stop  offset="0.42" style="stop-color:#FEFEFF"/>
+		<stop  offset="0.47" style="stop-color:#F6F6F6"/>
+		<stop  offset="0.53" style="stop-color:#E7E7E7"/>
+		<stop  offset="0.58" style="stop-color:#D2D1D1"/>
+		<stop  offset="0.64" style="stop-color:#B7B7B7"/>
+		<stop  offset="0.7" style="stop-color:#989898"/>
+		<stop  offset="0.72" style="stop-color:#8B8B8B"/>
+		<stop  offset="1" style="stop-color:#FDFDFD"/>
+	</linearGradient>
+	<linearGradient id="base2" xlink:href="#base" x1="117.712" y1="26.7266" x2="117.712" y2="33.4237"/>
+	<linearGradient id="base3" xlink:href="#base" x1="102.474" y1="23.2901" x2="102.474" y2="36.6142"/>
+
+	<g id="ribs">
+		<polygon points="73.961,22.405 73.961,24.249 12.066,24.249 12.066,22.405 "/>
+		<polygon points="73.961,29.078 73.961,30.922 12.066,30.922 12.066,29.078 "/>
+		<polygon points="73.961,35.749 73.961,37.593 12.066,37.593 12.066,35.749 "/>
+		<polygon points="73.961,42.093 73.961,43.937 12.066,43.937 12.066,42.093 "/>
+		<polygon points="73.961,47.783 73.961,49.627 12.066,49.627 12.066,47.783 "/>
+		<polygon points="73.961,52.526 73.961,54.37 12.066,54.37 12.066,52.526 "/>
+		<polygon points="73.961,56.097 73.961,57.94 12.066,57.94 12.066,56.097 "/>
+		<polygon points="73.961,16.063 73.961,17.907 12.066,17.907 12.066,16.063 "/>
+		<polygon points="73.961,10.371 73.961,12.226 12.066,12.226 12.066,10.371 "/>
+		<polygon points="73.961,5.628 73.961,7.472 12.066,7.472 12.066,5.628 "/>
+		<polygon points="73.961,2.057 73.961,3.901 12.066,3.901 12.066,2.057 "/>
+	</g>
+	
+	<path id="boundary" d="M105.425,26.615c0-1.131,0-2.271,0-3.402
+		c-1.48,0-2.952,0-4.422,0C97.849,9.623,85.73,0,71.777,0C51.866,0,10.52,0,9.752,0C4.358,0,0,4.37,0,9.752
+		c0,13.494,0,26.999,0,40.493c0,5.381,4.36,9.753,9.753,9.753c0.768,0,57.43,0,62.024,0c14.058,0,26.23-9.765,29.279-23.483
+		c1.451,0,2.908,0,4.37,0c0-1.044,0-2.087,0-3.133H130v-6.768H105.425z"/>
+</defs>
+	 
+<path fill="url(#base)" d="M101.004,23.214C97.85,9.624,85.73,0,71.777,0C51.866,0,10.521,0,9.753,0C4.359,0,0,4.371,0,9.753
+	c0,13.494,0,26.999,0,40.493C0,55.627,4.36,60,9.753,60c0.768,0,57.43,0,62.024,0c14.058,0,26.23-9.765,29.279-23.483
+	L101.004,23.214z"/>
+	
+<path fill="url(#base2)" d="M129.999,26.615v6.768h-24.573c0-2.26,0-4.507,0-6.768H129.999z"/>
+<path fill="url(#base3)" d="M105.426,33.383c0,1.046,0,2.09,0,3.135c-1.461,0-2.918,0-4.369,0c-0.023,0-0.033,0-0.053,0
+	c-1.975-4.221-1.975-9.083,0-13.303c1.47,0,2.941,0,4.421,0c0,1.131,0,2.271,0,3.4C105.426,28.875,105.426,31.123,105.426,33.383z"
+	/>
+	
+<g class="stroke">
+	<line x1="71.776" y1="0" x2="71.776" y2="60"/>
+	<line x1="12.066" y1="0" x2="12.066" y2="60"/>
+</g>
+
+<use xlink:href="#ribs" fill="url(#rib)"/>
+	
+<use xlink:href="#boundary" class="color"/>
+
+<g class="stroke">
+	<use xlink:href="#ribs"/>
+	<use xlink:href="#boundary"/>
+	<line x1="105.426" y1="26.615" x2="105.426" y2="33.383"/>
+	<path d="M101.004,23.215 c-1.975,4.221-1.975,9.082,0,13.303"/>
+</g>
+	
+</svg>

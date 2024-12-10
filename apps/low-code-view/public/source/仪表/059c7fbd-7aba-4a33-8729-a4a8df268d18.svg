@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="170 -370 560 960" style="enable-background:new 170 -370 560 960;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#02687B;}
+	.st1{fill:#31A3BA;}
+	.st2{fill:#007697;}
+	.st3{fill:#5CBDD8;}
+	.st4{fill:#90E8FF;}
+	.st5{fill:#08657E;}
+</style>
+<g>
+	<rect id="XMLID_11_" x="324" y="-219.3" class="st0" width="86" height="482"/>
+	<polygon class="st1" points="324,-219.3 324,262.7 334,259.3 334,-206.2 	"/>
+	<polygon id="XMLID_9_" class="st2" points="594,503.7 508,503.7 324,262.7 410,262.7 	"/>
+	<g>
+		<polygon id="XMLID_20_" class="st3" points="605,409.5 479,409.5 295,168.5 421,168.5 		"/>
+		<polygon class="st3" points="295,160.7 295,168.5 302.3,178.1 309,169.4 		"/>
+		<polygon class="st3" points="605,401.7 605,409.5 590.5,409.2 590.5,396.2 		"/>
+		<polygon id="XMLID_18_" class="st4" points="605,401.7 479,401.7 295,160.7 421,160.7 		"/>
+	</g>
+	<g>
+		<polygon id="XMLID_17_" class="st3" points="605,329.9 479,329.9 295,88.9 421,88.9 		"/>
+		<polygon class="st3" points="295,81 295,88.8 302.3,98.4 309,89.7 		"/>
+		<polygon class="st3" points="605,322 605,329.9 590.5,329.5 590.5,316.5 		"/>
+		<polygon id="XMLID_16_" class="st4" points="605,322 479,322 295,81 421,81 		"/>
+	</g>
+	<g>
+		<polygon id="XMLID_15_" class="st3" points="605,250.2 479,250.2 295,9.2 421,9.2 		"/>
+		<polygon class="st3" points="295,1.4 295,9.2 302.3,18.8 309,10.1 		"/>
+		<polygon class="st3" points="605,242.4 605,250.2 590.5,249.9 590.5,236.9 		"/>
+		<polygon id="XMLID_14_" class="st4" points="605,242.4 479,242.4 295,1.4 421,1.4 		"/>
+	</g>
+	<g>
+		<polygon id="XMLID_12_" class="st3" points="605,170.6 479,170.6 295,-70.4 421,-70.4 		"/>
+		<polygon class="st3" points="295,-78.3 295,-70.5 302.3,-60.9 309,-69.6 		"/>
+		<polygon class="st3" points="605,162.7 605,170.6 590.5,170.2 590.5,157.2 		"/>
+		<polygon id="XMLID_13_" class="st4" points="605,162.7 479,162.7 295,-78.3 421,-78.3 		"/>
+	</g>
+	<g>
+		<polygon id="XMLID_22_" class="st3" points="605,90.9 479,90.9 295,-150.1 421,-150.1 		"/>
+		<polygon class="st3" points="295,-157.9 295,-150.1 302.3,-140.5 309,-149.2 		"/>
+		<polygon class="st3" points="605,83.1 605,90.9 590.5,90.6 590.5,77.6 		"/>
+		<polygon id="XMLID_21_" class="st4" points="605,83.1 479,83.1 295,-157.9 421,-157.9 		"/>
+	</g>
+	<rect id="XMLID_10_" x="508" y="21.7" class="st5" width="86" height="482"/>
+	<polygon id="XMLID_8_" class="st2" points="594,21.7 508,21.7 324,-219.3 410,-219.3 	"/>
+	<path class="st5" d="M505.3,488"/>
+	<polygon class="st1" points="508,21.7 498,25.1 324,-202.8 324,-219.3 	"/>
+	<polygon class="st1" points="508,503.7 508,21.7 498,25.1 498,474.1 	"/>
+	<polygon class="st1" points="508,503.7 498,474.1 334,259.3 324,262.7 	"/>
+</g>
+</svg>

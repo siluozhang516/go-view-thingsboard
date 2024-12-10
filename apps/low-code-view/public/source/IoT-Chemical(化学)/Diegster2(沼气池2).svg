@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 47.6 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_397);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_19);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_9);
+            }
+
+            .cls-4,
+            .cls-5,
+            .cls-7 {
+                opacity: 0.2;
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_376);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_376-2);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_30);
+            }
+        </style>
+        <linearGradient id="未命名的渐变_397" x1="109.83" y1="193.79" x2="85.77" y2="193.79"
+            gradientTransform="translate(-74 -76)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#767b82" />
+            <stop offset="0.07" stop-color="#9ba1ab" />
+            <stop offset="0.22" stop-color="#e2eaf2" />
+            <stop offset="0.28" stop-color="#d1d8e0" />
+            <stop offset="0.49" stop-color="#a1a7ae" />
+            <stop offset="0.67" stop-color="#7e8489" />
+            <stop offset="0.81" stop-color="#696e73" />
+            <stop offset="0.91" stop-color="#61666b" />
+            <stop offset="1" stop-color="#a9b1bb" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_19" x1="107.45" y1="173.09" x2="88.22" y2="173.09"
+            gradientTransform="matrix(1, 0, 0, -1, -74, 217.62)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#767b82" />
+            <stop offset="0.07" stop-color="#9ba1ab" />
+            <stop offset="0.25" stop-color="#e2eaf2" />
+            <stop offset="0.31" stop-color="#d1d8e0" />
+            <stop offset="0.51" stop-color="#a1a7ae" />
+            <stop offset="0.68" stop-color="#7e8489" />
+            <stop offset="0.82" stop-color="#696e73" />
+            <stop offset="0.91" stop-color="#61666b" />
+            <stop offset="1" stop-color="#a9b1bb" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_9" x1="12.67" y1="53.52" x2="33.92" y2="61.25"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 141.62)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a9b1bb" />
+            <stop offset="0.09" stop-color="#61666b" />
+            <stop offset="0.19" stop-color="#696e73" />
+            <stop offset="0.33" stop-color="#7e8489" />
+            <stop offset="0.51" stop-color="#a1a7ae" />
+            <stop offset="0.72" stop-color="#d1d8e0" />
+            <stop offset="0.78" stop-color="#e2eaf2" />
+            <stop offset="0.93" stop-color="#9ba1ab" />
+            <stop offset="1" stop-color="#767b82" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_376" x1="23.8" y1="85.63" x2="23.8" y2="95.77" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2e3033" />
+            <stop offset="1" stop-color="#9ba1ab" stop-opacity="0" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_376-2" x1="23.84" y1="7.48" x2="23.84" y2="17.62" xlink:href="#未命名的渐变_376" />
+        <linearGradient id="未命名的渐变_30" x1="29.19" y1="1.03" x2="18.48" y2="11.74" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#767b82" />
+            <stop offset="0.07" stop-color="#9ba1ab" />
+            <stop offset="0.26" stop-color="#e2eaf2" />
+            <stop offset="0.32" stop-color="#d1d8e0" />
+            <stop offset="0.51" stop-color="#a1a7ae" />
+            <stop offset="0.68" stop-color="#7e8489" />
+            <stop offset="0.82" stop-color="#696e73" />
+            <stop offset="0.91" stop-color="#61666b" />
+            <stop offset="1" stop-color="#a9b1bb" />
+        </linearGradient>
+    </defs>
+    <title>Diegster2(沼气池2)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_16" data-name="图层 16">
+            <g id="Diegster2_沼气池2_" data-name="Diegster2(沼气池2)">
+                <polyline class="cls-1" points="35.83 85.58 35.83 150 11.77 150 11.77 85.58" />
+                <polyline class="cls-2" points="33.45 81.58 33.45 7.48 14.22 7.48 14.22 81.58" />
+                <polygon class="cls-3" points="33.45 81.58 14.22 81.58 11.77 85.63 35.83 85.63 33.45 81.58" />
+                <rect class="cls-4" x="11.74" y="85.63" width="24.13" height="10.14" />
+                <rect class="cls-5" x="14.22" y="7.48" width="19.22" height="10.14" />
+                <path class="cls-6" d="M33.45,7.48A9.44,9.44,0,0,0,23.83,0a9.44,9.44,0,0,0-9.61,7.48Z" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

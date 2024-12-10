@@ -1,0 +1,12 @@
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="0.4521in" height="1.4792in" viewBox="0 0 162 530">
+
+<path style="fill:#7f7f7f" d="M15,515 l0,-500 132,0 0,500 -132,0z" />
+<path style="fill:#999" d="M23,515 l0,-500 116,0 0,500 -116,0z" />
+<path style="fill:#b2b2b2" d="M37,515 l0,-500 88,0 0,500 -88,0z" />
+<path style="fill:#ccc" d="M51,515 l0,-500 61,0 0,500 -61,0z" />
+<path style="fill:#e5e5e5" d="M61,515 l0,-500 39,0 0,500 -39,0z" />
+<path style="fill:#fff" d="M73,515 l0,-500 16,0 0,500 -16,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M147,515 l0,-500" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M15,15 l0,500" />
+
+</svg>

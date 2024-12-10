@@ -1,0 +1,91 @@
+ 
+<svg version="1.1" id="Layer_01" xmlns:agg="http://www.example.com"
+	 xmlns="http://www.w3.org/2000/svg"   x="0px" y="0px" 
+	  viewBox="0 0 58.922 68.711" enable-background="new 0 0 58.922 68.711" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param name="color" description="Color" type="C" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		opacity:0.5;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+	 
+<linearGradient id="flange" gradientUnits="userSpaceOnUse" x1="15.4287" y1="53.7754" x2="43.4867" y2="5.1775">
+	<stop  offset="0.0051" style="stop-color:#4D5C75"/>
+	<stop  offset="0.1145" style="stop-color:#5C6780"/>
+	<stop  offset="0.331" style="stop-color:#828B9E"/>
+	<stop  offset="0.4303" style="stop-color:#99A3B2"/>
+	<stop  offset="0.5091" style="stop-color:#AEB7C4"/>
+	<stop  offset="0.9997" style="stop-color:#D5DEE3"/>
+</linearGradient>
+
+<circle fill="url(#flange)" cx="29.458" cy="29.477" r="28.055"/>
+	
+<g opacity="0.3" fill="black">
+	<polygon points="47.522,18.038 48.737,13.504 45.418,10.186 40.886,11.401 39.671,15.934 42.989,19.252 	"/>
+	<polygon points="50.32,34.162 54.384,31.815 54.384,27.123 50.32,24.776 46.256,27.123 46.256,31.815 	"/>
+	<polygon points="40.896,47.541 45.43,48.756 48.748,45.438 47.533,40.904 43,39.69 39.682,43.008 	"/>
+	<polygon points="11.393,40.915 10.178,45.448 13.497,48.767 18.03,47.552 19.244,43.019 15.926,39.701 	"/>
+	<polygon points="8.596,24.791 4.531,27.138 4.531,31.831 8.596,34.177 12.66,31.831 12.66,27.138 	"/>
+	<polygon points="18.019,11.412 13.486,10.197 10.167,13.516 11.382,18.048 15.915,19.263 19.233,15.945 	"/>
+	<polygon points="34.143,8.614 31.796,4.55 27.104,4.55 24.757,8.614 27.104,12.679 31.796,12.679 	"/>
+</g>
+
+<radialGradient id="radial" gradientUnits="userSpaceOnUse" cx="29.458" cy="29.477" r="13.669">
+	<stop  offset="0" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.1488" style="stop-color:#F3F6F9"/>
+	<stop  offset="0.303" style="stop-color:#E6EAEE"/>
+	<stop  offset="0.46" style="stop-color:#D2D8DF"/>
+	<stop  offset="0.6184" style="stop-color:#B5BCC7"/>
+	<stop  offset="0.7784" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9374" style="stop-color:#627086"/>
+	<stop  offset="1" style="stop-color:#4F5D75"/>
+</radialGradient>
+<circle fill="url(#radial)" cx="29.458" cy="29.477" r="13.669"/>
+
+<linearGradient id="tube" gradientUnits="userSpaceOnUse" x1="15.7886" y1="49.0938" x2="43.1265" y2="49.0938">
+	<stop  offset="0" style="stop-color:#4F5D75"/>
+	<stop  offset="0.0313" style="stop-color:#627086"/>
+	<stop  offset="0.1108" style="stop-color:#8E99A9"/>
+	<stop  offset="0.1908" style="stop-color:#B5BCC7"/>
+	<stop  offset="0.27" style="stop-color:#D2D8DF"/>
+	<stop  offset="0.3485" style="stop-color:#E6EAEE"/>
+	<stop  offset="0.4256" style="stop-color:#F3F6F9"/>
+	<stop  offset="0.5" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.5744" style="stop-color:#F3F6F9"/>
+	<stop  offset="0.6515" style="stop-color:#E6EAEE"/>
+	<stop  offset="0.73" style="stop-color:#D2D8DF"/>
+	<stop  offset="0.8092" style="stop-color:#B5BCC7"/>
+	<stop  offset="0.8892" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9687" style="stop-color:#627086"/>
+	<stop  offset="1" style="stop-color:#4F5D75"/>
+</linearGradient>
+<rect x="15.789" y="29.477" fill="url(#tube)"  />
+
+<path class="color" d="M57.513,29.477c0-15.495-12.562-28.055-28.055-28.055c-15.494,0-28.055,12.561-28.055,28.055
+	c0,10.53,5.805,19.7,14.386,24.499v14.735h27.338V53.976C51.708,49.177,57.513,40.007,57.513,29.477z"/>
+
+<path class="stroke" d="M15.786,53.981C7.205,49.183,1.403,40.007,1.403,29.477
+	c0-15.495,12.561-28.055,28.055-28.055c15.494,0,28.055,12.561,28.055,28.055c0,10.531-5.803,19.707-14.385,24.504"/>
+<path class="stroke" d="M43.127,68.711V29.477c0-7.549-6.12-13.669-13.669-13.669
+	s-13.669,6.12-13.669,13.669v39.234"/>
+
+</svg>

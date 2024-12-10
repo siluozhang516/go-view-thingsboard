@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" id="Layer_01" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="0 0 54 192" xml:space="preserve" xmlns:agg="http://www.example.com" >
+
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke,.thin,.thick{
+		stroke-linecap:butt;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+		opacity:0.5;
+	}
+
+	.stroke{stroke-width:0.5;}
+
+	.thin {stroke-width:0.25;}
+
+	.thick {stroke-width:0.75;}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<defs>
+	<linearGradient id="cyl" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#757575"/>
+		<stop  offset="0.0583" style="stop-color:#959595"/>
+		<stop  offset="0.132" style="stop-color:#BABABA"/>
+		<stop  offset="0.2058" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.2788" style="stop-color:#EBEBEB"/>
+		<stop  offset="0.3507" style="stop-color:#F8F8F8"/>
+		<stop  offset="0.42" style="stop-color:#FCFCFC"/>
+		<stop  offset="0.4749" style="stop-color:#F8F8F8"/>
+		<stop  offset="0.5318" style="stop-color:#EBEBEB"/>
+		<stop  offset="0.5897" style="stop-color:#D7D7D7"/>
+		<stop  offset="0.6481" style="stop-color:#BABABA"/>
+		<stop  offset="0.7066" style="stop-color:#959595"/>
+		<stop  offset="0.72" style="stop-color:#8B8B8B"/>
+		<stop  offset="1" style="stop-color:#FCFCFC"/>
+	</linearGradient>
+	
+	<linearGradient id="cyl_1" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="19.0854" y1="187.0435" x2="34.9146" y2="187.0435"/>
+	<linearGradient id="cyl_2" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="14.0605" y1="163.2935" x2="39.9395" y2="163.2935"/>
+	<linearGradient id="cyl_3" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="19.0854" y1="127.668" x2="34.9146" y2="127.668"/>
+	<linearGradient id="cyl_4" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="19.0854" y1="103.4399" x2="34.9146" y2="103.4399"/>
+	<linearGradient id="cyl_5" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="16.0967" y1="108.3833" x2="37.9033" y2="108.3833"/>
+	<linearGradient id="cyl_6" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="16.0967" y1="90.1099" x2="37.9033" y2="90.1099"/>
+	<linearGradient id="cyl_7" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="1" y1="75.8931" x2="53" y2="75.8931"/>
+	<linearGradient id="cyl_8" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="5.7749" y1="46.7559" x2="48.2251" y2="46.7559"/>
+	<linearGradient id="cyl_9" xlink:href="#cyl" gradientUnits="userSpaceOnUse" x1="1" y1="10.498" x2="53" y2="10.498"/>
+	
+	<linearGradient id="flat" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0051" style="stop-color:#757575"/>
+		<stop  offset="0.1931" style="stop-color:#868686"/>
+		<stop  offset="0.5576" style="stop-color:#B2B2B2"/>
+		<stop  offset="0.5636" style="stop-color:#C4C4C4"/>
+		<stop  offset="0.9997" style="stop-color:#FCFCFC"/>
+	</linearGradient>
+	
+	<linearGradient id="flat_1" xlink:href="#flat" x1="18.1162" y1="53.9634" x2="0.1052" y2="29.1374"/>
+	<linearGradient id="flat_2" xlink:href="#flat" x1="56.4663" y1="59.4824" x2="33.0398" y2="32.1515"/>
+</defs>	
+ 
+<rect x="1" y="29.494" fill="url(#flat_1)"  />
+<rect x="37.031" y="29.494" fill="url(#flat_2)"  />
+
+<g id="cyl">
+	<rect x="19.085" y="183.087" fill="url(#cyl_1)"  />
+	<rect x="14.061" y="143.5" fill="url(#cyl_2)"  />
+	<rect x="19.085" y="111.836" fill="url(#cyl_3)"  />
+	<rect x="19.085" y="101.95" fill="url(#cyl_4)"  />
+	<rect x="16.097" y="104.93" fill="url(#cyl_5)"  />
+	<rect x="16.097" y="78.27" fill="url(#cyl_6)"  />
+	<rect x="1" y="73.516" fill="url(#cyl_7)"  />
+	<path fill="url(#cyl_8)" d="M48.225,62.752v10.764H5.775V53.245h11.184v-23.75H5.775v-9.498c14.153,0,28.297,0,42.45,0v9.498
+		H37.031v33.258H48.225z"/>
+	<path fill="url(#cyl_9)" d="M53,5.744c0,4.754,0,9.498,0,14.252c-1.594,0-3.179,0-4.775,0c-14.153,0-28.297,0-42.45,0
+		c-1.595,0-3.18,0-4.775,0c0-4.754,0-9.498,0-14.252C1,3.123,3.137,1,5.775,1c14.153,0,28.297,0,42.45,0C50.863,1,53,3.123,53,5.744
+		z"/>
+</g>
+
+<path id="boundary" class="color" d="M53,19.996c0-4.754,0-9.498,0-14.252
+	C53,3.123,50.863,1,48.225,1C34.072,1,19.928,1,5.775,1C3.137,1,1,3.123,1,5.744c0,4.754,0,9.498,0,14.252c1.594,0,3.18,0,4.775,0
+	v9.498H1v23.75h4.775v20.271H1v4.754h15.097v23.68h2.989v2.98h-2.989v6.906h2.989V143.5h-5.025v39.587h5.025V191h15.829v-7.913
+	h5.025V143.5h-5.025v-31.664h2.989v-6.906h-2.989v-2.98h2.989V78.27H53v-4.754h-4.775V62.752H53V29.494h-4.775v-9.498
+	C49.821,19.996,51.406,19.996,53,19.996z"/>
+	
+<g class="stroke">
+	<polyline points="53,29.494 48.225,29.494 43.29,29.494 37.031,29.494 	"/>
+	<line x1="53" y1="62.752" x2="53" y2="29.494"/>
+	<polyline points="37.031,62.752 43.29,62.752 48.225,62.752 53,62.752 	"/>
+	<line x1="37.031" y1="29.494" x2="37.031" y2="62.752"/>
+	<polyline points="16.959,53.245 10.71,53.245 5.775,53.245 1,53.245 	"/>
+	<line x1="16.959" y1="29.494" x2="16.959" y2="53.245"/>
+	<polyline points="1,29.494 5.775,29.494 10.71,29.494 16.959,29.494 	"/>
+	<line x1="1" y1="53.245" x2="1" y2="29.494"/>
+	<line x1="43.29" y1="62.752" x2="43.29" y2="29.494"/>
+	<line x1="5.775" y1="73.516" x2="5.775" y2="53.245"/>
+	<line x1="48.225" y1="29.494" x2="48.225" y2="19.996"/>
+	<line x1="5.775" y1="29.494" x2="5.775" y2="19.996"/>
+	<line x1="48.225" y1="73.516" x2="48.225" y2="62.752"/>
+	<line x1="10.71" y1="53.245" x2="10.71" y2="29.494"/>
+	<path d="M5.775,19.996
+		c-1.595,0-3.18,0-4.775,0c0-4.754,0-9.498,0-14.252C1,3.123,3.137,1,5.775,1c14.153,0,28.297,0,42.45,0C50.863,1,53,3.123,53,5.744
+		c0,4.754,0,9.498,0,14.252c-1.594,0-3.179,0-4.775,0C34.072,19.996,19.928,19.996,5.775,19.996z"/>
+	<polyline points="16.097,78.27 16.097,101.95 19.085,101.95 34.915,101.95 37.903,101.95 37.903,78.27 	"/>
+	<polygon points="48.225,73.516 53,73.516 53,78.27 37.903,78.27 16.097,78.27 1,78.27 1,73.516 5.775,73.516 	"/>
+	<polyline points="19.085,183.087 19.085,191 34.915,191 34.915,183.087 	"/>
+	<line x1="34.915" y1="111.836" x2="34.915" y2="143.5"/>
+	<line x1="19.085" y1="111.836" x2="19.085" y2="143.5"/>
+	<line x1="34.915" y1="101.95" x2="34.915" y2="104.93"/>
+	<line x1="19.085" y1="101.95" x2="19.085" y2="104.93"/>
+	<polygon points="19.085,104.93 16.097,104.93 16.097,111.836 19.085,111.836 34.915,111.836 37.903,111.836 37.903,104.93 34.915,104.93 	"/>
+	<polygon points="19.085,143.5 14.061,143.5 14.061,183.087 19.085,183.087 34.915,183.087 39.939,183.087 39.939,143.5 34.915,143.5 	"/>
+</g>
+</svg>

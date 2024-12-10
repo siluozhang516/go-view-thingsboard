@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 138.33 149.83">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: #dadada;
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_85);
+            }
+
+            .cls-4 {
+                fill: #bab9ba;
+            }
+
+            .cls-5 {
+                fill: none;
+                stroke: #bab9ba;
+                stroke-miterlimit: 10;
+                stroke-width: 0.5px;
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_74-3);
+            }
+
+            .cls-8 {
+                fill: #aad6d8;
+            }
+
+            .cls-9 {
+                fill: #c1a0b4;
+            }
+
+            .cls-10 {
+                fill: #e2be72;
+            }
+
+            .cls-11 {
+                fill: #3e3938;
+            }
+
+            .cls-12 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="12.39" y1="91.58" x2="125.92" y2="91.58" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_85" x1="12.39" y1="20.64" x2="125.92" y2="20.64" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.11" stop-color="#767676" />
+            <stop offset="0.3" stop-color="#959595" />
+            <stop offset="0.41" stop-color="#aaa" />
+            <stop offset="0.68" stop-color="#acacac" />
+            <stop offset="0.78" stop-color="#b3b3b3" />
+            <stop offset="0.85" stop-color="#bebebe" />
+            <stop offset="0.91" stop-color="#cfcfcf" />
+            <stop offset="0.95" stop-color="#e5e5e5" />
+            <stop offset="0.99" stop-color="#f6f6f6" />
+            <stop offset="0.99" stop-color="#ededed" />
+            <stop offset="0.99" stop-color="#d4d4d4" />
+            <stop offset="0.99" stop-color="#adadad" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="26.68" y1="61.36" x2="46.58" y2="61.36" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-3" x1="91.15" y1="62.21" x2="111.05" y2="62.21" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>Starter（启动装置）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_59" data-name="图层 59">
+            <g id="Starter_启动装置_" data-name="Starter（启动装置）">
+                <rect class="cls-1" x="12.39" y="41.27" width="113.53" height="100.61" />
+                <rect class="cls-2" x="21.69" y="43.2" width="95.35" height="42.79" rx="1.16" />
+                <path class="cls-3"
+                    d="M13.35,0H125a1,1,0,0,1,1,1V41.27a0,0,0,0,1,0,0H12.39a0,0,0,0,1,0,0V1a1,1,0,0,1,1-1Z" />
+                <rect class="cls-2" x="25.76" y="12.38" width="87.01" height="20.78" rx="1.4" />
+                <rect class="cls-4" x="130.06" y="41.95" width="8.27" height="81.56" rx="0.52" />
+                <rect class="cls-4" x="4.12" y="35.96" width="8.27" height="89.19" rx="0.52" />
+                <rect class="cls-4" y="33.89" width="4.12" height="92.65" rx="0.52" />
+                <rect class="cls-5" x="23.79" y="45.69" width="90.58" height="37.8" rx="0.79" />
+                <rect class="cls-4" x="11.25" y="141.88" width="115.6" height="7.94" rx="0.68" />
+                <path class="cls-6"
+                    d="M46.58,60.6a9.93,9.93,0,0,0-5.83-9,3.53,3.53,0,0,0-3.52-3.45h-1a3.51,3.51,0,0,0-3.49,3.33,9.95,9.95,0,0,0,0,18.28v1.33a3.54,3.54,0,0,0,3.53,3.54h1a3.55,3.55,0,0,0,3.54-3.54V69.62A9.93,9.93,0,0,0,46.58,60.6Z" />
+                <circle class="cls-4" cx="36.63" cy="60.6" r="8.81" />
+                <path class="cls-7"
+                    d="M111.05,61.46a9.94,9.94,0,0,0-5.82-9A3.53,3.53,0,0,0,101.71,49h-1a3.51,3.51,0,0,0-3.49,3.34,9.93,9.93,0,0,0,0,18.27v1.34a3.53,3.53,0,0,0,3.53,3.53h1a3.53,3.53,0,0,0,3.53-3.53V70.48A9.94,9.94,0,0,0,111.05,61.46Z" />
+                <circle class="cls-4" cx="101.1" cy="61.46" r="8.81" />
+                <ellipse class="cls-4" cx="54.51" cy="61.36" rx="6.21" ry="4.5" />
+                <ellipse class="cls-4" cx="75.35" cy="60.48" rx="11.91" ry="5.02" />
+                <circle class="cls-8" cx="68.53" cy="60.6" r="2.02" />
+                <circle class="cls-9" cx="75.43" cy="60.6" r="2.02" />
+                <circle class="cls-10" cx="82.44" cy="60.6" r="2.02" />
+                <path class="cls-2" d="M38.76,90.73c0,.28,0,.56,0,.85a29.81,29.81,0,1,0,59.62,0c0-.29,0-.57,0-.85Z" />
+                <path class="cls-5" d="M43.69,93.27c0,.23,0,.47,0,.71A24.87,24.87,0,0,0,93.4,94c0-.24,0-.48,0-.71Z" />
+                <rect class="cls-11" x="125.92" y="33.67" width="8.27" height="92.54" rx="0.52" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

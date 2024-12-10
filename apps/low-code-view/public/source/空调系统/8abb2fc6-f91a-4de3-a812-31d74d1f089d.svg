@@ -1,0 +1,15 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.2287in" height="1.0750in" viewBox="0 0 999 874">
+
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M92,783 l878,0 0,-629 -126,0 0,-126 -627,0 0,126 -125,0 0,629z" />
+<path style="fill:none;stroke:#7f7f7f;stroke-width:2" d="M217,783 l0,-629 627,0 0,629" />
+<path style="fill:#4c4c4c;stroke:#000;stroke-width:2" d="M122,130 l-94,0 0,-21 94,0 0,21z" />
+<path style="fill:#4c4c4c;stroke:#000;stroke-width:2" d="M122,829 l-94,0 0,-19 94,0 0,19z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M92,92 l-32,0 0,754 32,0 0,-754z" />
+<path style="fill:#bfbfbf" d="M825,171 l-295,295 295,297 0,-592z" />
+<path style="fill:#ccc" d="M236,171 l294,295 -294,297 0,-592z" />
+<path style="fill:#b2b2b2" d="M236,173 l294,293 297,-293 -591,0z" />
+<path style="fill:#d9d9d9" d="M236,763 l294,-297 297,297 -591,0z" />
+
+</svg>

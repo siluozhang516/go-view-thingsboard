@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 149.97 97.45">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #cecece;
+            }
+
+            .cls-2 {
+                fill: #5b5b5b;
+            }
+
+            .cls-3 {
+                fill: none;
+                stroke: #5b5b5b;
+                stroke-miterlimit: 10;
+                stroke-width: 0.1px;
+            }
+
+            .cls-4 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Simple wire stacker（简易线材堆垛机）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_14" data-name="图层 14">
+            <g id="Simple_wire_stacker_简易线材堆垛机_" data-name="Simple wire stacker（简易线材堆垛机）">
+                <rect class="cls-1" width="149.77" height="48.6" />
+                <rect class="cls-1" x="9.38" y="48.6" width="11.03" height="48.85" />
+                <rect class="cls-1" x="129.06" y="48.6" width="11.03" height="48.85" />
+                <rect class="cls-1" x="19.51" y="75.38" width="109.56" height="10.08" />
+                <rect class="cls-2" x="7.6" y="6.94" width="26.61" height="9.09" />
+                <line class="cls-3" x1="0.11" y1="16.03" x2="149.97" y2="16.03" />
+                <line class="cls-3" x1="0.11" y1="32.32" x2="149.97" y2="32.32" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

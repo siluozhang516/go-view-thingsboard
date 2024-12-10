@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"  x="0px" y="0px"
+       viewBox="0 0 67 152" xmlns:agg="http://www.example.com">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>	 
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke,.thin,.thick{
+		stroke-linecap:butt;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+
+	.stroke{stroke-width:0.5;}
+
+	.thin {stroke-width:0.25;}
+
+	.thick {stroke-width:0.75;}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>	
+	 
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="74.0771" y1="155.6367" x2="-6.124" y2="-1.7669">
+	<stop  offset="0.0051" style="stop-color:#4D5B75"/>
+	<stop  offset="0.1402" style="stop-color:#5E6B83"/>
+	<stop  offset="0.4078" style="stop-color:#8B96A7"/>
+	<stop  offset="0.4788" style="stop-color:#98A2B1"/>
+	<stop  offset="0.4848" style="stop-color:#ADB6C3"/>
+	<stop  offset="0.9997" style="stop-color:#F5F9FB"/>
+</linearGradient>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" points="1,151 1,1 66,1 66,151 52.999,151 52.999,105.348 
+	14,105.348 14,151 1,151 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="42.1299" y1="61.9473" x2="24.8689" y2="28.0707">
+	<stop  offset="0.0051" style="stop-color:#4D5B75"/>
+	<stop  offset="0.1402" style="stop-color:#5E6B83"/>
+	<stop  offset="0.4078" style="stop-color:#8B96A7"/>
+	<stop  offset="0.4788" style="stop-color:#98A2B1"/>
+	<stop  offset="0.503" style="stop-color:#ADB6C3"/>
+	<stop  offset="0.9997" style="stop-color:#F5F9FB"/>
+</linearGradient>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" points="14,33.609 52.999,33.609 52.999,56.409 14,56.409 
+	14,33.609 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="43.4492" y1="93.8828" x2="23.5503" y2="54.8291">
+	<stop  offset="0.0051" style="stop-color:#4D5B75"/>
+	<stop  offset="0.1402" style="stop-color:#5E6B83"/>
+	<stop  offset="0.4078" style="stop-color:#8B96A7"/>
+	<stop  offset="0.4788" style="stop-color:#98A2B1"/>
+	<stop  offset="0.503" style="stop-color:#ADB6C3"/>
+	<stop  offset="0.9997" style="stop-color:#F5F9FB"/>
+</linearGradient>
+<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" points="14,59.695 52.999,59.695 52.999,89.018 14,89.018 
+	14,59.695 "/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="27.3516" y1="100.2012" x2="44.9274" y2="130.4303">
+	<stop  offset="0.0051" style="stop-color:#4D5B75"/>
+	<stop  offset="0.1402" style="stop-color:#5E6B83"/>
+	<stop  offset="0.4078" style="stop-color:#8B96A7"/>
+	<stop  offset="0.4788" style="stop-color:#98A2B1"/>
+	<stop  offset="0.4848" style="stop-color:#ADB6C3"/>
+	<stop  offset="0.9997" style="stop-color:#F5F9FB"/>
+</linearGradient>
+<polygon fill="url(#SVGID_4_)" points="14,116.203 14,105.348 52.999,105.348 52.999,116.203 53.044,116.203 40.947,133.067 
+	26.097,133.067 "/>
+	
+<path class="color" d="M1,1v150h13v-34.797l12.097,16.864h14.851L53,116.265V151h13V1H1z M52.999,116.203L52.999,116.203"/>
+
+<g fill="black" opacity="0.3">
+	<polygon points="14.832,89.852 14.832,89.018 52.999,89.018 52.999,60.75 
+		53.831,60.75 53.831,89.852 14.832,89.852 "/>
+	<polygon points="14.832,57.244 14.832,56.409 52.999,56.409 52.999,34.663 
+		53.831,34.663 53.831,57.244 14.832,57.244 "/>
+</g>
+
+<g fill="white" opacity="0.6">
+	<polygon points="52.999,33.718 52.999,34.553 14.832,34.553 
+		14.832,56.299 14,56.299 14,33.718 52.999,33.718 "/>
+	<polygon points="52.999,59.695 52.999,60.53 14.832,60.53 
+		14.832,89.018 14,89.018 14,59.695 52.999,59.695 "/>
+</g>
+	
+<g class="stroke">
+	<polygon points="14,4.235 52.999,4.235 52.999,27.035 14,27.035 14,4.235 	"/>
+	<polyline points="1,151 1,1 66,1 66,151 52.999,151 52.999,105.348 14,105.348 14,151 1,151 	"/>
+	<line x1="1" y1="97" x2="66" y2="97"/>
+	<polyline points="14,116.203 26.097,133.067 40.947,133.067 52.999,116.203 	"/>
+	<rect x="14" y="33.718"  />
+	<rect x="14" y="59.695"  />
+	<line x1="1" y1="30.322" x2="66" y2="30.322"/>
+</g>
+
+<g fill="#606060">
+	<polygon points="15.612,5.904 51.388,5.904 51.388,25.365 15.612,25.365 15.612,5.904 	"/>
+	<polygon points="20.501,37.678 14,36.896 13.22,35.226 12.389,36.896 10.775,37.678 12.389,38.513 13.22,40.13 14,38.513 20.501,37.678 	"/>
+	<polygon points="20.501,52.34 14,51.557 13.22,49.887 12.389,51.557 10.775,52.34 12.389,53.174 13.22,54.791 14,53.174 20.501,52.34 	"/>
+	<polygon points="20.501,63.766 14,62.983 13.22,61.313 12.389,62.983 10.775,63.766 12.389,64.601 13.22,66.218 14,64.601 20.501,63.766 	"/>
+	<polygon points="20.501,84.948 14,84.166 13.22,82.496 12.389,84.166 10.775,84.948 12.389,85.782 13.22,87.399 14,85.782 20.501,84.948 	"/>
+</g>
+</svg>

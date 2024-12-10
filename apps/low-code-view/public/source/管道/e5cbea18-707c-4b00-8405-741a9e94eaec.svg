@@ -1,0 +1,92 @@
+ 
+<svg version="1.1" id="Layer_01"  xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"   x="0px" y="0px"
+	   viewBox="0 0 70.029 66.904" enable-background="new 0 0 70.029 66.904" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param name="color" description="Color" type="C" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+
+<radialGradient id="radial" cx="4.541" cy="65.488" r="61.412" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#4D5C75"/>
+	<stop  offset="0.5547" style="stop-color:#4D5C75"/>
+	<stop  offset="0.5686" style="stop-color:#616F85"/>
+	<stop  offset="0.604" style="stop-color:#8E99A9"/>
+	<stop  offset="0.6397" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.6749" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.7099" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.7442" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.7773" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.8105" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.8448" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.8798" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.915" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.9507" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9861" style="stop-color:#616F85"/>
+	<stop  offset="1" style="stop-color:#4D5C75"/>
+</radialGradient>
+
+<path fill="url(#radial)" d="M38.612,65.488c9.118,0,18.236,0,27.354,0c0-33.924-27.5-61.425-61.425-61.425c0,9.118,0,18.236,0,27.354
+	C23.358,31.417,38.612,46.671,38.612,65.488z"/>
+
+<linearGradient id="segment" gradientUnits="userSpaceOnUse" x1="06" y1="4.064" x2="0" y2="31.417">
+	<stop  offset="0" style="stop-color:#4D5C75"/>
+	<stop  offset="0.0313" style="stop-color:#616F85"/>
+	<stop  offset="0.1108" style="stop-color:#8E99A9"/>
+	<stop  offset="0.1908" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.27" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.3485" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.4256" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.5" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.5744" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.6515" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.73" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.8092" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.8892" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9687" style="stop-color:#616F85"/>
+	<stop  offset="1" style="stop-color:#4D5C75"/>
+</linearGradient>
+	
+<rect x="1.416" y="4.063"   fill="url(#segment)"/>
+
+<path class="color" d="M4.541,4.063H1.416v27.354h3.125c18.817,0,34.071,15.254,34.071,34.071c9.118,0,18.236,0,27.354,0
+	C65.966,31.564,38.466,4.063,4.541,4.063z"/>
+	
+<g fill="black" opacity="0.5">
+	<rect x="1.416" y="1.416"  />
+	<rect x="1.416" y="1.416"   transform="rotate(7.5 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(15 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(22.5 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(30 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(37.5 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(45 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(52.5 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(60 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(67.5 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(75 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(82.5 4.541 65.488)"/>
+	<rect x="1.416" y="1.416"   transform="rotate(90 4.541 65.488)"/>
+</g>
+
+<path class="stroke" opacity="0.5" d="M65.966,65.488c0-33.924-27.5-61.425-61.425-61.425"/>
+<path class="stroke" opacity="0.5" d="M4.541,31.417c18.817,0,34.071,15.254,34.071,34.071"/>
+</svg>

@@ -1,0 +1,22 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg"  width="1.5747in" height="1.0750in" viewBox="0 0 999 682">
+
+<path style="fill:none;stroke:#000;stroke-width:2" d="M317,613 l-98,-78 88,-67 -78,-58 68,-58 -58,-50 48,-48 -38,-30" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M219,613 l98,-78 -88,-67 78,-58 -68,-58 58,-50 -48,-48 38,-30" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M581,613 l-78,-78 68,-37 -61,-51 53,-27 -43,-40" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M503,613 l78,-78 -71,-37 61,-51 -51,-27 43,-40" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M852,633 l-78,-47 61,-51 -41,-17" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M774,633 l78,-47 -58,-51 41,-17" />
+<path style="fill:#4c4c4c;stroke:#000;stroke-width:2" d="M297,405 l-58,0 0,15 58,0 0,-15z" />
+<path style="fill:#4c4c4c;stroke:#000;stroke-width:2" d="M571,488 l-61,0 0,15 61,0 0,-15z" />
+<path style="fill:#4c4c4c;stroke:#000;stroke-width:2" d="M842,576 l-58,0 0,15 58,0 0,-15z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M327,654 l-30,-468 -58,0 -30,468 15,0 27,-455 31,0 30,455 15,0z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M598,654 l-27,-312 -61,0 -27,312 15,0 27,-297 31,0 30,297 12,0z" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M872,654 l-30,-156 -58,0 -27,156 12,0 30,-141 30,0 28,141 15,0z" />
+<path style="fill:#b2b2b2;stroke:#000;stroke-width:2" d="M960,573 l-912,-528 -20,36 912,525 20,-33z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M940,606 l-18,-55 -57,12 -18,-55 -58,10 -20,-55 -58,12 -17,-55 -58,10 -18,-55 -57,12 -18,-55 -58,10 -20,-55 -58,12 -17,-55 -58,10 -18,-55 -58,12 -17,-55 -58,13 -20,-58 -58,12 -17,-55 -58,13" />
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M955,581 l-912,-528 -10,17 912,528 10,-17z" />
+<path style="fill:#e5e5e5;stroke:#000;stroke-width:2" d="M970,556 l-912,-528 -10,17 912,528 10,-17z" />
+
+</svg>

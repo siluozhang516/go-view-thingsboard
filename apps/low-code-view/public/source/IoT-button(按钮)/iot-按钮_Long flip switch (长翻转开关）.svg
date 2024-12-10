@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82.48 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #dadbe0;
+            }
+
+            .cls-2 {
+                fill: #c1c1c1;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>iot-按钮</title>
+    <g id="图层_23" data-name="图层 23">
+        <circle class="cls-1" cx="41.24" cy="41.24" r="41.24" />
+        <circle cx="41.24" cy="41.24" r="31.91" />
+        <circle class="cls-1" cx="41.24" cy="41.24" r="22.32" />
+        <circle cx="41.24" cy="41.24" r="18.78" />
+        <path d="M60.78,141.67S59,150,40.85,150c-15,0-19.94-8.33-19.94-8.33L24.07,41.24H58.39Z" />
+        <rect class="cls-2" x="22.82" y="79.33" width="36.5" height="2.74" />
+        <rect class="cls-2" x="22.71" y="87.11" width="37.07" height="2.74" />
+        <rect class="cls-2" x="22.23" y="94.25" width="37.57" height="2.74" />
+        <rect class="cls-2" x="21.88" y="101.5" width="37.75" height="2.74" />
+        <rect class="cls-2" x="21.69" y="109.24" width="38.65" height="2.74" />
+        <rect class="cls-2" x="21.62" y="116.8" width="38.79" height="2.74" />
+        <rect class="cls-2" x="21.25" y="124.35" width="38.99" height="2.74" />
+        <rect class="cls-2" x="20.91" y="131.55" width="39.67" height="2.74" />
+        <rect class="cls-2" x="20.91" y="138.76" width="39.87" height="2.74" />
+    </g>
+   
+</svg>

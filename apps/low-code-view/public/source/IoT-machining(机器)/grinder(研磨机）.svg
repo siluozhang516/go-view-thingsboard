@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 142.75 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_74-2);
+            }
+
+            .cls-3 {
+                fill: none;
+                stroke-miterlimit: 10;
+                stroke: url(#未命名的渐变_74-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_74-4);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_74-5);
+            }
+
+            .cls-6 {
+                fill: #3d3d3d;
+            }
+
+            .cls-7 {
+                fill: #909191;
+            }
+
+            .cls-8 {
+                fill: #c93;
+            }
+
+            .cls-9 {
+                fill: #42413f;
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_74-6);
+            }
+
+            .cls-11 {
+                fill: url(#未命名的渐变_74-7);
+            }
+
+            .cls-12 {
+                fill: url(#未命名的渐变_74-8);
+            }
+
+            .cls-13 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="80.23" y1="58.33" x2="142.75" y2="58.33" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="0" y1="56.54" x2="80.23" y2="56.54" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-3" x1="29.37" y1="56.68" x2="74.33" y2="56.68" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-4" x1="108.61" y1="113.09" x2="108.61" y2="8.8" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-5" x1="111.49" y1="113.09" x2="111.49" y2="104.55" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-6" x1="75.96" y1="142.96" x2="75.96" y2="113.09" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-7" x1="26.99" y1="150" x2="26.99" y2="142.96" xlink:href="#未命名的渐变_74" />
+        <linearGradient id="未命名的渐变_74-8" x1="126" y1="150" x2="126" y2="142.96" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>grinder(研磨机）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="grinder_研磨机_" data-name="grinder(研磨机）">
+                <rect class="cls-1" x="80.23" y="3.58" width="62.52" height="109.51" />
+                <polygon class="cls-2" points="80.23 113.09 13.79 113.09 0 99.22 0 0 80.23 0 80.23 113.09" />
+                <rect class="cls-3" x="29.87" y="8.8" width="43.95" height="95.75" />
+                <rect class="cls-4" x="80.23" y="8.8" width="56.76" height="104.29" />
+                <rect class="cls-5" x="80.23" y="104.55" width="62.52" height="8.53" />
+                <rect class="cls-6" x="87.14" y="19.1" width="49.85" height="68.59" />
+                <rect class="cls-7" x="89.54" y="22.38" width="47.44" height="62.27" />
+                <circle class="cls-8" cx="5.68" cy="83.53" r="2.56" />
+                <circle class="cls-9" cx="5.68" cy="91.86" r="2.56" />
+                <rect class="cls-10" x="24.32" y="113.09" width="103.27" height="29.87" />
+                <rect class="cls-11" x="17.92" y="142.96" width="18.14" height="7.04" />
+                <rect class="cls-12" x="116.93" y="142.96" width="18.14" height="7.04" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

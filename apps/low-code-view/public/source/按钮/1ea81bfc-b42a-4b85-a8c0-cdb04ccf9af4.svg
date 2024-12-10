@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="280px" height="80px" viewBox="0 0 280 80" enable-background="new 0 0 280 80" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1677.1465" y1="-4098.1729" x2="1677.1465" y2="-4020.9973" gradientTransform="matrix(-1 0 0 -1 1816.7305 -4019.5059)">
+	<stop  offset="0" style="stop-color:#002132"/>
+	<stop  offset="1" style="stop-color:#4A9ED8"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M1,40.136c0,3.77,0.414,7.512,1.23,11.124c3.645,16.136,15.016,27.407,27.654,27.407h219.397
+	c15.928,0,28.885-17.284,28.885-38.531c0-10.586-3.164-20.464-8.91-27.81c-5.408-6.913-12.501-10.719-19.975-10.719H29.885
+	C13.957,1.606,1,18.891,1,40.136z"/>
+<g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="1" y="1.606" width="277.167" height="77.061">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="1" y="1.606" width="277.167" height="77.061" id="SVGID_2_">
+		<g filter="url(#Adobe_OpacityMaskFilter)">
+			<image overflow="visible" width="1172" height="338" xlink:href="149661E8.jpg"  transform="matrix(0.24 0 0 0.24 -1 -0.3936)">
+			</image>
+		</g>
+	</mask>
+	<g mask="url(#SVGID_2_)">
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1677.1465" y1="-4098.1729" x2="1677.1465" y2="-4020.9973" gradientTransform="matrix(-1 0 0 -1 1816.7305 -4019.5059)">
+			<stop  offset="0" style="stop-color:#003C63"/>
+			<stop  offset="0.0276" style="stop-color:#013D65"/>
+			<stop  offset="0.4845" style="stop-color:#0C528C"/>
+			<stop  offset="0.8216" style="stop-color:#1461A7"/>
+			<stop  offset="1" style="stop-color:#1766B1"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M1,40.136c0,3.77,0.414,7.512,1.23,11.124c3.645,16.136,15.016,27.407,27.654,27.407h219.397
+			c15.928,0,28.885-17.284,28.885-38.531c0-10.586-3.164-20.464-8.91-27.81c-5.408-6.913-12.501-10.719-19.975-10.719H29.885
+			C13.957,1.606,1,18.891,1,40.136z"/>
+	</g>
+</g>
+</svg>

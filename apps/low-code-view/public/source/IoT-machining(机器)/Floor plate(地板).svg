@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 33.59">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2 {
+                fill: #a5a5a5;
+                stroke: #42403f;
+            }
+
+            .cls-1 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-2 {
+                stroke-linejoin: round;
+            }
+
+            .cls-3 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Floor plate(地板)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="Floor_plate_地板_" data-name="Floor plate(地板)">
+                <rect class="cls-1" x="0.5" y="19.73" width="150" height="13.36" />
+                <rect class="cls-1" x="11.89" y="4.59" width="127.21" height="11.06" />
+                <polygon class="cls-2" points="150.5 19.73 0.5 19.73 11.99 15.65 139.2 15.65 150.5 19.73" />
+                <polygon class="cls-2" points="139.11 4.58 11.89 4.58 21.64 0.5 129.53 0.5 139.11 4.58" />
+               
+            </g>
+        </g>
+    </g>
+</svg>

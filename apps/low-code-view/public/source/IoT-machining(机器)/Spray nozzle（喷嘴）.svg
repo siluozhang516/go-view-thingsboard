@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 125.89">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_105-3);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_105-4);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_105-5);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_105-6);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_105-7);
+            }
+
+            .cls-8,
+            .cls-9 {
+                fill: none;
+                stroke: #66d1d1;
+                stroke-miterlimit: 10;
+                stroke-width: 0.75px;
+            }
+
+            .cls-9 {
+                stroke-dasharray: 2.9 2.9;
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_105-8);
+            }
+
+            .cls-11 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_105" x1="75" y1="32.51" x2="75" y2="18.72" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105-2" y1="35.91" y2="15.15" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-3" x1="67.19" y1="12.85" x2="82.81" y2="12.85" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-4" x1="72.42" y1="5.28" x2="77.58" y2="5.28" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-5" x1="64.56" y1="39.57" x2="85.44" y2="39.57" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-6" x1="57.28" y1="45.74" x2="92.72" y2="45.74" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-7" x1="67.19" y1="50.34" x2="82.81" y2="50.34" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_105-8" x1="69.81" y1="54.55" x2="80.19" y2="54.55" xlink:href="#未命名的渐变_105" />
+    </defs>
+    <title>Spray nozzle（喷嘴）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="Spray_nozzle_喷嘴_" data-name="Spray nozzle（喷嘴）">
+                <rect class="cls-1" y="18.72" width="150" height="13.79" />
+                <rect class="cls-2" x="52.02" y="15.15" width="45.96" height="20.77" />
+                <rect class="cls-3" x="67.19" y="10.55" width="15.62" height="4.6" />
+                <rect class="cls-4" x="72.42" width="5.16" height="10.55" />
+                <rect class="cls-5" x="64.56" y="35.91" width="20.88" height="7.32" />
+                <rect class="cls-6" x="57.28" y="43.23" width="35.44" height="5.02" />
+                <rect class="cls-7" x="67.19" y="48.25" width="15.62" height="4.17" />
+                <line class="cls-8" x1="71" y1="58.87" x2="71" y2="60.37" />
+                <line class="cls-9" x1="71" y1="63.27" x2="71" y2="119.75" />
+                <line class="cls-8" x1="71" y1="121.2" x2="71" y2="122.7" />
+                <line class="cls-8" x1="79.01" y1="58.87" x2="79.01" y2="60.37" />
+                <line class="cls-9" x1="79.01" y1="63.27" x2="79.01" y2="119.75" />
+                <line class="cls-8" x1="79.01" y1="121.2" x2="79.01" y2="122.7" />
+                <line class="cls-8" x1="75" y1="62.06" x2="75" y2="63.56" />
+                <line class="cls-9" x1="75" y1="66.46" x2="75" y2="122.95" />
+                <line class="cls-8" x1="75" y1="124.39" x2="75" y2="125.89" />
+                <line class="cls-8" x1="83.5" y1="58.78" x2="84.09" y2="60.16" />
+                <line class="cls-9" x1="85.22" y1="62.83" x2="107.3" y2="114.82" />
+                <line class="cls-8" x1="107.86" y1="116.15" x2="108.45" y2="117.53" />
+                <line class="cls-8" x1="81.06" y1="63.28" x2="81.65" y2="64.66" />
+                <line class="cls-9" x1="82.78" y1="67.33" x2="104.86" y2="119.32" />
+                <line class="cls-8" x1="105.42" y1="120.65" x2="106.01" y2="122.03" />
+                <line class="cls-8" x1="88.43" y1="60.15" x2="89.02" y2="61.53" />
+                <line class="cls-9" x1="90.15" y1="64.2" x2="112.23" y2="116.19" />
+                <line class="cls-8" x1="112.79" y1="117.52" x2="113.38" y2="118.91" />
+                <line class="cls-8" x1="66.74" y1="57.44" x2="66.16" y2="58.82" />
+                <line class="cls-9" x1="65.02" y1="61.49" x2="42.95" y2="113.48" />
+                <line class="cls-8" x1="42.38" y1="114.81" x2="41.79" y2="116.19" />
+                <line class="cls-8" x1="69.18" y1="61.95" x2="68.59" y2="63.33" />
+                <line class="cls-9" x1="67.46" y1="65.99" x2="45.38" y2="117.98" />
+                <line class="cls-8" x1="44.82" y1="119.32" x2="44.23" y2="120.7" />
+                <line class="cls-8" x1="61.81" y1="58.82" x2="61.23" y2="60.2" />
+                <line class="cls-9" x1="60.09" y1="62.86" x2="38.01" y2="114.85" />
+                <line class="cls-8" x1="37.45" y1="116.19" x2="36.86" y2="117.57" />
+                <rect class="cls-10" x="69.81" y="52.43" width="10.38" height="4.26" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

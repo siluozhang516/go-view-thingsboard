@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 102.43">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #dcdcdd;
+            }
+
+            .cls-2 {
+                fill: #959599;
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_13);
+            }
+
+            .cls-6 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="102.82" y1="20.54" x2="111.47" y2="20.54" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105" x1="102.82" y1="1.05" x2="111.47" y2="1.05" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_13" y1="99.69" x2="150" y2="99.69" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0" stop-color="#d0d0d0" />
+            <stop offset="0.01" stop-color="#bcbcbc" />
+            <stop offset="0.02" stop-color="#b5b5b5" />
+            <stop offset="0.03" stop-color="#bbb" />
+            <stop offset="0.07" stop-color="#d1d1d1" />
+            <stop offset="0.11" stop-color="#e2e2e2" />
+            <stop offset="0.17" stop-color="#ededed" />
+            <stop offset="0.26" stop-color="#f4f4f4" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.72" stop-color="#f4f4f4" />
+            <stop offset="0.81" stop-color="#ededed" />
+            <stop offset="0.87" stop-color="#e2e2e2" />
+            <stop offset="0.92" stop-color="#d1d1d1" />
+            <stop offset="0.96" stop-color="#bbb" />
+            <stop offset="0.99" stop-color="#a0a0a0" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+    </defs>
+    <title>Pulp mill（纸浆厂）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Pulp_mill_纸浆厂_" data-name="Pulp mill（纸浆厂）">
+                <rect class="cls-1" x="58.17" y="41.05" width="65.17" height="55.9" />
+                <rect class="cls-2" x="13.51" y="13.06" width="45.26" height="2.58" />
+                <rect class="cls-2" x="58.62" y="41.09" width="64.72" height="2.58" />
+                <rect class="cls-1" x="13.51" y="15.64" width="45.26" height="81.31" />
+                <rect class="cls-3" x="102.82" width="8.65" height="41.09" />
+                <rect class="cls-2" x="61.64" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-2" x="16.89" y="18.79" width="4.63" height="8.14" />
+                <rect class="cls-2" x="25.29" y="18.79" width="4.63" height="8.14" />
+                <rect class="cls-2" x="33.68" y="18.79" width="4.63" height="8.14" />
+                <rect class="cls-2" x="42.08" y="18.79" width="4.63" height="8.14" />
+                <rect class="cls-2" x="50.48" y="18.79" width="4.63" height="8.14" />
+                <rect class="cls-2" x="16.89" y="31.31" width="4.63" height="8.14" />
+                <rect class="cls-2" x="25.29" y="31.31" width="4.63" height="8.14" />
+                <rect class="cls-2" x="33.68" y="31.31" width="4.63" height="8.14" />
+                <rect class="cls-2" x="42.08" y="31.31" width="4.63" height="8.14" />
+                <rect class="cls-2" x="50.48" y="31.31" width="4.63" height="8.14" />
+                <rect class="cls-2" x="16.89" y="43.83" width="4.63" height="8.14" />
+                <rect class="cls-2" x="25.29" y="43.83" width="4.63" height="8.14" />
+                <rect class="cls-2" x="33.68" y="43.83" width="4.63" height="8.14" />
+                <rect class="cls-2" x="42.08" y="43.83" width="4.63" height="8.14" />
+                <rect class="cls-2" x="50.48" y="43.83" width="4.63" height="8.14" />
+                <rect class="cls-2" x="16.89" y="56.36" width="4.63" height="8.14" />
+                <rect class="cls-2" x="25.29" y="56.36" width="4.63" height="8.14" />
+                <rect class="cls-2" x="33.68" y="56.36" width="4.63" height="8.14" />
+                <rect class="cls-2" x="42.08" y="56.36" width="4.63" height="8.14" />
+                <rect class="cls-2" x="50.48" y="56.36" width="4.63" height="8.14" />
+                <rect class="cls-2" x="16.89" y="68.88" width="4.63" height="8.14" />
+                <rect class="cls-2" x="25.29" y="68.88" width="4.63" height="8.14" />
+                <rect class="cls-2" x="33.68" y="68.88" width="4.63" height="8.14" />
+                <rect class="cls-2" x="42.08" y="68.88" width="4.63" height="8.14" />
+                <rect class="cls-2" x="50.48" y="68.88" width="4.63" height="8.14" />
+                <rect class="cls-2" x="15.92" y="80.24" width="40.64" height="16.7" />
+                <rect class="cls-2" x="70.68" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-2" x="79.72" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-2" x="88.76" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-2" x="97.8" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-2" x="106.84" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-2" x="115.88" y="53.01" width="4.63" height="8.14" />
+                <rect class="cls-4" x="102.82" width="8.65" height="2.09" />
+                <rect class="cls-1" x="123.34" y="69.39" width="19.17" height="27.56" />
+                <rect class="cls-2" x="123.34" y="69.3" width="19.17" height="2.71" />
+                <rect class="cls-5" y="96.94" width="150" height="5.49" />
+                <rect class="cls-1" x="64.41" y="27.67" width="50.06" height="13.42" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

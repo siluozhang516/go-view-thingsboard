@@ -1,0 +1,22 @@
+ 
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.0925in" height="1.0750in" viewBox="0 0 999 983">
+
+<path style="fill:#7f7f7f;stroke:#000;stroke-width:2" d="M46,912 l0,-442 45,-3 44,-7 42,-10 40,-15 39,-19 37,-22 34,-26 31,-28 29,-32 25,-33 23,-37 19,-39 14,-40 11,-42 7,-44 2,-23 0,-22 441,0 -1,45 -4,44 -6,44 -7,44 -10,43 -12,41 -14,42 -16,40 -18,39 -19,38 -21,37 -23,36 -25,34 -26,34 -28,32 -29,31 -31,29 -32,28 -33,26 -35,25 -36,23 -37,21 -38,20 -39,18 -40,16 -41,14 -41,12 -43,9 -43,8 -45,6 -44,3 -46,2z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M64,439 l-36,0 0,516 36,0 0,-516z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M106,435 l-37,4 56,513 36,-4 -55,-513z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M149,428 l-36,7 107,503 36,-8 -107,-502z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M189,414 l-34,12 158,489 36,-11 -160,-490z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M229,397 l-34,15 210,471 34,-15 -210,-471z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M268,376 l-33,19 257,446 33,-19 -257,-446z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M302,351 l-29,21 303,417 29,-20 -303,-418z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M334,323 l-26,25 345,382 26,-24 -345,-383z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M365,291 l-25,28 383,345 24,-29 -382,-344z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M389,256 l-21,31 418,303 21,-31 -418,-303z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M412,220 l-19,32 446,258 19,-33 -446,-257z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M430,180 l-16,34 471,210 15,-35 -470,-209z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M443,140 l-12,34 492,160 11,-36 -491,-158z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M452,98 l-7,36 504,107 8,-36 -505,-107z" />
+<path style="fill:#ccc;stroke:#000;stroke-width:2" d="M458,54 l-4,36 513,56 3,-38 -512,-54z" />
+
+</svg>

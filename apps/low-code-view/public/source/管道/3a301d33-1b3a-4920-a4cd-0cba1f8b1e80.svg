@@ -1,0 +1,60 @@
+ 
+<svg version="1.1" id="_x30_" xmlns:agg="http://www.example.com"
+	 xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" 
+	  viewBox="0 0 45.543 52.146" enable-background="new 0 0 45.543 52.146" xml:space="preserve">
+
+<agg:params>
+	<agg:param name="color" description="Color" type="C" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+
+<style type="text/css" >
+   <![CDATA[
+
+	.stroke{
+		stroke-width:0.3;
+		stroke-linecap:round;
+		stroke-linejoin:round;
+		stroke: black;
+		fill:none;
+	}
+	
+	.color {
+		fill:#3664BF;
+		opacity:0.2;
+	}
+
+      ]]>
+</style>
+	 
+<linearGradient id="horizontal" gradientUnits="userSpaceOnUse" x1="11.7046" y1="39.4836" x2="11.7046" y2="12.7112">
+	<stop  offset="0" style="stop-color:#4D5C75"/>
+	<stop  offset="0.0313" style="stop-color:#616F85"/>
+	<stop  offset="0.1108" style="stop-color:#8E99A9"/>
+	<stop  offset="0.1908" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.27" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.3485" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.4256" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.5" style="stop-color:#F6FAFC"/>
+	<stop  offset="0.5744" style="stop-color:#F2F6F9"/>
+	<stop  offset="0.6515" style="stop-color:#E5EAEF"/>
+	<stop  offset="0.73" style="stop-color:#D1D7DE"/>
+	<stop  offset="0.8092" style="stop-color:#B4BCC7"/>
+	<stop  offset="0.8892" style="stop-color:#8E99A9"/>
+	<stop  offset="0.9687" style="stop-color:#616F85"/>
+	<stop  offset="1" style="stop-color:#4D5C75"/>
+</linearGradient>
+
+<polygon id="segment" fill="url(#horizontal)" points="14.096,12.398 21.993,26.075 14.096,39.75 1.416,39.75 1.416,12.398 "/>
+
+<use xlink:href="#segment" transform="rotate(120,21.993,26.075)" />
+<use xlink:href="#segment" transform="rotate(-120,21.993,26.075)" />
+
+<polygon class="color" points="37.788,26.075 37.786,26.075 44.127,15.092 20.439,1.416 14.099,12.398 1.419,12.398 1.419,39.75 14.099,39.75 14.099,39.75 20.44,50.731 44.127,37.056 "/>
+<g class="stroke">
+	<line x1="21.993" y1="26.075" x2="37.784" y2="26.075"/>
+	<line x1="21.993" y1="26.075" x2="14.096" y2="39.75"/>
+	<line x1="21.993" y1="26.075" x2="14.096" y2="12.398"/>
+	<polygon points="37.784,26.075 44.127,15.092 20.439,1.416 14.096,12.398 1.416,12.398 1.416,39.75 14.096,39.75 20.439,50.731 44.127,37.056"/>
+</g>
+</svg>

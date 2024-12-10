@@ -1,0 +1,139 @@
+ 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	   viewBox="0 0 90 302" xmlns:agg="http://www.example.com" xml:space="preserve">
+	 
+<agg:params>
+	<agg:param type="C" name="color" description="Color" cssAttributes="fill" classes="color"/>
+	<agg:param type="F" name="saturation" description="Saturation" min="0" max="1" cssAttributes="opacity" classes="color"/>
+</agg:params>
+	 
+<style type="text/css" >
+	<![CDATA[
+		.stroke,.thin,.thick{
+			stroke-linecap:butt;
+			stroke-linejoin:round;
+			stroke: black;
+			fill:none;
+			opacity:0.5;
+		}
+
+		.stroke{stroke-width:0.5;}
+
+		.thin {stroke-width:0.25;}
+
+		.thick {stroke-width:0.75;}
+
+		.color {
+			fill:#3664BF;
+			opacity:0.2;
+		}
+	]]>
+</style>
+
+<defs>
+	<linearGradient id="cyl" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.0051" style="stop-color:#4C5B75"/>
+		<stop  offset="0.0323" style="stop-color:#616F86"/>
+		<stop  offset="0.098" style="stop-color:#8E99AA"/>
+		<stop  offset="0.1641" style="stop-color:#B4BCC7"/>
+		<stop  offset="0.2298" style="stop-color:#D1D7DE"/>
+		<stop  offset="0.2946" style="stop-color:#E5EAEF"/>
+		<stop  offset="0.3584" style="stop-color:#F2F6F9"/>
+		<stop  offset="0.42" style="stop-color:#F6FAFC"/>
+		<stop  offset="0.4744" style="stop-color:#F2F6F8"/>
+		<stop  offset="0.5308" style="stop-color:#E6E9EC"/>
+		<stop  offset="0.5882" style="stop-color:#D3D5D7"/>
+		<stop  offset="0.6461" style="stop-color:#B7B8BB"/>
+		<stop  offset="0.704" style="stop-color:#949396"/>
+		<stop  offset="0.72" style="stop-color:#89878B"/>
+		<stop  offset="1" style="stop-color:#F6FAFC"/>
+	</linearGradient>
+	<linearGradient id="cyl_1" xlink:href="#cyl" x1="46.9141" y1="0" x2="56.5566" y2="0"/>
+	<linearGradient id="cyl_2" xlink:href="#cyl" x1="39.0801" y1="0" x2="64.291" y2="0"/>
+	
+	<linearGradient id="flat" gradientUnits="userSpaceOnUse" x1="5.5786" y1="300.2383" x2="99.0196" y2="-4.1986">
+		<stop  offset="0.0051" style="stop-color:#4C5B75"/>
+		<stop  offset="0.1474" style="stop-color:#5D6B83"/>
+		<stop  offset="0.4291" style="stop-color:#8A95A6"/>
+		<stop  offset="0.5152" style="stop-color:#99A3B2"/>
+		<stop  offset="0.5152" style="stop-color:#AEB7C4"/>
+		<stop  offset="0.9997" style="stop-color:#F6FAFC"/>
+	</linearGradient>
+	
+	<path id="fence" fill="#505050" d="M82.972,65.7v-1.8H20.398v1.8h13.874v7.8H20.398v1.2
+		h13.874v7.7h1.808v-7.7h31.21v7.7h1.808v-7.7h13.874v-1.2H69.098v-7.8H82.972z M67.29,73.5H36.08v-7.8h31.21V73.5z"/>
+		
+	<path id="boundary" d="
+		M13.781,1.156v250.301H1.226v12.6l12.556,9.219v27.881h6.629v-23.012l18.682,13.719v9.293h12.654h12.556v-43.699h18.682v43.699
+		h6.026v-300H13.781z M20.411,7.756h26.515v48.5h-7.833v26.3H20.411V7.756z M20.411,89.156h18.682v49.7H20.411V89.156z
+		 M20.411,144.855h18.682v50.301H20.411V144.855z M20.411,201.156h18.682v50.301H20.411V201.156z M39.093,282.643l-18.682-13.719
+		v-11.467h18.682V282.643z M82.984,251.457H64.303v-50.301h18.682V251.457z M82.984,195.156H64.303v-50.301h18.682V195.156z
+		 M82.984,138.856H64.303v-49.7h18.682V138.856z M82.984,82.556H64.303v-26.3h-7.735v-48.5h26.417V82.556z"/>
+</defs>
+	
+<g class="thick">
+	<line x1="28.232" y1="89" x2="75.139" y2="138.7"/>
+	<line x1="28.232" y1="138.7" x2="75.139" y2="89"/>
+	<line x1="28.232" y1="144.855" x2="75.139" y2="194.555"/>
+	<line x1="28.232" y1="194.555" x2="75.139" y2="144.855"/>
+	<line x1="28.232" y1="201.156" x2="75.139" y2="250.856"/>
+	<line x1="28.232" y1="250.856" x2="75.139" y2="201.156"/>
+	<line x1="28.232" y1="7.6" x2="75.139" y2="82.4"/>
+	<line x1="28.232" y1="82.4" x2="75.139" y2="7.6"/>
+</g>
+
+<g id="tubes">
+	<polygon fill="url(#cyl_1)" points="46.914,7.6 56.557,7.6 56.557,56.1 46.914,56.1 46.914,7.6"/>
+	<polygon fill="url(#cyl_2)" points="39.08,56.1 64.291,56.1 64.291,301 39.08,301 39.08,56.1"/>
+</g>
+
+<path class="color" d="M39.08,195v-50.301h25.211V195H39.08z M64.291,138.7V89H39.08v49.7H64.291z M46.914,7.6v48.5H39.08
+	v26.3h25.211V56.1h-7.734V7.6H46.914z M39.08,301h12.654l-12.654-9.293V301z M39.08,257.301v25.186L64.291,301v-43.699H39.08z
+	 M64.291,201H39.08v50.301h25.211V201z"/>
+
+<g class="thick">
+	<line x1="20.398" y1="7.6" x2="82.973" y2="82.4"/>
+	<line x1="20.398" y1="82.4" x2="82.973" y2="7.6"/>
+	<line x1="20.398" y1="89" x2="82.973" y2="138.7"/>
+	<line x1="20.398" y1="138.7" x2="82.973" y2="89"/>
+	<line x1="20.398" y1="144.855" x2="82.973" y2="194.555"/>
+	<line x1="20.398" y1="194.555" x2="82.973" y2="144.855"/>
+	<line x1="20.398" y1="201.156" x2="82.973" y2="250.856"/>
+	<line x1="20.398" y1="250.856" x2="82.973" y2="201.156"/>
+</g>
+
+<use xlink:href="#fence"/>
+<use xlink:href="#fence" transform="translate(0 56.456)"/>
+<use xlink:href="#fence" transform="translate(0 112.755)"/>
+<use xlink:href="#fence" transform="translate(0 169.057)"/>
+
+<path id="frame" fill="url(#flat)" d="M13.769,1v250.301H1.214v12.6l12.555,9.219V301
+	h6.629v-23.012L51.735,301h12.556l-43.893-32.232v-11.467h62.573V301H89V1H13.769z M82.972,251.301H20.398V201h62.573V251.301z
+	 M82.972,195H20.398v-50.301h62.573V195z M82.972,138.7H20.398V89h62.573V138.7z M82.972,82.4H20.398V7.6h62.573V82.4z"/>
+	 
+<path class="color" d="M13.769,1v250.301H1.214v12.6l12.555,9.22V301h6.629v-23.012L51.734,301h12.557
+	l-43.893-32.232v-11.467h62.573V301H89V1H13.769z M82.973,251.301H20.398V201h62.573v50.301H82.973z M82.973,195H20.398v-50.301
+	h62.573V195H82.973z M82.973,138.7H20.398V89h62.573v49.7H82.973z M82.973,82.4H20.398V7.6h62.573v74.8H82.973z"/>
+	 
+<g id="lines" class="stroke">
+	<use xlink:href="#boundary"/>
+	<line x1="46.926" y1="56.256" x2="56.782" y2="56.256"/>
+	<line x1="39.093" y1="82.556" x2="64.303" y2="82.556"/>
+	<line x1="39.093" y1="89.156" x2="64.303" y2="89.156"/>
+	<line x1="39.093" y1="138.856" x2="64.303" y2="138.856"/>
+	<line x1="64.303" y1="144.855" x2="39.093" y2="144.855"/>
+	<line x1="39.093" y1="195.156" x2="64.303" y2="195.156"/>
+	<line x1="64.303" y1="201.156" x2="39.093" y2="201.156"/>
+	<line x1="39.093" y1="251.457" x2="64.303" y2="251.457"/>
+	<line x1="64.303" y1="257.457" x2="39.093" y2="257.457"/>
+	<line x1="20.411" y1="257.457" x2="1.44" y2="257.457"/>
+	<line x1="1.44" y1="264.057" x2="20.411" y2="264.057"/>
+	<line x1="46.926" y1="7.756" x2="56.567" y2="7.756"/>
+</g>
+
+<path fill="#505050" d="M64.291,282.4l-52.38-38.9h1.858v-1.799
+	H9.487l-6.465-4.803V233.9h10.747v-1.201H1.214v24.602h1.808V249.5l30.032,22.303v7.598h1.205v-6.703L64.291,295v6h1.205v-18.6
+	H64.291z M3.022,239.898l2.426,1.803H3.022V239.898z M3.022,246.5v-3h4.849l25.183,18.701v6.602L3.022,246.5z M64.291,292
+	l-30.032-22.303v-6.6L64.291,285.4V292z"/>
+
+</svg>

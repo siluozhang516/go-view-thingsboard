@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 45 182" style="enable-background:new 0 0 45 182;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_4_);}
+	.st1{fill:url(#XMLID_6_);}
+	.st2{fill:url(#XMLID_7_);}
+</style>
+<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="27.5" y1="186" x2="27.5" y2="4" gradientTransform="matrix(-1 0 0 1 45 -4)">
+	<stop  offset="0" style="stop-color:#AB301C"/>
+	<stop  offset="0.1638" style="stop-color:#CE5C50"/>
+	<stop  offset="0.3114" style="stop-color:#E97D78"/>
+	<stop  offset="0.4283" style="stop-color:#F99190"/>
+	<stop  offset="0.5" style="stop-color:#FF9999"/>
+	<stop  offset="0.5705" style="stop-color:#F99190"/>
+	<stop  offset="0.6854" style="stop-color:#E97D78"/>
+	<stop  offset="0.8304" style="stop-color:#CF5B50"/>
+	<stop  offset="0.9986" style="stop-color:#AA2D19"/>
+	<stop  offset="1" style="stop-color:#AA2D19"/>
+</linearGradient>
+<path id="XMLID_3_" class="st0" d="M32,182H3c-1.7,0-3-1.3-3-3L0,3c0-1.7,1.3-3,3-3l29,0c1.7,0,3,1.3,3,3v176
+	C35,180.7,33.7,182,32,182z"/>
+<linearGradient id="XMLID_6_" gradientUnits="userSpaceOnUse" x1="5" y1="3.8333" x2="5" y2="26.1667" gradientTransform="matrix(-1 0 0 -1 45 182)">
+	<stop  offset="0" style="stop-color:#8C8C8C"/>
+	<stop  offset="0.5" style="stop-color:#D3D3D3"/>
+	<stop  offset="1" style="stop-color:#8C8C8C"/>
+</linearGradient>
+<path id="XMLID_1_" class="st1" d="M42,155.8h-7v22.3h7c1.7,0,3-1.3,3-3v-16.3C45,157.2,43.7,155.8,42,155.8z"/>
+<linearGradient id="XMLID_7_" gradientUnits="userSpaceOnUse" x1="5" y1="155.5833" x2="5" y2="177.9167" gradientTransform="matrix(-1 0 0 -1 45 182)">
+	<stop  offset="0" style="stop-color:#8C8C8C"/>
+	<stop  offset="0.5" style="stop-color:#D3D3D3"/>
+	<stop  offset="1" style="stop-color:#8C8C8C"/>
+</linearGradient>
+<path id="XMLID_5_" class="st2" d="M42,4.1h-7v22.3h7c1.7,0,3-1.3,3-3V7.1C45,5.4,43.7,4.1,42,4.1z"/>
+</svg>

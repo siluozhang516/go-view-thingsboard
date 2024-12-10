@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 151">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: none;
+                stroke: #5ac8f7;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-2 {
+                opacity: 0.2;
+            }
+        </style>
+    </defs>
+    <title>Running state（运行状态）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="风格1">
+            <g id="Running_state_运行状态_" data-name="Running state（运行状态）">
+                <path class="cls-1" d="M113,38A37.5,37.5,0,0,0,75.5.5v75A37.5,37.5,0,0,0,113,38Z" />
+                <path class="cls-1" d="M75.5,75.5a37.5,37.5,0,0,0,75,0Z" />
+                <path class="cls-1" d="M38,38A37.5,37.5,0,0,0,.5,75.5h75A37.5,37.5,0,0,0,38,38Z" />
+                <path class="cls-1" d="M38,113a37.5,37.5,0,0,0,37.5,37.5v-75A37.5,37.5,0,0,0,38,113Z" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

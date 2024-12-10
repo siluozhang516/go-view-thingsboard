@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 310 208.5" style="enable-background:new 0 0 310 208.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_4_);}
+	.st1{fill:url(#XMLID_5_);}
+</style>
+<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="293.75" y1="258.75" x2="293.75" y2="151.75" gradientTransform="matrix(1 0 0 -1 -138.75 360.25)">
+	<stop  offset="0" style="stop-color:#AB301C"/>
+	<stop  offset="0.1638" style="stop-color:#CE5C50"/>
+	<stop  offset="0.3114" style="stop-color:#E97D78"/>
+	<stop  offset="0.4283" style="stop-color:#F99190"/>
+	<stop  offset="0.5" style="stop-color:#FF9999"/>
+	<stop  offset="0.5705" style="stop-color:#F99190"/>
+	<stop  offset="0.6854" style="stop-color:#E97D78"/>
+	<stop  offset="0.8304" style="stop-color:#CF5B50"/>
+	<stop  offset="0.9986" style="stop-color:#AA2D19"/>
+	<stop  offset="1" style="stop-color:#AA2D19"/>
+</linearGradient>
+<rect id="XMLID_1_" y="101.5" class="st0" width="310" height="107"/>
+<linearGradient id="XMLID_5_" gradientUnits="userSpaceOnUse" x1="64.75" y1="188.2492" x2="64.75" y2="81.2492" gradientTransform="matrix(-8.979319e-011 1 -1 -8.979319e-011 290.7492 12.75)">
+	<stop  offset="0" style="stop-color:#AB301C"/>
+	<stop  offset="0.1638" style="stop-color:#CE5C50"/>
+	<stop  offset="0.3114" style="stop-color:#E97D78"/>
+	<stop  offset="0.4283" style="stop-color:#F99190"/>
+	<stop  offset="0.5" style="stop-color:#FF9999"/>
+	<stop  offset="0.5705" style="stop-color:#F99190"/>
+	<stop  offset="0.6854" style="stop-color:#E97D78"/>
+	<stop  offset="0.8304" style="stop-color:#CF5B50"/>
+	<stop  offset="0.9986" style="stop-color:#AA2D19"/>
+	<stop  offset="1" style="stop-color:#AA2D19"/>
+</linearGradient>
+<polygon id="XMLID_3_" class="st1" points="209.5,0 209.5,101.4 155.5,155 102.5,101.5 102.5,0 "/>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 135.54 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #bdbdbd;
+            }
+
+            .cls-2 {
+                fill: #e5e5e5;
+            }
+
+            .cls-3 {
+                fill: #909191;
+            }
+
+            .cls-4 {
+                fill: #666;
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_74);
+            }
+
+            .cls-6,
+            .cls-7 {
+                fill: none;
+            }
+
+            .cls-6,
+            .cls-7,
+            .cls-8 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-6 {
+                stroke: url(#未命名的渐变_74-2);
+            }
+
+            .cls-7 {
+                stroke: #333;
+            }
+
+            .cls-8 {
+                fill: #686868;
+                stroke: #42403f;
+            }
+
+            .cls-9 {
+                fill: #333;
+            }
+
+            .cls-10 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_74" x1="28.9" y1="131.31" x2="43.5" y2="131.31" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#6b6b6b" />
+            <stop offset="0.01" stop-color="#767676" />
+            <stop offset="0.03" stop-color="#959595" />
+            <stop offset="0.04" stop-color="#aaa" />
+            <stop offset="0.37" stop-color="#ccc" />
+            <stop offset="0.74" stop-color="#eaeaea" />
+            <stop offset="0.94" stop-color="#f6f6f6" />
+            <stop offset="0.95" stop-color="#ededed" />
+            <stop offset="0.96" stop-color="#d4d4d4" />
+            <stop offset="0.97" stop-color="#ababab" />
+            <stop offset="0.99" stop-color="#737373" />
+            <stop offset="0.99" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_74-2" x1="67.72" y1="93.92" x2="67.72" y2="30.17" xlink:href="#未命名的渐变_74" />
+    </defs>
+    <title>Production machining center(生产加工中心)</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_61" data-name="图层 61">
+            <g id="Production_machining_center_生产加工中心_" data-name="Production machining center(生产加工中心)">
+                <rect class="cls-1" y="19.97" width="135.54" height="99.87" />
+                <polygon class="cls-2" points="135.54 19.97 0 19.97 8.75 0 126.78 0 135.54 19.97" />
+                <rect class="cls-3" y="102.45" width="135.54" height="17.39" />
+                <rect class="cls-3" x="25.59" y="119.83" width="86.01" height="25.86" />
+                <rect class="cls-4" x="25.59" y="119.83" width="86.01" height="4.86" />
+                <rect class="cls-4" x="47.87" y="124.69" width="41.46" height="11.63" />
+                <rect class="cls-4" x="25.59" y="145.69" width="8.99" height="4.31" />
+                <rect class="cls-4" x="102.61" y="145.69" width="8.99" height="4.31" />
+                <rect class="cls-4" x="47.87" y="139.5" width="7.28" height="3.68" />
+                <rect class="cls-4" x="82.04" y="139.5" width="7.28" height="3.68" />
+                <rect class="cls-5" x="28.9" y="126.3" width="14.6" height="10.03" />
+                <rect class="cls-6" x="30.09" y="30.67" width="75.27" height="62.76" />
+                <line class="cls-7" x1="68.52" y1="30.67" x2="68.52" y2="93.42" />
+                <rect class="cls-8" x="77.27" y="39.37" width="21.73" height="46.3" rx="2" />
+                <rect class="cls-8" x="38.38" y="39.37" width="21.73" height="46.3" rx="2" />
+                <rect class="cls-3" x="109.32" y="30.67" width="11.03" height="4.69" />
+                <rect class="cls-3" x="109.32" y="40.7" width="11.03" height="24.05" />
+                <rect class="cls-3" x="4.16" y="52.73" width="21.43" height="18.74" />
+                <rect class="cls-4" x="7.73" y="65.78" width="14.15" height="3.57" />
+                <rect class="cls-9" x="68.52" y="42.46" width="4.76" height="14.38" />
+                <rect class="cls-9" x="70.03" y="60.88" width="2.23" height="23.74" />
+                <rect class="cls-9" x="64.62" y="60.88" width="2.23" height="23.74" />
+              
+            </g>
+        </g>
+    </g>
+</svg>

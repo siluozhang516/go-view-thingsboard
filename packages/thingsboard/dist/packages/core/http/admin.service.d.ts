@@ -1,0 +1,31 @@
+import { RequestConfig } from './http-utils';
+import { Observable } from 'rxjs';
+import { HttpClient } from '../../angular-http';
+import { AdminSettings, AutoCommitSettings, MailConfigTemplate, FeaturesInfo, JwtSettings, MailServerSettings, RepositorySettings, RepositorySettingsInfo, SecuritySettings, TestSmsRequest, UpdateMessage } from '../../shared/models/settings.models';
+import { LoginResponse } from '../../shared/models/login.models';
+export declare class AdminService {
+    private http;
+    constructor(http: HttpClient);
+    getAdminSettings<T>(key: string, config?: RequestConfig): Observable<AdminSettings<T>>;
+    saveAdminSettings<T>(adminSettings: AdminSettings<T>, config?: RequestConfig): Observable<AdminSettings<T>>;
+    sendTestMail(adminSettings: AdminSettings<MailServerSettings>, config?: RequestConfig): Observable<void>;
+    sendTestSms(testSmsRequest: TestSmsRequest, config?: RequestConfig): Observable<void>;
+    getSecuritySettings(config?: RequestConfig): Observable<SecuritySettings>;
+    saveSecuritySettings(securitySettings: SecuritySettings, config?: RequestConfig): Observable<SecuritySettings>;
+    getJwtSettings(config?: RequestConfig): Observable<JwtSettings>;
+    saveJwtSettings(jwtSettings: JwtSettings, config?: RequestConfig): Observable<LoginResponse>;
+    getRepositorySettings(config?: RequestConfig): Observable<RepositorySettings>;
+    saveRepositorySettings(repositorySettings: RepositorySettings, config?: RequestConfig): Observable<RepositorySettings>;
+    deleteRepositorySettings(config?: RequestConfig): Observable<Object>;
+    checkRepositoryAccess(repositorySettings: RepositorySettings, config?: RequestConfig): Observable<void>;
+    getRepositorySettingsInfo(config?: RequestConfig): Observable<RepositorySettingsInfo>;
+    getAutoCommitSettings(config?: RequestConfig): Observable<AutoCommitSettings>;
+    autoCommitSettingsExists(config?: RequestConfig): Observable<boolean>;
+    saveAutoCommitSettings(autoCommitSettings: AutoCommitSettings, config?: RequestConfig): Observable<AutoCommitSettings>;
+    deleteAutoCommitSettings(config?: RequestConfig): Observable<Object>;
+    checkUpdates(config?: RequestConfig): Observable<UpdateMessage>;
+    getFeaturesInfo(config?: RequestConfig): Observable<FeaturesInfo>;
+    getLoginProcessingUrl(config?: RequestConfig): Observable<string>;
+    generateAccessToken(config?: RequestConfig): Observable<string>;
+    getMailConfigTemplate(config?: RequestConfig): Observable<Array<MailConfigTemplate>>;
+}

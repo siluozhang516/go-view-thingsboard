@@ -1,0 +1,34 @@
+
+
+<svg xmlns:agg="http://www.example.com" xmlns="http://www.w3.org/2000/svg" width="1.2992in" height="1.4792in" viewBox="0 0 332 378">
+
+<path style="fill:#7f7f7f" d="M322,243 l0,125 -250,0 0,-125 250,0z" />
+<path style="fill:#999" d="M307,243 l0,125 -220,0 0,-125 220,0z" />
+<path style="fill:#b2b2b2" d="M280,243 l0,125 -166,0 0,-125 166,0z" />
+<path style="fill:#ccc" d="M255,243 l0,125 -115,0 0,-125 115,0z" />
+<path style="fill:#e5e5e5" d="M234,243 l0,125 -73,0 0,-125 73,0z" />
+<path style="fill:#fff" d="M213,243 l0,125 -31,0 0,-125 31,0z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M72,243 l0,125" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M322,368 l0,-125" />
+<path style="fill:#7f7f7f" d="M72,243 l217,-124 8,14 6,15 6,15 5,16 3,16 3,16 1,16 1,16 -250,0z" />
+<path style="fill:#999" d="M72,243 l204,-117 7,13 6,14 6,15 4,15 3,15 3,15 1,15 1,15 -235,0z" />
+<path style="fill:#b2b2b2" d="M72,243 l181,-104 6,12 6,12 5,13 4,13 3,14 2,13 2,14 0,13 -209,0z" />
+<path style="fill:#ccc" d="M72,243 l158,-91 6,10 5,11 4,11 4,12 2,12 2,11 2,12 0,12 -183,0z" />
+<path style="fill:#e5e5e5" d="M72,243 l140,-80 5,9 4,10 4,10 3,10 3,10 2,10 1,11 0,10 -162,0z" />
+<path style="fill:#fff" d="M72,243 l122,-70 4,8 4,8 3,9 3,9 2,9 2,9 1,9 0,9 -141,0z" />
+<path style="fill:#e5e5e5" d="M72,243 l95,-54 4,6 3,7 2,6 2,7 2,7 1,7 1,7 0,7 -110,0z" />
+<path style="fill:#ccc" d="M72,243 l77,-44 3,5 2,5 2,6 2,5 1,6 1,6 1,5 0,6 -89,0z" />
+<path style="fill:#b2b2b2" d="M72,243 l59,-33 2,4 2,4 1,4 2,4 1,4 0,5 1,4 0,4 -68,0z" />
+<path style="fill:#999" d="M72,243 l37,-20 2,5 2,5 1,5 0,5 -42,0z" />
+<path style="fill:#7f7f7f" d="M72,243 l14,-7 1,2 0,1 1,2 0,2 -16,0z" />
+<path style="fill:#7f7f7f" d="M227,10 l62,108 -217,126 -62,-109 217,-125z" />
+<path style="fill:#999" d="M213,18 l63,108 -190,110 -63,-108 190,-110z" />
+<path style="fill:#b2b2b2" d="M190,31 l63,108 -145,84 -62,-108 144,-84z" />
+<path style="fill:#ccc" d="M168,44 l62,108 -99,58 -63,-108 100,-58z" />
+<path style="fill:#e5e5e5" d="M150,54 l63,108 -64,37 -62,-108 63,-37z" />
+<path style="fill:#fff" d="M132,65 l62,108 -26,16 -63,-109 27,-15z" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M10,135 l62,109" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M289,118 l-62,-108" />
+<path style="fill:none;stroke:#000;stroke-width:2" d="M289,119 l8,14 6,15 6,15 5,16 3,16 3,16 1,16 1,16" />
+
+</svg>

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.03 150">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: url(#未命名的渐变_143);
+            }
+
+            .cls-2 {
+                fill: url(#未命名的渐变_105);
+            }
+
+            .cls-3 {
+                fill: url(#未命名的渐变_143-2);
+            }
+
+            .cls-4 {
+                fill: url(#未命名的渐变_143-3);
+            }
+
+            .cls-5 {
+                fill: url(#未命名的渐变_143-4);
+            }
+
+            .cls-6 {
+                fill: url(#未命名的渐变_143-5);
+            }
+
+            .cls-7 {
+                fill: url(#未命名的渐变_143-6);
+            }
+
+            .cls-8 {
+                fill: url(#未命名的渐变_143-7);
+            }
+
+            .cls-9 {
+                fill: url(#未命名的渐变_105-2);
+            }
+
+            .cls-10 {
+                fill: url(#未命名的渐变_143-8);
+            }
+
+            .cls-11 {
+                fill: url(#未命名的渐变_143-9);
+            }
+
+            .cls-12 {
+                opacity: 0.2;
+            }
+        </style>
+        <linearGradient id="未命名的渐变_143" x1="13.13" y1="26.25" x2="61.45" y2="26.25" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b7b7b7" />
+            <stop offset="0.03" stop-color="#9b9d9d" />
+            <stop offset="0.07" stop-color="#878b8b" />
+            <stop offset="0.09" stop-color="#808484" />
+            <stop offset="0.2" stop-color="#a3a6a6" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.61" stop-color="#f3f3f3" />
+            <stop offset="0.7" stop-color="#eaeaea" />
+            <stop offset="0.77" stop-color="#dbdbdb" />
+            <stop offset="0.83" stop-color="#c5c5c5" />
+            <stop offset="0.9" stop-color="#aaa" />
+            <stop offset="0.95" stop-color="#888" />
+            <stop offset="1" stop-color="#666" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_105" x1="0.11" y1="97.68" x2="74.03" y2="97.68" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e2e2e2" />
+            <stop offset="0.03" stop-color="#d0d0d0" />
+            <stop offset="0.06" stop-color="#bcbcbc" />
+            <stop offset="0.09" stop-color="#b5b5b5" />
+            <stop offset="0.49" stop-color="#f6f6f6" />
+            <stop offset="0.63" stop-color="#f3f3f3" />
+            <stop offset="0.73" stop-color="#eaeaea" />
+            <stop offset="0.82" stop-color="#dbdbdb" />
+            <stop offset="0.9" stop-color="#c6c6c6" />
+            <stop offset="0.97" stop-color="#aaa" />
+            <stop offset="1" stop-color="#9b9b9b" />
+        </linearGradient>
+        <linearGradient id="未命名的渐变_143-2" x1="543.34" y1="557.57" x2="543.34" y2="555.41"
+            gradientTransform="translate(-542.26 -518.19)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-3" x1="543.34" y1="533.46" x2="543.34" y2="531.3"
+            gradientTransform="translate(-518.15 -494.07)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-4" x1="543.34" y1="509.95" x2="543.34" y2="507.43"
+            gradientTransform="translate(-494.46 -470.38)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-5" x1="543.11" y1="486.06" x2="543.11" y2="483.54"
+            gradientTransform="translate(-470.34 -446.72)" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-6" x1="0.11" y1="38.45" x2="74.03" y2="38.45" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-7" x1="0.11" y1="147.84" x2="74.03" y2="147.84" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_105-2" x1="12.76" y1="2.98" x2="61.08" y2="2.98" xlink:href="#未命名的渐变_105" />
+        <linearGradient id="未命名的渐变_143-8" x1="0.11" y1="47.79" x2="74.03" y2="47.79" xlink:href="#未命名的渐变_143" />
+        <linearGradient id="未命名的渐变_143-9" x1="0.11" y1="29.42" x2="74.03" y2="29.42" xlink:href="#未命名的渐变_143" />
+    </defs>
+    <title>Industrial structure（产业结构）</title>
+    <g id="图层_2" data-name="图层 2">
+        <g id="图层_40" data-name="图层 40">
+            <g id="Industrial_structure_产业结构_" data-name="Industrial structure（产业结构）">
+                <rect class="cls-1" x="13.13" y="5.92" width="48.31" height="40.66" />
+                <rect class="cls-2" x="0.11" y="49.67" width="73.92" height="96.01" />
+                <rect class="cls-3" x="-6.75" y="37.23" width="15.65" height="2.16"
+                    transform="translate(39.39 37.23) rotate(90)" />
+                <rect class="cls-4" x="17.36" y="37.23" width="15.65" height="2.16"
+                    transform="translate(63.5 13.12) rotate(90)" />
+                <rect class="cls-5" x="41.05" y="37.05" width="15.65" height="2.52"
+                    transform="translate(87.19 -10.57) rotate(90)" />
+                <rect class="cls-6" x="64.95" y="36.82" width="15.65" height="2.52"
+                    transform="translate(110.85 -34.69) rotate(90)" />
+                <rect class="cls-7" x="0.11" y="37.39" width="73.92" height="2.12" />
+                <rect class="cls-8" x="0.11" y="145.68" width="73.92" height="4.32" />
+                <path class="cls-9" d="M12.76,6H61.08l-2.6-1.23c-14.08-6.65-31.81-6.25-45.37,1Z" />
+                <rect class="cls-10" x="0.11" y="45.91" width="73.92" height="3.76" />
+                <rect class="cls-11" x="0.11" y="28.37" width="73.92" height="2.12" />
+                
+            </g>
+        </g>
+    </g>
+</svg>

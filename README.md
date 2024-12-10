@@ -1,0 +1,2 @@
+# low-code-thingsboard
+一个用Vue3、Vite、TypeScript和Monorepo构建并集成Thingsboard数据订阅功能以及2D组态图的可视化低代码开发平台

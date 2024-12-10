@@ -4,7 +4,14 @@
 
 
 
+
+
+
+
 #### Introduction
+
+
+
 
 **Low Code Thingsboard** 基于开源项目 [go-view](https://gitee.com/dromara/go-view) 进行二次开发，并集成了 [thingsboard](https://thingsboard.io/) 前端核心代码**core** ，可通过配置 **thingsboard** 的账号直接登录实现数据的订阅，并在图表中直接呈现数据。
 
@@ -12,11 +19,23 @@
 
 
 
+
+
+
+
 #### 技术点：
+
+
+
+
 
 - 框架：使用 [Turborepo](https://turbo.build/repo/docs) 搭建的monorepo项目，支持多包共享，采用了 **vite**、**vue3**、**TypeScript** 编写。
 - tingsboard：使用v3.8.0版本，支持 thingsboard 新的数据订阅功能，实现了dashboard内的 **Alias**、**keyFilter**、**Timewindow** 组件。
 - 组态图：增加了对2d组态图的支持，以及组态图设计器。
+
+
+
+
 
 
 

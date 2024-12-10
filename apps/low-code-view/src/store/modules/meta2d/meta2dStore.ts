@@ -32,13 +32,13 @@ export const useMeata2dStore = defineStore({
       },
       {
         dataset:'ZYKT',
-        image:'kt.png',
+        image:'ZYKT.png',
         title:'中央空调',
         json:ZYKTJson
       },
       {
         dataset:'ZLZ',
-        image:'zlz.png',
+        image:'ZLZ.png',
         title:'制冷站',
         json:ZLZJson
       },

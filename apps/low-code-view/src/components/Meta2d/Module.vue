@@ -14,14 +14,17 @@ const pathList = ref<any>([]);
 onMounted(() => {
     nextTick(() => {
         pathList.value = fileJsonPath();
+        const prefix = '/module/';
         setTimeout(() => {
             const moduleBoxItem: any = document.getElementsByClassName("module-box-item");
             pathList.value.forEach(async (item: any, index: number) => {
                 const res:any = await fetchJson(item?.path);
                 item.json = res;
-                item.imagePath = item?.path.replace(".json", ".png");
+                item.imagePath = item?.path;
                 item.document = moduleBoxItem;
-                moduleBoxItem[index].style.backgroundImage = `url(${item.imagePath})`;
+                let path = `src/assets/images/chart/meta/${item.path.replace(new RegExp(`^${prefix}`), '')}`
+                path = path.replace('json','png')
+                moduleBoxItem[index].style.backgroundImage = `url(${path})`;
                 moduleBoxItem[index].style.backgroundSize = `100% 100%`;
             })
         }, 100);

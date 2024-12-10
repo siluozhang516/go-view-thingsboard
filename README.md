@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 ## 简介
 
  Low Code Thingsboard 由 Vue3、Vite、TypeScript和 Monorepo 构建并集成Thingsboard数据订阅功能以及2D组态图的「数据可视化」低代码开发平台
@@ -48,14 +43,15 @@
 
 QQ: 849082187
 
+
+
 ## 截图
 
 <p align="center">
-    <img alt="VbenAdmin Logo" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/RTO.png">
-    <img alt="VbenAdmin Logo" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/LQT.png">
-    <img alt="VbenAdmin Logo" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/zlz.png">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/RTO.png">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/LQT.png">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/zlz.png">
 </p>
-
 
 
 

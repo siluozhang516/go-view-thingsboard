@@ -64,7 +64,7 @@ const renderUserInfo = () => {
       }),
       h('div', null, [
         h('div', null, [
-          h(NText, { depth: 2 }, { default: () => '奔跑的面条' })
+          h(NText, { depth: 2 }, { default: () => 'siluozhang516' })
         ])
       ])
     ]

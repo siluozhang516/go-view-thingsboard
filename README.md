@@ -19,7 +19,6 @@
 
 
 
-
 ## 技术点：
 
 - **最新技术栈**：使用 Vue3/vite 等前端前沿技术开发
@@ -39,20 +38,43 @@
 
 ## 获取帮助
 
--获取thingsboard核心订阅源码以及完整版订阅功能和其他问题咨询请加QQ，备注来源。
+- 获取 **thingsboard核心订阅源码** 以及 **完整版组态图编辑器** 和其他问题咨询请加QQ，备注来源。
 
 QQ: 849082187
 
 
+## 完整版 Low Code Thingsboard
 
-## 截图
+- 完整的thingsboard订阅功能。
+
+- 完整的组态图编辑功能。
+
+- **60** 多种分类、**2000** 多张图形的组态图设计资源。
+
+
+
+## 组态图
+
+- 组态图
 
 <p align="center">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/public/image/background/editor.png">
     <img alt="Meta" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/RTO.png">
     <img alt="Meta" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/LQT.png">
-    <img alt="Meta" width="100%" src="./apps/low-code-view/src/assets/images/chart/meta/zlz.png">
 </p>
 
+- 基础版编辑器
+
+<p align="center">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/public/image/background/editor.png">
+</p>
+
+- 完整版编辑器
+
+<p align="center">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/public/image/background/editor-02.png">
+    <img alt="Meta" width="100%" src="./apps/low-code-view/public/image/background/editor-03.png">
+</p>
 
 
 ## 安装使用

@@ -14935,7 +14935,7 @@
   "desc": "",
   "groups": [],
   "http": "/api/device/data?mock=1",
-  "https": [{ "http": "/api/device/data?mock=1", "times": 0 }],
+  "https": [{ "http": "/api/device/data?mock=1", "httpTimeInterval": 1000000 }],
   "locked": 0,
   "mqttOptions": null,
   "src": "000000000000000000000000",

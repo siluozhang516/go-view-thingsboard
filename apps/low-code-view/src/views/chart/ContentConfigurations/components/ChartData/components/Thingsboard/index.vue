@@ -170,8 +170,8 @@ const timeWindowValue = ref<thingsboard.Timewindow | null>(null)
 const loginStatus = ref(localStorage.getItem('TB-jwt_token'))
 
 const account = reactive({
-  username: 'tenant@thingsboard.org',
-  password: 'tenant'
+  username: '',
+  password: ''
 })
 
 const entity = reactive({

@@ -112,7 +112,7 @@
   <!-- 底部数据展示 -->
   <chart-data-matching-and-show :ajax="true"></chart-data-matching-and-show>
 
-  <Alias ref="aliasRef" @save="onAliasValue" />
+  <FormkitAlias ref="aliasRef" @save="onAliasValue" />
   <KeyFilter ref="keyFilterRef" :condition="condition" @updateRuleCondition="onKeyFilterValue" />
   <Timewindow ref="timeWindowRef" @submit="onTimeWindowValue" @submitDes="onTimewindowDes" />
 
@@ -123,7 +123,7 @@ import { computed, reactive, ref, unref } from 'vue';
 import { useDesignStore } from '@/store/modules/designStore/designStore'
 import { SettingItemBox } from '@/components/Pages/ChartItemSetting'
 import { useTargetData } from '../../../hooks/useTargetData.hook'
-import { Alias, KeyFilter, AlarmConditionType, Timewindow, getPreviewValue, entityFilterOptions, AliasEntityTypeOption, EntityTypeOption, EntityDataKeys } from '@thingsboard/widget'
+import { FormkitAlias, KeyFilter, AlarmConditionType, Timewindow, getPreviewValue, entityFilterOptions, AliasEntityTypeOption, EntityTypeOption, EntityDataKeys } from '@thingsboard/widget'
 import thingsboard, { EntitySubscriptionService, FormValue, PublicParams } from '@thingsboard/core'
 import { useMessage } from 'naive-ui'
 import { CheckmarkCircle } from '@vicons/ionicons5'

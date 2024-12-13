@@ -10,7 +10,7 @@ import { addCollection } from 'iconify-icon'
 import uimIcons from '@iconify/json/json/uim.json'
 import lineMdIcons from '@iconify/json/json/line-md.json'
 import wiIcons from '@iconify/json/json/wi.json'
-
+import { useFormkit } from '@thingsboard/widget'
 
 import '@/assets/font/fontIconSvg.js'
 import '@/assets/font/iconfont.css'
@@ -44,6 +44,9 @@ async function appInit() {
   for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
     app.component(key, component)
   }
+  // formkit配置
+  useFormkit(app)
+
   // 注册全局常用的 naive-ui 组件
   setupNaive(app)
 

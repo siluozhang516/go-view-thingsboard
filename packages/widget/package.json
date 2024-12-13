@@ -17,10 +17,13 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
+    "@formkit/i18n": "^1.6.9",
+    "@formkit/vue": "^1.6.9",
     "@pureadmin/table": "^3.2.1",
     "@thingsboard/core": "workspace:*",
     "dayjs": "^1.11.13",
     "element-plus": "^2.6.1",
+    "formkit-element-plus": "^1.0.17",
     "vue": "^3.4.37"
   },
   "devDependencies": {

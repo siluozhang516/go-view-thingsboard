@@ -155,7 +155,6 @@ export const formConfig = ref<FormItem[]>([
         AliasFilterType.singleEntity,
         AliasFilterType.entityList,
         AliasFilterType.entityType,
-        AliasFilterType.entityType,
         AliasFilterType.stateEntity,
         AliasFilterType.entityName,
       ];

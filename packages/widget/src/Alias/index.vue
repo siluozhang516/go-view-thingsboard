@@ -53,7 +53,6 @@
 <script setup lang="ts">
 import { OperateType } from '../interface'
 import Form from '../components/form.vue'
-import { formConfig } from '../config/alias'
 import { h, reactive, ref, unref } from 'vue';
 import { deepClone } from '../utils'
 import { useColumns, TimeseriesEnum } from "./columns";
@@ -64,7 +63,7 @@ import thingsboard, { EntitySubscriptionService,FormValue } from "@thingsboard/c
 import { ElOption } from "element-plus";
 import attrSvg from '../assets/attribute.svg?url'
 import tsSvg from '../assets/timeseries.svg?url'
-import { EntityDataKeys } from '../config/alias'
+import { EntityDataKeys,formConfig } from './config'
 
 const { DataKeyType } = thingsboard;
 

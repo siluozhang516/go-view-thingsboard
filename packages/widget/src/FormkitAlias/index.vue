@@ -61,7 +61,7 @@ import { useColumns, TimeseriesEnum } from "./columns";
 import { ElOption } from "element-plus";
 import attrSvg from '../assets/attribute.svg?url'
 import tsSvg from '../assets/timeseries.svg?url'
-import { EntityDataKeys } from '../config/alias'
+import { EntityDataKeys } from '../Alias/config'
 import { deepClone } from '../utils'
 import thingsboard, { EntitySubscriptionService, FormValue } from "@thingsboard/core";
 

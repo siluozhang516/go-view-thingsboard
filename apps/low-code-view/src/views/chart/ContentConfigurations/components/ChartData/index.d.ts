@@ -17,7 +17,7 @@ export enum SelectCreateDataEnum {
   STATIC = '静态数据',
   AJAX = '动态请求',
   Pond = '公共接口',
-  Thingsboard = 'Thingsboard',
+  Thingsboard = 'ThingsBoard',
 }
 
 export interface SelectCreateDataType {

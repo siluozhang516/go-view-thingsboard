@@ -15,6 +15,6 @@ export default {
   last_edit: '最后编辑',
   meta2d: '组态图',
   graphicEditor: '图形编辑器',
-  thingsboard: 'Thingsboard',
+  thingsboard: 'ThingsBoard',
   widgetEditor: '部件编辑器',
 }

@@ -1,1 +1,1 @@
-Low Code View
+# GoView ThingsBoard

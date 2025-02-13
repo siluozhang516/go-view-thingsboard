@@ -1,16 +1,16 @@
 <div align="center">
 
-<h1>Low Code Thingsboard</h1>
+<h1>GoView ThingsBoard</h1>
 
 </div>
 
 ## 简介
 
-**Low Code Thingsboard** 由 **Vue3**、**Vite**、**TypeScript** 和 **Monorepo** 构建并集成Thingsboard数据订阅功能以及 **2D组态图** 的「数据可视化」低代码开发平台
+**GoView ThingsBoard** 由 **Vue3**、**Vite**、**TypeScript** 和 **Monorepo** 构建并集成Thingsboard数据订阅功能以及 **2D组态图** 的「数据可视化」低代码开发平台
 
-**Low Code Thingsboard** 基于开源项目 [go-view](https://gitee.com/dromara/go-view) 进行二次开发，并集成了 [thingsboard](https://thingsboard.io/) 前端核心代码**core** ，可通过配置 **thingsboard** 的账号直接登录实现数据的订阅，并在图表中直接呈现数据。
+**GoView ThingsBoard** 基于开源项目 [go-view](https://gitee.com/dromara/go-view) 进行二次开发，并集成了 [thingsboard](https://thingsboard.io/) 前端核心代码**core** ，可通过配置 **thingsboard** 的账号直接登录实现数据的订阅，并在图表中直接呈现数据。
 
-**Low Code Thingsboard** 在 [go-view](https://gitee.com/dromara/go-view) 基础上添加了对 **2d组态图** 的支持，并包含组态图设计器。基于 **tingsboard** 的部件库正在开发中...
+**GoView ThingsBoard** 在 [go-view](https://gitee.com/dromara/go-view) 基础上添加了对 **2d组态图** 的支持，并包含组态图设计器。基于 **tingsboard** 的部件库正在开发中...
 
 ## 技术点：
 
@@ -31,7 +31,7 @@
 
 - QQ: 849082187
 
-## 完整版 Low Code Thingsboard
+## 完整版 GoView ThingsBoard
 
 - 完整的thingsboard订阅功能。
 
@@ -73,7 +73,7 @@ git clone https://github.com/siluozhang516/low-code-thingsboard.git
 - 安装依赖
 
 ```
-cd low-code-thingsboard
+cd go-view-thingsboard
 
 pnpm install
 ```

@@ -263,8 +263,9 @@ onMounted(() => {
     if (json) {
       json.rule = false
       json.locked = LockState.DisableEdit
-      meta2d.open(json as any)
-      meta2d.fitView()
+      meta2d.open(json as any,true)
+      // fitview会造成图形渲染变形问题，暂时不使用
+      // meta2d.fitView()
     }
   } else {
     if (json) {
@@ -293,7 +294,7 @@ onUnmounted(() => {
   if (meta2d) {
     meta2d.off('contextmenu', contextmenu)
     meta2d.off('click', click)
-    meta2d.destroy()
+    // meta2d.destroy()
   }
 })
 /** 右键菜单 */

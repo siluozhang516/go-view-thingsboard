@@ -3,6 +3,7 @@ import RTOJson from '../../../../public/module/RTO.json'
 import LQTJson from '../../../../public/module/LQT.json'
 import ZYKTJson from '../../../../public/module/ZYKT.json'
 import ZLZJson from '../../../../public/module/ZLZ.json'
+import { deepClone } from '@meta2d/core';
 
 export interface Meta2dConfig {
   dataset: string;
@@ -22,25 +23,25 @@ export const useMeata2dStore = defineStore({
         dataset:'RTO',
         image:'RTO.png',
         title:'RTO废气处理',
-        json:RTOJson
+        json:deepClone(RTOJson)
       },
       {
         dataset:'LQT',
         image:'LQT.png',
         title:'冷却塔',
-        json:LQTJson
+        json:deepClone(LQTJson)
       },
       {
         dataset:'ZYKT',
         image:'ZYKT.png',
         title:'中央空调',
-        json:ZYKTJson
+        json:deepClone(ZYKTJson)
       },
       {
         dataset:'ZLZ',
         image:'ZLZ.png',
         title:'制冷站',
-        json:ZLZJson
+        json:deepClone(ZLZJson)
       },
     ]
   }),
